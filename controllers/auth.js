@@ -9,10 +9,10 @@ const device = require('../utils/device');
 // @route     POST /api/v1/auth/register
 // @access    Public
 exports.register = asyncHandler(async (req, res, next) => {
-    const { _ip, _ua, _device } = await device.detect(req)
+    const { _ip, _ip46, _ua, _device } = await device.detect(req)
     const { firstName, lastName, email, password, upi, role } = req.body
     const user = await User.create({
-        firstName, lastName, email, password, upi, role, _ip, _ua, _device
+        firstName, lastName, email, password, upi, role, _ip, _ip46, _ua, _device
     })
     sendTokenResponse(user, 200, res, 'register', 'v1')
 });

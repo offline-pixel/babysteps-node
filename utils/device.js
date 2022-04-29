@@ -2,7 +2,8 @@ const device = {
     detect: function(req) {
         return new Promise((resolve, reject) => {
             try {
-                const _ip = req.socket.remoteAddress
+                const _ipv46 = req.socket.remoteAddress
+                const _ip = req.headers['x-forwarded-for']
                 let _ua = req.headers['user-agent'],
                 _device = {};
                 if (/mobile/i.test(_ua)) {
@@ -25,7 +26,7 @@ const device = {
                 if (/Windows NT/.test(_ua)) {
                     _device.Windows = /Windows NT ([0-9\._]+)[\);]/.exec(_ua)[1];
                 }
-                resolve({ _device, _ua, _ip })
+                resolve({ _device, _ua, _ip, _ipv46 })
             } catch {
                 reject({})
             }
