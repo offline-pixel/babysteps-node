@@ -1,0 +1,2802 @@
+[
+    {
+      "country": "Zimbabwe",
+      "ofs": "The Republic of Zimbabwe",
+      "sovereignty": "UN member state",
+      "a2c": "ZW",
+      "a3c": "ZWE",
+      "nc": "716",
+      "subdivision": "ISO 3166-2:ZW",
+      "ccTLD": ".zw"
+    },
+    {
+      "country": "Zambia",
+      "ofs": "The Republic of Zambia",
+      "sovereignty": "UN member state",
+      "a2c": "ZM",
+      "a3c": "ZMB",
+      "nc": "894",
+      "subdivision": "ISO 3166-2:ZM",
+      "ccTLD": ".zm"
+    },
+    {
+      "country": "South Africa",
+      "ofs": "The Republic of South Africa",
+      "sovereignty": "UN member state",
+      "a2c": "ZA",
+      "a3c": "ZAF",
+      "nc": "710",
+      "subdivision": "ISO 3166-2:ZA",
+      "ccTLD": ".za"
+    },
+    {
+      "country": "Mayotte",
+      "ofs": "The Department of Mayotte",
+      "sovereignty": "France",
+      "a2c": "YT",
+      "a3c": "MYT",
+      "nc": "175",
+      "subdivision": "ISO 3166-2:YT",
+      "ccTLD": ".yt"
+    },
+    {
+      "country": "Yemen",
+      "ofs": "The Republic of Yemen",
+      "sovereignty": "UN member state",
+      "a2c": "YE",
+      "a3c": "YEM",
+      "nc": "887",
+      "subdivision": "ISO 3166-2:YE",
+      "ccTLD": ".ye"
+    },
+    {
+      "country": "Samoa",
+      "ofs": "The Independent State of Samoa",
+      "sovereignty": "UN member state",
+      "a2c": "WS",
+      "a3c": "WSM",
+      "nc": "882",
+      "subdivision": "ISO 3166-2:WS",
+      "ccTLD": ".ws"
+    },
+    {
+      "country": "Wallis and Futuna",
+      "ofs": "The Territory of the Wallis and Futuna Islands",
+      "sovereignty": "France",
+      "a2c": "WF",
+      "a3c": "WLF",
+      "nc": "876",
+      "subdivision": "ISO 3166-2:WF",
+      "ccTLD": ".wf"
+    },
+    {
+      "country": "Wales - See United Kingdom, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Vanuatu",
+      "ofs": "The Republic of Vanuatu",
+      "sovereignty": "UN member state",
+      "a2c": "VU",
+      "a3c": "VUT",
+      "nc": "548",
+      "subdivision": "ISO 3166-2:VU",
+      "ccTLD": ".vu"
+    },
+    {
+      "country": "Viet Nam [ae]",
+      "ofs": "The Socialist Republic of Viet Nam",
+      "sovereignty": "UN member state",
+      "a2c": "VN",
+      "a3c": "VNM",
+      "nc": "704",
+      "subdivision": "ISO 3166-2:VN",
+      "ccTLD": ".vn"
+    },
+    {
+      "country": "Virgin Islands (U.S.) [ag]",
+      "ofs": "The Virgin Islands of the United States",
+      "sovereignty": "United States",
+      "a2c": "VI",
+      "a3c": "VIR",
+      "nc": "850",
+      "subdivision": "ISO 3166-2:VI",
+      "ccTLD": ".vi"
+    },
+    {
+      "country": "Virgin Islands (British) [af]",
+      "ofs": "The Virgin Islands",
+      "sovereignty": "United Kingdom",
+      "a2c": "VG",
+      "a3c": "VGB",
+      "nc": "092",
+      "subdivision": "ISO 3166-2:VG",
+      "ccTLD": ".vg"
+    },
+    {
+      "country": "Venezuela (Bolivarian Republic of)",
+      "ofs": "The Bolivarian Republic of Venezuela",
+      "sovereignty": "UN member state",
+      "a2c": "VE",
+      "a3c": "VEN",
+      "nc": "862",
+      "subdivision": "ISO 3166-2:VE",
+      "ccTLD": ".ve"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "ofs": "Saint Vincent and the Grenadines",
+      "sovereignty": "UN member state",
+      "a2c": "VC",
+      "a3c": "VCT",
+      "nc": "670",
+      "subdivision": "ISO 3166-2:VC",
+      "ccTLD": ".vc"
+    },
+    {
+      "country": "Vatican City - See Holy See, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Holy See (the) [n]",
+      "ofs": "The Holy See",
+      "sovereignty": "UN observer state",
+      "a2c": "VA",
+      "a3c": "VAT",
+      "nc": "336",
+      "subdivision": "ISO 3166-2:VA",
+      "ccTLD": ".va"
+    },
+    {
+      "country": "Uzbekistan",
+      "ofs": "The Republic of Uzbekistan",
+      "sovereignty": "UN member state",
+      "a2c": "UZ",
+      "a3c": "UZB",
+      "nc": "860",
+      "subdivision": "ISO 3166-2:UZ",
+      "ccTLD": ".uz"
+    },
+    {
+      "country": "Uruguay",
+      "ofs": "The Oriental Republic of Uruguay",
+      "sovereignty": "UN member state",
+      "a2c": "UY",
+      "a3c": "URY",
+      "nc": "858",
+      "subdivision": "ISO 3166-2:UY",
+      "ccTLD": ".uy"
+    },
+    {
+      "country": "United States of America (the)",
+      "ofs": "The United States of America",
+      "sovereignty": "UN member state",
+      "a2c": "US",
+      "a3c": "USA",
+      "nc": "840",
+      "subdivision": "ISO 3166-2:US",
+      "ccTLD": ".us"
+    },
+    {
+      "country": "United States Virgin Islands - See Virgin Islands (U.S.).",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "United States Minor Outlying Islands (the) [ac]",
+      "ofs": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",
+      "sovereignty": "United States",
+      "a2c": "UM",
+      "a3c": "UMI",
+      "nc": "581",
+      "subdivision": "ISO 3166-2:UM",
+      "ccTLD": "[ad]"
+    },
+    {
+      "country": "Uganda",
+      "ofs": "The Republic of Uganda",
+      "sovereignty": "UN member state",
+      "a2c": "UG",
+      "a3c": "UGA",
+      "nc": "800",
+      "subdivision": "ISO 3166-2:UG",
+      "ccTLD": ".ug"
+    },
+    {
+      "country": "Ukraine",
+      "ofs": "Ukraine",
+      "sovereignty": "UN member state",
+      "a2c": "UA",
+      "a3c": "UKR",
+      "nc": "804",
+      "subdivision": "ISO 3166-2:UA",
+      "ccTLD": ".ua"
+    },
+    {
+      "country": "Tanzania, the United Republic of",
+      "ofs": "The United Republic of Tanzania",
+      "sovereignty": "UN member state",
+      "a2c": "TZ",
+      "a3c": "TZA",
+      "nc": "834",
+      "subdivision": "ISO 3166-2:TZ",
+      "ccTLD": ".tz"
+    },
+    {
+      "country": "Taiwan (Province of China) [y]",
+      "ofs": "The Republic of China",
+      "sovereignty": "Disputed [z]",
+      "a2c": "TW",
+      "a3c": "TWN",
+      "nc": "158",
+      "subdivision": "ISO 3166-2:TW",
+      "ccTLD": ".tw"
+    },
+    {
+      "country": "Tuvalu",
+      "ofs": "Tuvalu",
+      "sovereignty": "UN member state",
+      "a2c": "TV",
+      "a3c": "TUV",
+      "nc": "798",
+      "subdivision": "ISO 3166-2:TV",
+      "ccTLD": ".tv"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "ofs": "The Republic of Trinidad and Tobago",
+      "sovereignty": "UN member state",
+      "a2c": "TT",
+      "a3c": "TTO",
+      "nc": "780",
+      "subdivision": "ISO 3166-2:TT",
+      "ccTLD": ".tt"
+    },
+    {
+      "country": "Turkey",
+      "ofs": "The Republic of Turkey",
+      "sovereignty": "UN member state",
+      "a2c": "TR",
+      "a3c": "TUR",
+      "nc": "792",
+      "subdivision": "ISO 3166-2:TR",
+      "ccTLD": ".tr"
+    },
+    {
+      "country": "Tonga",
+      "ofs": "The Kingdom of Tonga",
+      "sovereignty": "UN member state",
+      "a2c": "TO",
+      "a3c": "TON",
+      "nc": "776",
+      "subdivision": "ISO 3166-2:TO",
+      "ccTLD": ".to"
+    },
+    {
+      "country": "Tunisia",
+      "ofs": "The Republic of Tunisia",
+      "sovereignty": "UN member state",
+      "a2c": "TN",
+      "a3c": "TUN",
+      "nc": "788",
+      "subdivision": "ISO 3166-2:TN",
+      "ccTLD": ".tn"
+    },
+    {
+      "country": "Turkmenistan",
+      "ofs": "Turkmenistan",
+      "sovereignty": "UN member state",
+      "a2c": "TM",
+      "a3c": "TKM",
+      "nc": "795",
+      "subdivision": "ISO 3166-2:TM",
+      "ccTLD": ".tm"
+    },
+    {
+      "country": "Timor-Leste [aa]",
+      "ofs": "The Democratic Republic of Timor-Leste",
+      "sovereignty": "UN member state",
+      "a2c": "TL",
+      "a3c": "TLS",
+      "nc": "626",
+      "subdivision": "ISO 3166-2:TL",
+      "ccTLD": ".tl"
+    },
+    {
+      "country": "Tokelau",
+      "ofs": "Tokelau",
+      "sovereignty": "New Zealand",
+      "a2c": "TK",
+      "a3c": "TKL",
+      "nc": "772",
+      "subdivision": "ISO 3166-2:TK",
+      "ccTLD": ".tk"
+    },
+    {
+      "country": "Tajikistan",
+      "ofs": "The Republic of Tajikistan",
+      "sovereignty": "UN member state",
+      "a2c": "TJ",
+      "a3c": "TJK",
+      "nc": "762",
+      "subdivision": "ISO 3166-2:TJ",
+      "ccTLD": ".tj"
+    },
+    {
+      "country": "Thailand",
+      "ofs": "The Kingdom of Thailand",
+      "sovereignty": "UN member state",
+      "a2c": "TH",
+      "a3c": "THA",
+      "nc": "764",
+      "subdivision": "ISO 3166-2:TH",
+      "ccTLD": ".th"
+    },
+    {
+      "country": "Togo",
+      "ofs": "The Togolese Republic",
+      "sovereignty": "UN member state",
+      "a2c": "TG",
+      "a3c": "TGO",
+      "nc": "768",
+      "subdivision": "ISO 3166-2:TG",
+      "ccTLD": ".tg"
+    },
+    {
+      "country": "French Southern Territories (the) [m]",
+      "ofs": "The French Southern and Antarctic Lands",
+      "sovereignty": "France",
+      "a2c": "TF",
+      "a3c": "ATF",
+      "nc": "260",
+      "subdivision": "ISO 3166-2:TF",
+      "ccTLD": ".tf"
+    },
+    {
+      "country": "Chad",
+      "ofs": "The Republic of Chad",
+      "sovereignty": "UN member state",
+      "a2c": "TD",
+      "a3c": "TCD",
+      "nc": "148",
+      "subdivision": "ISO 3166-2:TD",
+      "ccTLD": ".td"
+    },
+    {
+      "country": "Turks and Caicos Islands (the)",
+      "ofs": "The Turks and Caicos Islands",
+      "sovereignty": "United Kingdom",
+      "a2c": "TC",
+      "a3c": "TCA",
+      "nc": "796",
+      "subdivision": "ISO 3166-2:TC",
+      "ccTLD": ".tc"
+    },
+    {
+      "country": "Eswatini [j]",
+      "ofs": "The Kingdom of Eswatini",
+      "sovereignty": "UN member state",
+      "a2c": "SZ",
+      "a3c": "SWZ",
+      "nc": "748",
+      "subdivision": "ISO 3166-2:SZ",
+      "ccTLD": ".sz"
+    },
+    {
+      "country": "Syrian Arab Republic (the) [x]",
+      "ofs": "The Syrian Arab Republic",
+      "sovereignty": "UN member state",
+      "a2c": "SY",
+      "a3c": "SYR",
+      "nc": "760",
+      "subdivision": "ISO 3166-2:SY",
+      "ccTLD": ".sy"
+    },
+    {
+      "country": "Sint Maarten (Dutch part)",
+      "ofs": "Sint Maarten",
+      "sovereignty": "Netherlands",
+      "a2c": "SX",
+      "a3c": "SXM",
+      "nc": "534",
+      "subdivision": "ISO 3166-2:SX",
+      "ccTLD": ".sx"
+    },
+    {
+      "country": "El Salvador",
+      "ofs": "The Republic of El Salvador",
+      "sovereignty": "UN member state",
+      "a2c": "SV",
+      "a3c": "SLV",
+      "nc": "222",
+      "subdivision": "ISO 3166-2:SV",
+      "ccTLD": ".sv"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "ofs": "The Democratic Republic of São Tomé and Príncipe",
+      "sovereignty": "UN member state",
+      "a2c": "ST",
+      "a3c": "STP",
+      "nc": "678",
+      "subdivision": "ISO 3166-2:ST",
+      "ccTLD": ".st"
+    },
+    {
+      "country": "South Sudan",
+      "ofs": "The Republic of South Sudan",
+      "sovereignty": "UN member state",
+      "a2c": "SS",
+      "a3c": "SSD",
+      "nc": "728",
+      "subdivision": "ISO 3166-2:SS",
+      "ccTLD": ".ss"
+    },
+    {
+      "country": "Suriname",
+      "ofs": "The Republic of Suriname",
+      "sovereignty": "UN member state",
+      "a2c": "SR",
+      "a3c": "SUR",
+      "nc": "740",
+      "subdivision": "ISO 3166-2:SR",
+      "ccTLD": ".sr"
+    },
+    {
+      "country": "South Korea - See Korea, The Republic of.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Somalia",
+      "ofs": "The Federal Republic of Somalia",
+      "sovereignty": "UN member state",
+      "a2c": "SO",
+      "a3c": "SOM",
+      "nc": "706",
+      "subdivision": "ISO 3166-2:SO",
+      "ccTLD": ".so"
+    },
+    {
+      "country": "Senegal",
+      "ofs": "The Republic of Senegal",
+      "sovereignty": "UN member state",
+      "a2c": "SN",
+      "a3c": "SEN",
+      "nc": "686",
+      "subdivision": "ISO 3166-2:SN",
+      "ccTLD": ".sn"
+    },
+    {
+      "country": "San Marino",
+      "ofs": "The Republic of San Marino",
+      "sovereignty": "UN member state",
+      "a2c": "SM",
+      "a3c": "SMR",
+      "nc": "674",
+      "subdivision": "ISO 3166-2:SM",
+      "ccTLD": ".sm"
+    },
+    {
+      "country": "Sierra Leone",
+      "ofs": "The Republic of Sierra Leone",
+      "sovereignty": "UN member state",
+      "a2c": "SL",
+      "a3c": "SLE",
+      "nc": "694",
+      "subdivision": "ISO 3166-2:SL",
+      "ccTLD": ".sl"
+    },
+    {
+      "country": "Slovakia",
+      "ofs": "The Slovak Republic",
+      "sovereignty": "UN member state",
+      "a2c": "SK",
+      "a3c": "SVK",
+      "nc": "703",
+      "subdivision": "ISO 3166-2:SK",
+      "ccTLD": ".sk"
+    },
+    {
+      "country": "Svalbard\n Jan Mayen",
+      "ofs": "Svalbard and Jan Mayen",
+      "sovereignty": "Norway",
+      "a2c": "SJ",
+      "a3c": "SJM",
+      "nc": "744",
+      "subdivision": "ISO 3166-2:SJ",
+      "ccTLD": "[w]"
+    },
+    {
+      "country": "Sint Eustatius - See Bonaire, Sint Eustatius and Saba.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Slovenia",
+      "ofs": "The Republic of Slovenia",
+      "sovereignty": "UN member state",
+      "a2c": "SI",
+      "a3c": "SVN",
+      "nc": "705",
+      "subdivision": "ISO 3166-2:SI",
+      "ccTLD": ".si"
+    },
+    {
+      "country": "Saint Helena\n Ascension Island\n Tristan da Cunha",
+      "ofs": "Saint Helena, Ascension and Tristan da Cunha",
+      "sovereignty": "United Kingdom",
+      "a2c": "SH",
+      "a3c": "SHN",
+      "nc": "654",
+      "subdivision": "ISO 3166-2:SH",
+      "ccTLD": ".sh"
+    },
+    {
+      "country": "Singapore",
+      "ofs": "The Republic of Singapore",
+      "sovereignty": "UN member state",
+      "a2c": "SG",
+      "a3c": "SGP",
+      "nc": "702",
+      "subdivision": "ISO 3166-2:SG",
+      "ccTLD": ".sg"
+    },
+    {
+      "country": "Sweden",
+      "ofs": "The Kingdom of Sweden",
+      "sovereignty": "UN member state",
+      "a2c": "SE",
+      "a3c": "SWE",
+      "nc": "752",
+      "subdivision": "ISO 3166-2:SE",
+      "ccTLD": ".se"
+    },
+    {
+      "country": "Sudan (the)",
+      "ofs": "The Republic of the Sudan",
+      "sovereignty": "UN member state",
+      "a2c": "SD",
+      "a3c": "SDN",
+      "nc": "729",
+      "subdivision": "ISO 3166-2:SD",
+      "ccTLD": ".sd"
+    },
+    {
+      "country": "Scotland - See United Kingdom, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Seychelles",
+      "ofs": "The Republic of Seychelles",
+      "sovereignty": "UN member state",
+      "a2c": "SC",
+      "a3c": "SYC",
+      "nc": "690",
+      "subdivision": "ISO 3166-2:SC",
+      "ccTLD": ".sc"
+    },
+    {
+      "country": "Solomon Islands",
+      "ofs": "The Solomon Islands",
+      "sovereignty": "UN member state",
+      "a2c": "SB",
+      "a3c": "SLB",
+      "nc": "090",
+      "subdivision": "ISO 3166-2:SB",
+      "ccTLD": ".sb"
+    },
+    {
+      "country": "Sahrawi Arab Democratic Republic - See Western Sahara.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Saba - See Bonaire, Sint Eustatius and Saba.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Saudi Arabia",
+      "ofs": "The Kingdom of Saudi Arabia",
+      "sovereignty": "UN member state",
+      "a2c": "SA",
+      "a3c": "SAU",
+      "nc": "682",
+      "subdivision": "ISO 3166-2:SA",
+      "ccTLD": ".sa"
+    },
+    {
+      "country": "Rwanda",
+      "ofs": "The Republic of Rwanda",
+      "sovereignty": "UN member state",
+      "a2c": "RW",
+      "a3c": "RWA",
+      "nc": "646",
+      "subdivision": "ISO 3166-2:RW",
+      "ccTLD": ".rw"
+    },
+    {
+      "country": "Russian Federation (the) [v]",
+      "ofs": "The Russian Federation",
+      "sovereignty": "UN member state",
+      "a2c": "RU",
+      "a3c": "RUS",
+      "nc": "643",
+      "subdivision": "ISO 3166-2:RU",
+      "ccTLD": ".ru"
+    },
+    {
+      "country": "Serbia",
+      "ofs": "The Republic of Serbia",
+      "sovereignty": "UN member state",
+      "a2c": "RS",
+      "a3c": "SRB",
+      "nc": "688",
+      "subdivision": "ISO 3166-2:RS",
+      "ccTLD": ".rs"
+    },
+    {
+      "country": "Romania",
+      "ofs": "Romania",
+      "sovereignty": "UN member state",
+      "a2c": "RO",
+      "a3c": "ROU",
+      "nc": "642",
+      "subdivision": "ISO 3166-2:RO",
+      "ccTLD": ".ro"
+    },
+    {
+      "country": "Republic of the Congo - See Congo, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Republic of Korea - See Korea, The Republic of.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Republic of China - See Taiwan (Province of China).",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Réunion",
+      "ofs": "Réunion",
+      "sovereignty": "France",
+      "a2c": "RE",
+      "a3c": "REU",
+      "nc": "638",
+      "subdivision": "ISO 3166-2:RE",
+      "ccTLD": ".re"
+    },
+    {
+      "country": "Qatar",
+      "ofs": "The State of Qatar",
+      "sovereignty": "UN member state",
+      "a2c": "QA",
+      "a3c": "QAT",
+      "nc": "634",
+      "subdivision": "ISO 3166-2:QA",
+      "ccTLD": ".qa"
+    },
+    {
+      "country": "Paraguay",
+      "ofs": "The Republic of Paraguay",
+      "sovereignty": "UN member state",
+      "a2c": "PY",
+      "a3c": "PRY",
+      "nc": "600",
+      "subdivision": "ISO 3166-2:PY",
+      "ccTLD": ".py"
+    },
+    {
+      "country": "Palau",
+      "ofs": "The Republic of Palau",
+      "sovereignty": "UN member state",
+      "a2c": "PW",
+      "a3c": "PLW",
+      "nc": "585",
+      "subdivision": "ISO 3166-2:PW",
+      "ccTLD": ".pw"
+    },
+    {
+      "country": "Portugal",
+      "ofs": "The Portuguese Republic",
+      "sovereignty": "UN member state",
+      "a2c": "PT",
+      "a3c": "PRT",
+      "nc": "620",
+      "subdivision": "ISO 3166-2:PT",
+      "ccTLD": ".pt"
+    },
+    {
+      "country": "Palestine, State of",
+      "ofs": "The State of Palestine",
+      "sovereignty": "UN observer state",
+      "a2c": "PS",
+      "a3c": "PSE",
+      "nc": "275",
+      "subdivision": "ISO 3166-2:PS",
+      "ccTLD": ".ps"
+    },
+    {
+      "country": "Puerto Rico",
+      "ofs": "The Commonwealth of Puerto Rico",
+      "sovereignty": "United States",
+      "a2c": "PR",
+      "a3c": "PRI",
+      "nc": "630",
+      "subdivision": "ISO 3166-2:PR",
+      "ccTLD": ".pr"
+    },
+    {
+      "country": "Pitcairn [u]",
+      "ofs": "The Pitcairn, Henderson, Ducie and Oeno Islands",
+      "sovereignty": "United Kingdom",
+      "a2c": "PN",
+      "a3c": "PCN",
+      "nc": "612",
+      "subdivision": "ISO 3166-2:PN",
+      "ccTLD": ".pn"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "ofs": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+      "sovereignty": "France",
+      "a2c": "PM",
+      "a3c": "SPM",
+      "nc": "666",
+      "subdivision": "ISO 3166-2:PM",
+      "ccTLD": ".pm"
+    },
+    {
+      "country": "Poland",
+      "ofs": "The Republic of Poland",
+      "sovereignty": "UN member state",
+      "a2c": "PL",
+      "a3c": "POL",
+      "nc": "616",
+      "subdivision": "ISO 3166-2:PL",
+      "ccTLD": ".pl"
+    },
+    {
+      "country": "Pakistan",
+      "ofs": "The Islamic Republic of Pakistan",
+      "sovereignty": "UN member state",
+      "a2c": "PK",
+      "a3c": "PAK",
+      "nc": "586",
+      "subdivision": "ISO 3166-2:PK",
+      "ccTLD": ".pk"
+    },
+    {
+      "country": "Philippines (the)",
+      "ofs": "The Republic of the Philippines",
+      "sovereignty": "UN member state",
+      "a2c": "PH",
+      "a3c": "PHL",
+      "nc": "608",
+      "subdivision": "ISO 3166-2:PH",
+      "ccTLD": ".ph"
+    },
+    {
+      "country": "Papua New Guinea",
+      "ofs": "The Independent State of Papua New Guinea",
+      "sovereignty": "UN member state",
+      "a2c": "PG",
+      "a3c": "PNG",
+      "nc": "598",
+      "subdivision": "ISO 3166-2:PG",
+      "ccTLD": ".pg"
+    },
+    {
+      "country": "French Polynesia",
+      "ofs": "French Polynesia",
+      "sovereignty": "France",
+      "a2c": "PF",
+      "a3c": "PYF",
+      "nc": "258",
+      "subdivision": "ISO 3166-2:PF",
+      "ccTLD": ".pf"
+    },
+    {
+      "country": "People's Republic of China - See China.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Peru",
+      "ofs": "The Republic of Perú",
+      "sovereignty": "UN member state",
+      "a2c": "PE",
+      "a3c": "PER",
+      "nc": "604",
+      "subdivision": "ISO 3166-2:PE",
+      "ccTLD": ".pe"
+    },
+    {
+      "country": "Panama",
+      "ofs": "The Republic of Panamá",
+      "sovereignty": "UN member state",
+      "a2c": "PA",
+      "a3c": "PAN",
+      "nc": "591",
+      "subdivision": "ISO 3166-2:PA",
+      "ccTLD": ".pa"
+    },
+    {
+      "country": "Oman",
+      "ofs": "The Sultanate of Oman",
+      "sovereignty": "UN member state",
+      "a2c": "OM",
+      "a3c": "OMN",
+      "nc": "512",
+      "subdivision": "ISO 3166-2:OM",
+      "ccTLD": ".om"
+    },
+    {
+      "country": "New Zealand",
+      "ofs": "New Zealand",
+      "sovereignty": "UN member state",
+      "a2c": "NZ",
+      "a3c": "NZL",
+      "nc": "554",
+      "subdivision": "ISO 3166-2:NZ",
+      "ccTLD": ".nz"
+    },
+    {
+      "country": "Niue",
+      "ofs": "Niue",
+      "sovereignty": "New Zealand",
+      "a2c": "NU",
+      "a3c": "NIU",
+      "nc": "570",
+      "subdivision": "ISO 3166-2:NU",
+      "ccTLD": ".nu"
+    },
+    {
+      "country": "Nauru",
+      "ofs": "The Republic of Nauru",
+      "sovereignty": "UN member state",
+      "a2c": "NR",
+      "a3c": "NRU",
+      "nc": "520",
+      "subdivision": "ISO 3166-2:NR",
+      "ccTLD": ".nr"
+    },
+    {
+      "country": "Nepal",
+      "ofs": "The Federal Democratic Republic of Nepal",
+      "sovereignty": "UN member state",
+      "a2c": "NP",
+      "a3c": "NPL",
+      "nc": "524",
+      "subdivision": "ISO 3166-2:NP",
+      "ccTLD": ".np"
+    },
+    {
+      "country": "Northern Ireland - See United Kingdom, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "North Korea - See Korea, The Democratic People's Republic of.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Norway",
+      "ofs": "The Kingdom of Norway",
+      "sovereignty": "UN member state",
+      "a2c": "NO",
+      "a3c": "NOR",
+      "nc": "578",
+      "subdivision": "ISO 3166-2:NO",
+      "ccTLD": ".no"
+    },
+    {
+      "country": "Netherlands (the)",
+      "ofs": "The Kingdom of the Netherlands",
+      "sovereignty": "UN member state",
+      "a2c": "NL",
+      "a3c": "NLD",
+      "nc": "528",
+      "subdivision": "ISO 3166-2:NL",
+      "ccTLD": ".nl"
+    },
+    {
+      "country": "Nicaragua",
+      "ofs": "The Republic of Nicaragua",
+      "sovereignty": "UN member state",
+      "a2c": "NI",
+      "a3c": "NIC",
+      "nc": "558",
+      "subdivision": "ISO 3166-2:NI",
+      "ccTLD": ".ni"
+    },
+    {
+      "country": "Nigeria",
+      "ofs": "The Federal Republic of Nigeria",
+      "sovereignty": "UN member state",
+      "a2c": "NG",
+      "a3c": "NGA",
+      "nc": "566",
+      "subdivision": "ISO 3166-2:NG",
+      "ccTLD": ".ng"
+    },
+    {
+      "country": "Norfolk Island",
+      "ofs": "The Territory of Norfolk Island",
+      "sovereignty": "Australia",
+      "a2c": "NF",
+      "a3c": "NFK",
+      "nc": "574",
+      "subdivision": "ISO 3166-2:NF",
+      "ccTLD": ".nf"
+    },
+    {
+      "country": "Niger (the)",
+      "ofs": "The Republic of the Niger",
+      "sovereignty": "UN member state",
+      "a2c": "NE",
+      "a3c": "NER",
+      "nc": "562",
+      "subdivision": "ISO 3166-2:NE",
+      "ccTLD": ".ne"
+    },
+    {
+      "country": "New Caledonia",
+      "ofs": "New Caledonia",
+      "sovereignty": "France",
+      "a2c": "NC",
+      "a3c": "NCL",
+      "nc": "540",
+      "subdivision": "ISO 3166-2:NC",
+      "ccTLD": ".nc"
+    },
+    {
+      "country": "Namibia",
+      "ofs": "The Republic of Namibia",
+      "sovereignty": "UN member state",
+      "a2c": "NA",
+      "a3c": "NAM",
+      "nc": "516",
+      "subdivision": "ISO 3166-2:NA",
+      "ccTLD": ".na"
+    },
+    {
+      "country": "Mozambique",
+      "ofs": "The Republic of Mozambique",
+      "sovereignty": "UN member state",
+      "a2c": "MZ",
+      "a3c": "MOZ",
+      "nc": "508",
+      "subdivision": "ISO 3166-2:MZ",
+      "ccTLD": ".mz"
+    },
+    {
+      "country": "Malaysia",
+      "ofs": "Malaysia",
+      "sovereignty": "UN member state",
+      "a2c": "MY",
+      "a3c": "MYS",
+      "nc": "458",
+      "subdivision": "ISO 3166-2:MY",
+      "ccTLD": ".my"
+    },
+    {
+      "country": "Mexico",
+      "ofs": "The United Mexican States",
+      "sovereignty": "UN member state",
+      "a2c": "MX",
+      "a3c": "MEX",
+      "nc": "484",
+      "subdivision": "ISO 3166-2:MX",
+      "ccTLD": ".mx"
+    },
+    {
+      "country": "Malawi",
+      "ofs": "The Republic of Malawi",
+      "sovereignty": "UN member state",
+      "a2c": "MW",
+      "a3c": "MWI",
+      "nc": "454",
+      "subdivision": "ISO 3166-2:MW",
+      "ccTLD": ".mw"
+    },
+    {
+      "country": "Maldives",
+      "ofs": "The Republic of Maldives",
+      "sovereignty": "UN member state",
+      "a2c": "MV",
+      "a3c": "MDV",
+      "nc": "462",
+      "subdivision": "ISO 3166-2:MV",
+      "ccTLD": ".mv"
+    },
+    {
+      "country": "Mauritius",
+      "ofs": "The Republic of Mauritius",
+      "sovereignty": "UN member state",
+      "a2c": "MU",
+      "a3c": "MUS",
+      "nc": "480",
+      "subdivision": "ISO 3166-2:MU",
+      "ccTLD": ".mu"
+    },
+    {
+      "country": "Malta",
+      "ofs": "The Republic of Malta",
+      "sovereignty": "UN member state",
+      "a2c": "MT",
+      "a3c": "MLT",
+      "nc": "470",
+      "subdivision": "ISO 3166-2:MT",
+      "ccTLD": ".mt"
+    },
+    {
+      "country": "Montserrat",
+      "ofs": "Montserrat",
+      "sovereignty": "United Kingdom",
+      "a2c": "MS",
+      "a3c": "MSR",
+      "nc": "500",
+      "subdivision": "ISO 3166-2:MS",
+      "ccTLD": ".ms"
+    },
+    {
+      "country": "Mauritania",
+      "ofs": "The Islamic Republic of Mauritania",
+      "sovereignty": "UN member state",
+      "a2c": "MR",
+      "a3c": "MRT",
+      "nc": "478",
+      "subdivision": "ISO 3166-2:MR",
+      "ccTLD": ".mr"
+    },
+    {
+      "country": "Martinique",
+      "ofs": "Martinique",
+      "sovereignty": "France",
+      "a2c": "MQ",
+      "a3c": "MTQ",
+      "nc": "474",
+      "subdivision": "ISO 3166-2:MQ",
+      "ccTLD": ".mq"
+    },
+    {
+      "country": "Northern Mariana Islands (the)",
+      "ofs": "The Commonwealth of the Northern Mariana Islands",
+      "sovereignty": "United States",
+      "a2c": "MP",
+      "a3c": "MNP",
+      "nc": "580",
+      "subdivision": "ISO 3166-2:MP",
+      "ccTLD": ".mp"
+    },
+    {
+      "country": "Macao [r]",
+      "ofs": "The Macao Special Administrative Region of China[11]",
+      "sovereignty": "China",
+      "a2c": "MO",
+      "a3c": "MAC",
+      "nc": "446",
+      "subdivision": "ISO 3166-2:MO",
+      "ccTLD": ".mo"
+    },
+    {
+      "country": "Mongolia",
+      "ofs": "Mongolia",
+      "sovereignty": "UN member state",
+      "a2c": "MN",
+      "a3c": "MNG",
+      "nc": "496",
+      "subdivision": "ISO 3166-2:MN",
+      "ccTLD": ".mn"
+    },
+    {
+      "country": "Myanmar [t]",
+      "ofs": "The Republic of the Union of Myanmar",
+      "sovereignty": "UN member state",
+      "a2c": "MM",
+      "a3c": "MMR",
+      "nc": "104",
+      "subdivision": "ISO 3166-2:MM",
+      "ccTLD": ".mm"
+    },
+    {
+      "country": "Mali",
+      "ofs": "The Republic of Mali",
+      "sovereignty": "UN member state",
+      "a2c": "ML",
+      "a3c": "MLI",
+      "nc": "466",
+      "subdivision": "ISO 3166-2:ML",
+      "ccTLD": ".ml"
+    },
+    {
+      "country": "North Macedonia [s]",
+      "ofs": "The Republic of North Macedonia[12]",
+      "sovereignty": "UN member state",
+      "a2c": "MK",
+      "a3c": "MKD",
+      "nc": "807",
+      "subdivision": "ISO 3166-2:MK",
+      "ccTLD": ".mk"
+    },
+    {
+      "country": "Marshall Islands (the)",
+      "ofs": "The Republic of the Marshall Islands",
+      "sovereignty": "UN member state",
+      "a2c": "MH",
+      "a3c": "MHL",
+      "nc": "584",
+      "subdivision": "ISO 3166-2:MH",
+      "ccTLD": ".mh"
+    },
+    {
+      "country": "Madagascar",
+      "ofs": "The Republic of Madagascar",
+      "sovereignty": "UN member state",
+      "a2c": "MG",
+      "a3c": "MDG",
+      "nc": "450",
+      "subdivision": "ISO 3166-2:MG",
+      "ccTLD": ".mg"
+    },
+    {
+      "country": "Saint Martin (French part)",
+      "ofs": "The Collectivity of Saint-Martin",
+      "sovereignty": "France",
+      "a2c": "MF",
+      "a3c": "MAF",
+      "nc": "663",
+      "subdivision": "ISO 3166-2:MF",
+      "ccTLD": ".mf"
+    },
+    {
+      "country": "Montenegro",
+      "ofs": "Montenegro",
+      "sovereignty": "UN member state",
+      "a2c": "ME",
+      "a3c": "MNE",
+      "nc": "499",
+      "subdivision": "ISO 3166-2:ME",
+      "ccTLD": ".me"
+    },
+    {
+      "country": "Moldova (the Republic of)",
+      "ofs": "The Republic of Moldova",
+      "sovereignty": "UN member state",
+      "a2c": "MD",
+      "a3c": "MDA",
+      "nc": "498",
+      "subdivision": "ISO 3166-2:MD",
+      "ccTLD": ".md"
+    },
+    {
+      "country": "Monaco",
+      "ofs": "The Principality of Monaco",
+      "sovereignty": "UN member state",
+      "a2c": "MC",
+      "a3c": "MCO",
+      "nc": "492",
+      "subdivision": "ISO 3166-2:MC",
+      "ccTLD": ".mc"
+    },
+    {
+      "country": "Morocco",
+      "ofs": "The Kingdom of Morocco",
+      "sovereignty": "UN member state",
+      "a2c": "MA",
+      "a3c": "MAR",
+      "nc": "504",
+      "subdivision": "ISO 3166-2:MA",
+      "ccTLD": ".ma"
+    },
+    {
+      "country": "Libya",
+      "ofs": "The State of Libya",
+      "sovereignty": "UN member state",
+      "a2c": "LY",
+      "a3c": "LBY",
+      "nc": "434",
+      "subdivision": "ISO 3166-2:LY",
+      "ccTLD": ".ly"
+    },
+    {
+      "country": "Latvia",
+      "ofs": "The Republic of Latvia",
+      "sovereignty": "UN member state",
+      "a2c": "LV",
+      "a3c": "LVA",
+      "nc": "428",
+      "subdivision": "ISO 3166-2:LV",
+      "ccTLD": ".lv"
+    },
+    {
+      "country": "Luxembourg",
+      "ofs": "The Grand Duchy of Luxembourg",
+      "sovereignty": "UN member state",
+      "a2c": "LU",
+      "a3c": "LUX",
+      "nc": "442",
+      "subdivision": "ISO 3166-2:LU",
+      "ccTLD": ".lu"
+    },
+    {
+      "country": "Lithuania",
+      "ofs": "The Republic of Lithuania",
+      "sovereignty": "UN member state",
+      "a2c": "LT",
+      "a3c": "LTU",
+      "nc": "440",
+      "subdivision": "ISO 3166-2:LT",
+      "ccTLD": ".lt"
+    },
+    {
+      "country": "Lesotho",
+      "ofs": "The Kingdom of Lesotho",
+      "sovereignty": "UN member state",
+      "a2c": "LS",
+      "a3c": "LSO",
+      "nc": "426",
+      "subdivision": "ISO 3166-2:LS",
+      "ccTLD": ".ls"
+    },
+    {
+      "country": "Liberia",
+      "ofs": "The Republic of Liberia",
+      "sovereignty": "UN member state",
+      "a2c": "LR",
+      "a3c": "LBR",
+      "nc": "430",
+      "subdivision": "ISO 3166-2:LR",
+      "ccTLD": ".lr"
+    },
+    {
+      "country": "Sri Lanka",
+      "ofs": "The Democratic Socialist Republic of Sri Lanka",
+      "sovereignty": "UN member state",
+      "a2c": "LK",
+      "a3c": "LKA",
+      "nc": "144",
+      "subdivision": "ISO 3166-2:LK",
+      "ccTLD": ".lk"
+    },
+    {
+      "country": "Liechtenstein",
+      "ofs": "The Principality of Liechtenstein",
+      "sovereignty": "UN member state",
+      "a2c": "LI",
+      "a3c": "LIE",
+      "nc": "438",
+      "subdivision": "ISO 3166-2:LI",
+      "ccTLD": ".li"
+    },
+    {
+      "country": "Saint Lucia",
+      "ofs": "Saint Lucia",
+      "sovereignty": "UN member state",
+      "a2c": "LC",
+      "a3c": "LCA",
+      "nc": "662",
+      "subdivision": "ISO 3166-2:LC",
+      "ccTLD": ".lc"
+    },
+    {
+      "country": "Lebanon",
+      "ofs": "The Lebanese Republic",
+      "sovereignty": "UN member state",
+      "a2c": "LB",
+      "a3c": "LBN",
+      "nc": "422",
+      "subdivision": "ISO 3166-2:LB",
+      "ccTLD": ".lb"
+    },
+    {
+      "country": "Lao People's Democratic Republic (the) [q]",
+      "ofs": "The Lao People's Democratic Republic",
+      "sovereignty": "UN member state",
+      "a2c": "LA",
+      "a3c": "LAO",
+      "nc": "418",
+      "subdivision": "ISO 3166-2:LA",
+      "ccTLD": ".la"
+    },
+    {
+      "country": "Kazakhstan",
+      "ofs": "The Republic of Kazakhstan",
+      "sovereignty": "UN member state",
+      "a2c": "KZ",
+      "a3c": "KAZ",
+      "nc": "398",
+      "subdivision": "ISO 3166-2:KZ",
+      "ccTLD": ".kz"
+    },
+    {
+      "country": "Cayman Islands (the)",
+      "ofs": "The Cayman Islands",
+      "sovereignty": "United Kingdom",
+      "a2c": "KY",
+      "a3c": "CYM",
+      "nc": "136",
+      "subdivision": "ISO 3166-2:KY",
+      "ccTLD": ".ky"
+    },
+    {
+      "country": "Kuwait",
+      "ofs": "The State of Kuwait",
+      "sovereignty": "UN member state",
+      "a2c": "KW",
+      "a3c": "KWT",
+      "nc": "414",
+      "subdivision": "ISO 3166-2:KW",
+      "ccTLD": ".kw"
+    },
+    {
+      "country": "Korea (the Republic of) [p]",
+      "ofs": "The Republic of Korea",
+      "sovereignty": "UN member state",
+      "a2c": "KR",
+      "a3c": "KOR",
+      "nc": "410",
+      "subdivision": "ISO 3166-2:KR",
+      "ccTLD": ".kr"
+    },
+    {
+      "country": "Korea (the Democratic People's Republic of) [o]",
+      "ofs": "The Democratic People's Republic of Korea",
+      "sovereignty": "UN member state",
+      "a2c": "KP",
+      "a3c": "PRK",
+      "nc": "408",
+      "subdivision": "ISO 3166-2:KP",
+      "ccTLD": ".kp"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "ofs": "Saint Kitts and Nevis",
+      "sovereignty": "UN member state",
+      "a2c": "KN",
+      "a3c": "KNA",
+      "nc": "659",
+      "subdivision": "ISO 3166-2:KN",
+      "ccTLD": ".kn"
+    },
+    {
+      "country": "Comoros (the)",
+      "ofs": "The Union of the Comoros",
+      "sovereignty": "UN member state",
+      "a2c": "KM",
+      "a3c": "COM",
+      "nc": "174",
+      "subdivision": "ISO 3166-2:KM",
+      "ccTLD": ".km"
+    },
+    {
+      "country": "Kiribati",
+      "ofs": "The Republic of Kiribati",
+      "sovereignty": "UN member state",
+      "a2c": "KI",
+      "a3c": "KIR",
+      "nc": "296",
+      "subdivision": "ISO 3166-2:KI",
+      "ccTLD": ".ki"
+    },
+    {
+      "country": "Cambodia",
+      "ofs": "The Kingdom of Cambodia",
+      "sovereignty": "UN member state",
+      "a2c": "KH",
+      "a3c": "KHM",
+      "nc": "116",
+      "subdivision": "ISO 3166-2:KH",
+      "ccTLD": ".kh"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "ofs": "The Kyrgyz Republic",
+      "sovereignty": "UN member state",
+      "a2c": "KG",
+      "a3c": "KGZ",
+      "nc": "417",
+      "subdivision": "ISO 3166-2:KG",
+      "ccTLD": ".kg"
+    },
+    {
+      "country": "Kenya",
+      "ofs": "The Republic of Kenya",
+      "sovereignty": "UN member state",
+      "a2c": "KE",
+      "a3c": "KEN",
+      "nc": "404",
+      "subdivision": "ISO 3166-2:KE",
+      "ccTLD": ".ke"
+    },
+    {
+      "country": "Japan",
+      "ofs": "Japan",
+      "sovereignty": "UN member state",
+      "a2c": "JP",
+      "a3c": "JPN",
+      "nc": "392",
+      "subdivision": "ISO 3166-2:JP",
+      "ccTLD": ".jp"
+    },
+    {
+      "country": "Jordan",
+      "ofs": "The Hashemite Kingdom of Jordan",
+      "sovereignty": "UN member state",
+      "a2c": "JO",
+      "a3c": "JOR",
+      "nc": "400",
+      "subdivision": "ISO 3166-2:JO",
+      "ccTLD": ".jo"
+    },
+    {
+      "country": "Jamaica",
+      "ofs": "Jamaica",
+      "sovereignty": "UN member state",
+      "a2c": "JM",
+      "a3c": "JAM",
+      "nc": "388",
+      "subdivision": "ISO 3166-2:JM",
+      "ccTLD": ".jm"
+    },
+    {
+      "country": "Jersey",
+      "ofs": "The Bailiwick of Jersey",
+      "sovereignty": "British Crown",
+      "a2c": "JE",
+      "a3c": "JEY",
+      "nc": "832",
+      "subdivision": "ISO 3166-2:JE",
+      "ccTLD": ".je"
+    },
+    {
+      "country": "Jan Mayen - See Svalbard and Jan Mayen.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Ivory Coast - See Côte d'Ivoire.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Italy",
+      "ofs": "The Italian Republic",
+      "sovereignty": "UN member state",
+      "a2c": "IT",
+      "a3c": "ITA",
+      "nc": "380",
+      "subdivision": "ISO 3166-2:IT",
+      "ccTLD": ".it"
+    },
+    {
+      "country": "Iceland",
+      "ofs": "Iceland",
+      "sovereignty": "UN member state",
+      "a2c": "IS",
+      "a3c": "ISL",
+      "nc": "352",
+      "subdivision": "ISO 3166-2:IS",
+      "ccTLD": ".is"
+    },
+    {
+      "country": "Iran (Islamic Republic of)",
+      "ofs": "The Islamic Republic of Iran",
+      "sovereignty": "UN member state",
+      "a2c": "IR",
+      "a3c": "IRN",
+      "nc": "364",
+      "subdivision": "ISO 3166-2:IR",
+      "ccTLD": ".ir"
+    },
+    {
+      "country": "Iraq",
+      "ofs": "The Republic of Iraq",
+      "sovereignty": "UN member state",
+      "a2c": "IQ",
+      "a3c": "IRQ",
+      "nc": "368",
+      "subdivision": "ISO 3166-2:IQ",
+      "ccTLD": ".iq"
+    },
+    {
+      "country": "British Indian Ocean Territory (the)",
+      "ofs": "The British Indian Ocean Territory",
+      "sovereignty": "United Kingdom",
+      "a2c": "IO",
+      "a3c": "IOT",
+      "nc": "086",
+      "subdivision": "ISO 3166-2:IO",
+      "ccTLD": ".io"
+    },
+    {
+      "country": "India",
+      "ofs": "The Republic of India",
+      "sovereignty": "UN member state",
+      "a2c": "IN",
+      "a3c": "IND",
+      "nc": "356",
+      "subdivision": "ISO 3166-2:IN",
+      "ccTLD": ".in"
+    },
+    {
+      "country": "Isle of Man",
+      "ofs": "The Isle of Man",
+      "sovereignty": "British Crown",
+      "a2c": "IM",
+      "a3c": "IMN",
+      "nc": "833",
+      "subdivision": "ISO 3166-2:IM",
+      "ccTLD": ".im"
+    },
+    {
+      "country": "Israel",
+      "ofs": "The State of Israel",
+      "sovereignty": "UN member state",
+      "a2c": "IL",
+      "a3c": "ISR",
+      "nc": "376",
+      "subdivision": "ISO 3166-2:IL",
+      "ccTLD": ".il"
+    },
+    {
+      "country": "Ireland",
+      "ofs": "Ireland",
+      "sovereignty": "UN member state",
+      "a2c": "IE",
+      "a3c": "IRL",
+      "nc": "372",
+      "subdivision": "ISO 3166-2:IE",
+      "ccTLD": ".ie"
+    },
+    {
+      "country": "Indonesia",
+      "ofs": "The Republic of Indonesia",
+      "sovereignty": "UN member state",
+      "a2c": "ID",
+      "a3c": "IDN",
+      "nc": "360",
+      "subdivision": "ISO 3166-2:ID",
+      "ccTLD": ".id"
+    },
+    {
+      "country": "Hungary",
+      "ofs": "Hungary",
+      "sovereignty": "UN member state",
+      "a2c": "HU",
+      "a3c": "HUN",
+      "nc": "348",
+      "subdivision": "ISO 3166-2:HU",
+      "ccTLD": ".hu"
+    },
+    {
+      "country": "Haiti",
+      "ofs": "The Republic of Haiti",
+      "sovereignty": "UN member state",
+      "a2c": "HT",
+      "a3c": "HTI",
+      "nc": "332",
+      "subdivision": "ISO 3166-2:HT",
+      "ccTLD": ".ht"
+    },
+    {
+      "country": "Croatia",
+      "ofs": "The Republic of Croatia",
+      "sovereignty": "UN member state",
+      "a2c": "HR",
+      "a3c": "HRV",
+      "nc": "191",
+      "subdivision": "ISO 3166-2:HR",
+      "ccTLD": ".hr"
+    },
+    {
+      "country": "Honduras",
+      "ofs": "The Republic of Honduras",
+      "sovereignty": "UN member state",
+      "a2c": "HN",
+      "a3c": "HND",
+      "nc": "340",
+      "subdivision": "ISO 3166-2:HN",
+      "ccTLD": ".hn"
+    },
+    {
+      "country": "Heard Island and McDonald Islands",
+      "ofs": "The Territory of Heard Island and McDonald Islands",
+      "sovereignty": "Australia",
+      "a2c": "HM",
+      "a3c": "HMD",
+      "nc": "334",
+      "subdivision": "ISO 3166-2:HM",
+      "ccTLD": ".hm"
+    },
+    {
+      "country": "Hong Kong",
+      "ofs": "The Hong Kong Special Administrative Region of China[10]",
+      "sovereignty": "China",
+      "a2c": "HK",
+      "a3c": "HKG",
+      "nc": "344",
+      "subdivision": "ISO 3166-2:HK",
+      "ccTLD": ".hk"
+    },
+    {
+      "country": "Hawaiian Islands - See United States of America, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Guyana",
+      "ofs": "The Co-operative Republic of Guyana",
+      "sovereignty": "UN member state",
+      "a2c": "GY",
+      "a3c": "GUY",
+      "nc": "328",
+      "subdivision": "ISO 3166-2:GY",
+      "ccTLD": ".gy"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "ofs": "The Republic of Guinea-Bissau",
+      "sovereignty": "UN member state",
+      "a2c": "GW",
+      "a3c": "GNB",
+      "nc": "624",
+      "subdivision": "ISO 3166-2:GW",
+      "ccTLD": ".gw"
+    },
+    {
+      "country": "Guam",
+      "ofs": "The Territory of Guam",
+      "sovereignty": "United States",
+      "a2c": "GU",
+      "a3c": "GUM",
+      "nc": "316",
+      "subdivision": "ISO 3166-2:GU",
+      "ccTLD": ".gu"
+    },
+    {
+      "country": "Guatemala",
+      "ofs": "The Republic of Guatemala",
+      "sovereignty": "UN member state",
+      "a2c": "GT",
+      "a3c": "GTM",
+      "nc": "320",
+      "subdivision": "ISO 3166-2:GT",
+      "ccTLD": ".gt"
+    },
+    {
+      "country": "South Georgia and the South Sandwich Islands",
+      "ofs": "South Georgia and the South Sandwich Islands",
+      "sovereignty": "United Kingdom",
+      "a2c": "GS",
+      "a3c": "SGS",
+      "nc": "239",
+      "subdivision": "ISO 3166-2:GS",
+      "ccTLD": ".gs"
+    },
+    {
+      "country": "Great Britain - See United Kingdom, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Greece",
+      "ofs": "The Hellenic Republic",
+      "sovereignty": "UN member state",
+      "a2c": "GR",
+      "a3c": "GRC",
+      "nc": "300",
+      "subdivision": "ISO 3166-2:GR",
+      "ccTLD": ".gr"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "ofs": "The Republic of Equatorial Guinea",
+      "sovereignty": "UN member state",
+      "a2c": "GQ",
+      "a3c": "GNQ",
+      "nc": "226",
+      "subdivision": "ISO 3166-2:GQ",
+      "ccTLD": ".gq"
+    },
+    {
+      "country": "Guadeloupe",
+      "ofs": "Guadeloupe",
+      "sovereignty": "France",
+      "a2c": "GP",
+      "a3c": "GLP",
+      "nc": "312",
+      "subdivision": "ISO 3166-2:GP",
+      "ccTLD": ".gp"
+    },
+    {
+      "country": "Guinea",
+      "ofs": "The Republic of Guinea",
+      "sovereignty": "UN member state",
+      "a2c": "GN",
+      "a3c": "GIN",
+      "nc": "324",
+      "subdivision": "ISO 3166-2:GN",
+      "ccTLD": ".gn"
+    },
+    {
+      "country": "Gambia (the)",
+      "ofs": "The Republic of The Gambia",
+      "sovereignty": "UN member state",
+      "a2c": "GM",
+      "a3c": "GMB",
+      "nc": "270",
+      "subdivision": "ISO 3166-2:GM",
+      "ccTLD": ".gm"
+    },
+    {
+      "country": "Greenland",
+      "ofs": "Kalaallit Nunaat",
+      "sovereignty": "Denmark",
+      "a2c": "GL",
+      "a3c": "GRL",
+      "nc": "304",
+      "subdivision": "ISO 3166-2:GL",
+      "ccTLD": ".gl"
+    },
+    {
+      "country": "Gibraltar",
+      "ofs": "Gibraltar",
+      "sovereignty": "United Kingdom",
+      "a2c": "GI",
+      "a3c": "GIB",
+      "nc": "292",
+      "subdivision": "ISO 3166-2:GI",
+      "ccTLD": ".gi"
+    },
+    {
+      "country": "Ghana",
+      "ofs": "The Republic of Ghana",
+      "sovereignty": "UN member state",
+      "a2c": "GH",
+      "a3c": "GHA",
+      "nc": "288",
+      "subdivision": "ISO 3166-2:GH",
+      "ccTLD": ".gh"
+    },
+    {
+      "country": "Guernsey",
+      "ofs": "The Bailiwick of Guernsey",
+      "sovereignty": "British Crown",
+      "a2c": "GG",
+      "a3c": "GGY",
+      "nc": "831",
+      "subdivision": "ISO 3166-2:GG",
+      "ccTLD": ".gg"
+    },
+    {
+      "country": "French Guiana",
+      "ofs": "Guyane",
+      "sovereignty": "France",
+      "a2c": "GF",
+      "a3c": "GUF",
+      "nc": "254",
+      "subdivision": "ISO 3166-2:GF",
+      "ccTLD": ".gf"
+    },
+    {
+      "country": "Georgia",
+      "ofs": "Georgia",
+      "sovereignty": "UN member state",
+      "a2c": "GE",
+      "a3c": "GEO",
+      "nc": "268",
+      "subdivision": "ISO 3166-2:GE",
+      "ccTLD": ".ge"
+    },
+    {
+      "country": "Grenada",
+      "ofs": "Grenada",
+      "sovereignty": "UN member state",
+      "a2c": "GD",
+      "a3c": "GRD",
+      "nc": "308",
+      "subdivision": "ISO 3166-2:GD",
+      "ccTLD": ".gd"
+    },
+    {
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "ofs": "The United Kingdom of Great Britain and Northern Ireland",
+      "sovereignty": "UN member state",
+      "a2c": "GB",
+      "a3c": "GBR",
+      "nc": "826",
+      "subdivision": "ISO 3166-2:GB",
+      "ccTLD": ".gb .uk [ab]"
+    },
+    {
+      "country": "Gabon",
+      "ofs": "The Gabonese Republic",
+      "sovereignty": "UN member state",
+      "a2c": "GA",
+      "a3c": "GAB",
+      "nc": "266",
+      "subdivision": "ISO 3166-2:GA",
+      "ccTLD": ".ga"
+    },
+    {
+      "country": "France [l]",
+      "ofs": "The French Republic",
+      "sovereignty": "UN member state",
+      "a2c": "FR",
+      "a3c": "FRA",
+      "nc": "250",
+      "subdivision": "ISO 3166-2:FR",
+      "ccTLD": ".fr"
+    },
+    {
+      "country": "Faroe Islands (the)",
+      "ofs": "The Faroe Islands",
+      "sovereignty": "Denmark",
+      "a2c": "FO",
+      "a3c": "FRO",
+      "nc": "234",
+      "subdivision": "ISO 3166-2:FO",
+      "ccTLD": ".fo"
+    },
+    {
+      "country": "Micronesia (Federated States of)",
+      "ofs": "The Federated States of Micronesia",
+      "sovereignty": "UN member state",
+      "a2c": "FM",
+      "a3c": "FSM",
+      "nc": "583",
+      "subdivision": "ISO 3166-2:FM",
+      "ccTLD": ".fm"
+    },
+    {
+      "country": "Falkland Islands (the) [Malvinas] [k]",
+      "ofs": "The Falkland Islands",
+      "sovereignty": "United Kingdom",
+      "a2c": "FK",
+      "a3c": "FLK",
+      "nc": "238",
+      "subdivision": "ISO 3166-2:FK",
+      "ccTLD": ".fk"
+    },
+    {
+      "country": "Fiji",
+      "ofs": "The Republic of Fiji",
+      "sovereignty": "UN member state",
+      "a2c": "FJ",
+      "a3c": "FJI",
+      "nc": "242",
+      "subdivision": "ISO 3166-2:FJ",
+      "ccTLD": ".fj"
+    },
+    {
+      "country": "Finland",
+      "ofs": "The Republic of Finland",
+      "sovereignty": "UN member state",
+      "a2c": "FI",
+      "a3c": "FIN",
+      "nc": "246",
+      "subdivision": "ISO 3166-2:FI",
+      "ccTLD": ".fi"
+    },
+    {
+      "country": "Ethiopia",
+      "ofs": "The Federal Democratic Republic of Ethiopia",
+      "sovereignty": "UN member state",
+      "a2c": "ET",
+      "a3c": "ETH",
+      "nc": "231",
+      "subdivision": "ISO 3166-2:ET",
+      "ccTLD": ".et"
+    },
+    {
+      "country": "Spain",
+      "ofs": "The Kingdom of Spain",
+      "sovereignty": "UN member state",
+      "a2c": "ES",
+      "a3c": "ESP",
+      "nc": "724",
+      "subdivision": "ISO 3166-2:ES",
+      "ccTLD": ".es"
+    },
+    {
+      "country": "Eritrea",
+      "ofs": "The State of Eritrea",
+      "sovereignty": "UN member state",
+      "a2c": "ER",
+      "a3c": "ERI",
+      "nc": "232",
+      "subdivision": "ISO 3166-2:ER",
+      "ccTLD": ".er"
+    },
+    {
+      "country": "England - See United Kingdom, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Western Sahara [ah]",
+      "ofs": "The Sahrawi Arab Democratic Republic",
+      "sovereignty": "Disputed [ai]",
+      "a2c": "EH",
+      "a3c": "ESH",
+      "nc": "732",
+      "subdivision": "ISO 3166-2:EH",
+      "ccTLD": "[aj]"
+    },
+    {
+      "country": "Egypt",
+      "ofs": "The Arab Republic of Egypt",
+      "sovereignty": "UN member state",
+      "a2c": "EG",
+      "a3c": "EGY",
+      "nc": "818",
+      "subdivision": "ISO 3166-2:EG",
+      "ccTLD": ".eg"
+    },
+    {
+      "country": "Estonia",
+      "ofs": "The Republic of Estonia",
+      "sovereignty": "UN member state",
+      "a2c": "EE",
+      "a3c": "EST",
+      "nc": "233",
+      "subdivision": "ISO 3166-2:EE",
+      "ccTLD": ".ee"
+    },
+    {
+      "country": "Ecuador",
+      "ofs": "The Republic of Ecuador",
+      "sovereignty": "UN member state",
+      "a2c": "EC",
+      "a3c": "ECU",
+      "nc": "218",
+      "subdivision": "ISO 3166-2:EC",
+      "ccTLD": ".ec"
+    },
+    {
+      "country": "East Timor - See Timor-Leste.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Algeria",
+      "ofs": "The People's Democratic Republic of Algeria",
+      "sovereignty": "UN member state",
+      "a2c": "DZ",
+      "a3c": "DZA",
+      "nc": "012",
+      "subdivision": "ISO 3166-2:DZ",
+      "ccTLD": ".dz"
+    },
+    {
+      "country": "Dominican Republic (the)",
+      "ofs": "The Dominican Republic",
+      "sovereignty": "UN member state",
+      "a2c": "DO",
+      "a3c": "DOM",
+      "nc": "214",
+      "subdivision": "ISO 3166-2:DO",
+      "ccTLD": ".do"
+    },
+    {
+      "country": "Dominica",
+      "ofs": "The Commonwealth of Dominica",
+      "sovereignty": "UN member state",
+      "a2c": "DM",
+      "a3c": "DMA",
+      "nc": "212",
+      "subdivision": "ISO 3166-2:DM",
+      "ccTLD": ".dm"
+    },
+    {
+      "country": "Denmark",
+      "ofs": "The Kingdom of Denmark",
+      "sovereignty": "UN member state",
+      "a2c": "DK",
+      "a3c": "DNK",
+      "nc": "208",
+      "subdivision": "ISO 3166-2:DK",
+      "ccTLD": ".dk"
+    },
+    {
+      "country": "Djibouti",
+      "ofs": "The Republic of Djibouti",
+      "sovereignty": "UN member state",
+      "a2c": "DJ",
+      "a3c": "DJI",
+      "nc": "262",
+      "subdivision": "ISO 3166-2:DJ",
+      "ccTLD": ".dj"
+    },
+    {
+      "country": "Democratic Republic of the Congo - See Congo, The Democratic Republic of the.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Democratic People's Republic of Korea - See Korea, The Democratic People's Republic of.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Germany",
+      "ofs": "The Federal Republic of Germany",
+      "sovereignty": "UN member state",
+      "a2c": "DE",
+      "a3c": "DEU",
+      "nc": "276",
+      "subdivision": "ISO 3166-2:DE",
+      "ccTLD": ".de"
+    },
+    {
+      "country": "Czechia [i]",
+      "ofs": "The Czech Republic",
+      "sovereignty": "UN member state",
+      "a2c": "CZ",
+      "a3c": "CZE",
+      "nc": "203",
+      "subdivision": "ISO 3166-2:CZ",
+      "ccTLD": ".cz"
+    },
+    {
+      "country": "Cyprus",
+      "ofs": "The Republic of Cyprus",
+      "sovereignty": "UN member state",
+      "a2c": "CY",
+      "a3c": "CYP",
+      "nc": "196",
+      "subdivision": "ISO 3166-2:CY",
+      "ccTLD": ".cy"
+    },
+    {
+      "country": "Christmas Island",
+      "ofs": "The Territory of Christmas Island",
+      "sovereignty": "Australia",
+      "a2c": "CX",
+      "a3c": "CXR",
+      "nc": "162",
+      "subdivision": "ISO 3166-2:CX",
+      "ccTLD": ".cx"
+    },
+    {
+      "country": "Curaçao",
+      "ofs": "The Country of Curaçao",
+      "sovereignty": "Netherlands",
+      "a2c": "CW",
+      "a3c": "CUW",
+      "nc": "531",
+      "subdivision": "ISO 3166-2:CW",
+      "ccTLD": ".cw"
+    },
+    {
+      "country": "Cabo Verde [f]",
+      "ofs": "The Republic of Cabo Verde",
+      "sovereignty": "UN member state",
+      "a2c": "CV",
+      "a3c": "CPV",
+      "nc": "132",
+      "subdivision": "ISO 3166-2:CV",
+      "ccTLD": ".cv"
+    },
+    {
+      "country": "Cuba",
+      "ofs": "The Republic of Cuba",
+      "sovereignty": "UN member state",
+      "a2c": "CU",
+      "a3c": "CUB",
+      "nc": "192",
+      "subdivision": "ISO 3166-2:CU",
+      "ccTLD": ".cu"
+    },
+    {
+      "country": "Costa Rica",
+      "ofs": "The Republic of Costa Rica",
+      "sovereignty": "UN member state",
+      "a2c": "CR",
+      "a3c": "CRI",
+      "nc": "188",
+      "subdivision": "ISO 3166-2:CR",
+      "ccTLD": ".cr"
+    },
+    {
+      "country": "Coral Sea Islands - See Australia.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Colombia",
+      "ofs": "The Republic of Colombia",
+      "sovereignty": "UN member state",
+      "a2c": "CO",
+      "a3c": "COL",
+      "nc": "170",
+      "subdivision": "ISO 3166-2:CO",
+      "ccTLD": ".co"
+    },
+    {
+      "country": "China",
+      "ofs": "The People's Republic of China",
+      "sovereignty": "UN member state",
+      "a2c": "CN",
+      "a3c": "CHN",
+      "nc": "156",
+      "subdivision": "ISO 3166-2:CN",
+      "ccTLD": ".cn"
+    },
+    {
+      "country": "Cameroon",
+      "ofs": "The Republic of Cameroon",
+      "sovereignty": "UN member state",
+      "a2c": "CM",
+      "a3c": "CMR",
+      "nc": "120",
+      "subdivision": "ISO 3166-2:CM",
+      "ccTLD": ".cm"
+    },
+    {
+      "country": "Clipperton Island - See France.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Chile",
+      "ofs": "The Republic of Chile",
+      "sovereignty": "UN member state",
+      "a2c": "CL",
+      "a3c": "CHL",
+      "nc": "152",
+      "subdivision": "ISO 3166-2:CL",
+      "ccTLD": ".cl"
+    },
+    {
+      "country": "Cook Islands (the)",
+      "ofs": "The Cook Islands",
+      "sovereignty": "New Zealand",
+      "a2c": "CK",
+      "a3c": "COK",
+      "nc": "184",
+      "subdivision": "ISO 3166-2:CK",
+      "ccTLD": ".ck"
+    },
+    {
+      "country": "Côte d'Ivoire [h]",
+      "ofs": "The Republic of Côte d'Ivoire",
+      "sovereignty": "UN member state",
+      "a2c": "CI",
+      "a3c": "CIV",
+      "nc": "384",
+      "subdivision": "ISO 3166-2:CI",
+      "ccTLD": ".ci"
+    },
+    {
+      "country": "China, The Republic of - See Taiwan (Province of China).",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Switzerland",
+      "ofs": "The Swiss Confederation",
+      "sovereignty": "UN member state",
+      "a2c": "CH",
+      "a3c": "CHE",
+      "nc": "756",
+      "subdivision": "ISO 3166-2:CH",
+      "ccTLD": ".ch"
+    },
+    {
+      "country": "Congo (the) [g]",
+      "ofs": "The Republic of the Congo",
+      "sovereignty": "UN member state",
+      "a2c": "CG",
+      "a3c": "COG",
+      "nc": "178",
+      "subdivision": "ISO 3166-2:CG",
+      "ccTLD": ".cg"
+    },
+    {
+      "country": "Central African Republic (the)",
+      "ofs": "The Central African Republic",
+      "sovereignty": "UN member state",
+      "a2c": "CF",
+      "a3c": "CAF",
+      "nc": "140",
+      "subdivision": "ISO 3166-2:CF",
+      "ccTLD": ".cf"
+    },
+    {
+      "country": "Congo (the Democratic Republic of the)",
+      "ofs": "The Democratic Republic of the Congo",
+      "sovereignty": "UN member state",
+      "a2c": "CD",
+      "a3c": "COD",
+      "nc": "180",
+      "subdivision": "ISO 3166-2:CD",
+      "ccTLD": ".cd"
+    },
+    {
+      "country": "Cocos (Keeling) Islands (the)",
+      "ofs": "The Territory of Cocos (Keeling) Islands",
+      "sovereignty": "Australia",
+      "a2c": "CC",
+      "a3c": "CCK",
+      "nc": "166",
+      "subdivision": "ISO 3166-2:CC",
+      "ccTLD": ".cc"
+    },
+    {
+      "country": "Caribbean Netherlands - See Bonaire, Sint Eustatius and Saba.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Cape Verde - See Cabo Verde.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Canada",
+      "ofs": "Canada",
+      "sovereignty": "UN member state",
+      "a2c": "CA",
+      "a3c": "CAN",
+      "nc": "124",
+      "subdivision": "ISO 3166-2:CA",
+      "ccTLD": ".ca"
+    },
+    {
+      "country": "Belize",
+      "ofs": "Belize",
+      "sovereignty": "UN member state",
+      "a2c": "BZ",
+      "a3c": "BLZ",
+      "nc": "084",
+      "subdivision": "ISO 3166-2:BZ",
+      "ccTLD": ".bz"
+    },
+    {
+      "country": "Belarus",
+      "ofs": "The Republic of Belarus",
+      "sovereignty": "UN member state",
+      "a2c": "BY",
+      "a3c": "BLR",
+      "nc": "112",
+      "subdivision": "ISO 3166-2:BY",
+      "ccTLD": ".by"
+    },
+    {
+      "country": "Botswana",
+      "ofs": "The Republic of Botswana",
+      "sovereignty": "UN member state",
+      "a2c": "BW",
+      "a3c": "BWA",
+      "nc": "072",
+      "subdivision": "ISO 3166-2:BW",
+      "ccTLD": ".bw"
+    },
+    {
+      "country": "Bouvet Island",
+      "ofs": "Bouvet Island",
+      "sovereignty": "Norway",
+      "a2c": "BV",
+      "a3c": "BVT",
+      "nc": "074",
+      "subdivision": "ISO 3166-2:BV",
+      "ccTLD": "[d]"
+    },
+    {
+      "country": "Burma - See Myanmar.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Bhutan",
+      "ofs": "The Kingdom of Bhutan",
+      "sovereignty": "UN member state",
+      "a2c": "BT",
+      "a3c": "BTN",
+      "nc": "064",
+      "subdivision": "ISO 3166-2:BT",
+      "ccTLD": ".bt"
+    },
+    {
+      "country": "Bahamas (the)",
+      "ofs": "The Commonwealth of The Bahamas",
+      "sovereignty": "UN member state",
+      "a2c": "BS",
+      "a3c": "BHS",
+      "nc": "044",
+      "subdivision": "ISO 3166-2:BS",
+      "ccTLD": ".bs"
+    },
+    {
+      "country": "British Virgin Islands - See Virgin Islands (British).",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Brazil",
+      "ofs": "The Federative Republic of Brazil",
+      "sovereignty": "UN member state",
+      "a2c": "BR",
+      "a3c": "BRA",
+      "nc": "076",
+      "subdivision": "ISO 3166-2:BR",
+      "ccTLD": ".br"
+    },
+    {
+      "country": "Bonaire\n Sint Eustatius\n Saba",
+      "ofs": "Bonaire, Sint Eustatius and Saba",
+      "sovereignty": "Netherlands",
+      "a2c": "BQ",
+      "a3c": "BES",
+      "nc": "535",
+      "subdivision": "ISO 3166-2:BQ",
+      "ccTLD": ".bq .nl [c]"
+    },
+    {
+      "country": "Bolivia (Plurinational State of)",
+      "ofs": "The Plurinational State of Bolivia",
+      "sovereignty": "UN member state",
+      "a2c": "BO",
+      "a3c": "BOL",
+      "nc": "068",
+      "subdivision": "ISO 3166-2:BO",
+      "ccTLD": ".bo"
+    },
+    {
+      "country": "Brunei Darussalam [e]",
+      "ofs": "The Nation of Brunei, the Abode of Peace",
+      "sovereignty": "UN member state",
+      "a2c": "BN",
+      "a3c": "BRN",
+      "nc": "096",
+      "subdivision": "ISO 3166-2:BN",
+      "ccTLD": ".bn"
+    },
+    {
+      "country": "Bermuda",
+      "ofs": "Bermuda",
+      "sovereignty": "United Kingdom",
+      "a2c": "BM",
+      "a3c": "BMU",
+      "nc": "060",
+      "subdivision": "ISO 3166-2:BM",
+      "ccTLD": ".bm"
+    },
+    {
+      "country": "Saint Barthélemy",
+      "ofs": "The Collectivity of Saint-Barthélemy",
+      "sovereignty": "France",
+      "a2c": "BL",
+      "a3c": "BLM",
+      "nc": "652",
+      "subdivision": "ISO 3166-2:BL",
+      "ccTLD": ".bl"
+    },
+    {
+      "country": "Benin",
+      "ofs": "The Republic of Benin",
+      "sovereignty": "UN member state",
+      "a2c": "BJ",
+      "a3c": "BEN",
+      "nc": "204",
+      "subdivision": "ISO 3166-2:BJ",
+      "ccTLD": ".bj"
+    },
+    {
+      "country": "Burundi",
+      "ofs": "The Republic of Burundi",
+      "sovereignty": "UN member state",
+      "a2c": "BI",
+      "a3c": "BDI",
+      "nc": "108",
+      "subdivision": "ISO 3166-2:BI",
+      "ccTLD": ".bi"
+    },
+    {
+      "country": "Bahrain",
+      "ofs": "The Kingdom of Bahrain",
+      "sovereignty": "UN member state",
+      "a2c": "BH",
+      "a3c": "BHR",
+      "nc": "048",
+      "subdivision": "ISO 3166-2:BH",
+      "ccTLD": ".bh"
+    },
+    {
+      "country": "Bulgaria",
+      "ofs": "The Republic of Bulgaria",
+      "sovereignty": "UN member state",
+      "a2c": "BG",
+      "a3c": "BGR",
+      "nc": "100",
+      "subdivision": "ISO 3166-2:BG",
+      "ccTLD": ".bg"
+    },
+    {
+      "country": "Burkina Faso",
+      "ofs": "Burkina Faso",
+      "sovereignty": "UN member state",
+      "a2c": "BF",
+      "a3c": "BFA",
+      "nc": "854",
+      "subdivision": "ISO 3166-2:BF",
+      "ccTLD": ".bf"
+    },
+    {
+      "country": "Belgium",
+      "ofs": "The Kingdom of Belgium",
+      "sovereignty": "UN member state",
+      "a2c": "BE",
+      "a3c": "BEL",
+      "nc": "056",
+      "subdivision": "ISO 3166-2:BE",
+      "ccTLD": ".be"
+    },
+    {
+      "country": "Bangladesh",
+      "ofs": "The People's Republic of Bangladesh",
+      "sovereignty": "UN member state",
+      "a2c": "BD",
+      "a3c": "BGD",
+      "nc": "050",
+      "subdivision": "ISO 3166-2:BD",
+      "ccTLD": ".bd"
+    },
+    {
+      "country": "Barbados",
+      "ofs": "Barbados",
+      "sovereignty": "UN member state",
+      "a2c": "BB",
+      "a3c": "BRB",
+      "nc": "052",
+      "subdivision": "ISO 3166-2:BB",
+      "ccTLD": ".bb"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "ofs": "Bosnia and Herzegovina",
+      "sovereignty": "UN member state",
+      "a2c": "BA",
+      "a3c": "BIH",
+      "nc": "070",
+      "subdivision": "ISO 3166-2:BA",
+      "ccTLD": ".ba"
+    },
+    {
+      "country": "Azerbaijan",
+      "ofs": "The Republic of Azerbaijan",
+      "sovereignty": "UN member state",
+      "a2c": "AZ",
+      "a3c": "AZE",
+      "nc": "031",
+      "subdivision": "ISO 3166-2:AZ",
+      "ccTLD": ".az"
+    },
+    {
+      "country": "Åland Islands",
+      "ofs": "Åland",
+      "sovereignty": "Finland",
+      "a2c": "AX",
+      "a3c": "ALA",
+      "nc": "248",
+      "subdivision": "ISO 3166-2:AX",
+      "ccTLD": ".ax"
+    },
+    {
+      "country": "Aruba",
+      "ofs": "Aruba",
+      "sovereignty": "Netherlands",
+      "a2c": "AW",
+      "a3c": "ABW",
+      "nc": "533",
+      "subdivision": "ISO 3166-2:AW",
+      "ccTLD": ".aw"
+    },
+    {
+      "country": "Australia [b]",
+      "ofs": "The Commonwealth of Australia",
+      "sovereignty": "UN member state",
+      "a2c": "AU",
+      "a3c": "AUS",
+      "nc": "036",
+      "subdivision": "ISO 3166-2:AU",
+      "ccTLD": ".au"
+    },
+    {
+      "country": "Austria",
+      "ofs": "The Republic of Austria",
+      "sovereignty": "UN member state",
+      "a2c": "AT",
+      "a3c": "AUT",
+      "nc": "040",
+      "subdivision": "ISO 3166-2:AT",
+      "ccTLD": ".at"
+    },
+    {
+      "country": "Ashmore and Cartier Islands - See Australia.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "American Samoa",
+      "ofs": "The Territory of American Samoa",
+      "sovereignty": "United States",
+      "a2c": "AS",
+      "a3c": "ASM",
+      "nc": "016",
+      "subdivision": "ISO 3166-2:AS",
+      "ccTLD": ".as"
+    },
+    {
+      "country": "Argentina",
+      "ofs": "The Argentine Republic",
+      "sovereignty": "UN member state",
+      "a2c": "AR",
+      "a3c": "ARG",
+      "nc": "032",
+      "subdivision": "ISO 3166-2:AR",
+      "ccTLD": ".ar"
+    },
+    {
+      "country": "Antarctica [a]",
+      "ofs": "All land and ice shelves south of the 60th parallel south",
+      "sovereignty": "Antarctic Treaty",
+      "a2c": "AQ",
+      "a3c": "ATA",
+      "nc": "010",
+      "subdivision": "ISO 3166-2:AQ",
+      "ccTLD": ".aq"
+    },
+    {
+      "country": "Angola",
+      "ofs": "The Republic of Angola",
+      "sovereignty": "UN member state",
+      "a2c": "AO",
+      "a3c": "AGO",
+      "nc": "024",
+      "subdivision": "ISO 3166-2:AO",
+      "ccTLD": ".ao"
+    },
+    {
+      "country": "Armenia",
+      "ofs": "The Republic of Armenia",
+      "sovereignty": "UN member state",
+      "a2c": "AM",
+      "a3c": "ARM",
+      "nc": "051",
+      "subdivision": "ISO 3166-2:AM",
+      "ccTLD": ".am"
+    },
+    {
+      "country": "Albania",
+      "ofs": "The Republic of Albania",
+      "sovereignty": "UN member state",
+      "a2c": "AL",
+      "a3c": "ALB",
+      "nc": "008",
+      "subdivision": "ISO 3166-2:AL",
+      "ccTLD": ".al"
+    },
+    {
+      "country": "Akrotiri and Dhekelia - See United Kingdom, The.",
+      "ofs": "",
+      "sovereignty": "",
+      "a2c": "",
+      "a3c": "",
+      "nc": "",
+      "subdivision": "",
+      "ccTLD": ""
+    },
+    {
+      "country": "Anguilla",
+      "ofs": "Anguilla",
+      "sovereignty": "United Kingdom",
+      "a2c": "AI",
+      "a3c": "AIA",
+      "nc": "660",
+      "subdivision": "ISO 3166-2:AI",
+      "ccTLD": ".ai"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "ofs": "Antigua and Barbuda",
+      "sovereignty": "UN member state",
+      "a2c": "AG",
+      "a3c": "ATG",
+      "nc": "028",
+      "subdivision": "ISO 3166-2:AG",
+      "ccTLD": ".ag"
+    },
+    {
+      "country": "United Arab Emirates (the)",
+      "ofs": "The United Arab Emirates",
+      "sovereignty": "UN member state",
+      "a2c": "AE",
+      "a3c": "ARE",
+      "nc": "784",
+      "subdivision": "ISO 3166-2:AE",
+      "ccTLD": ".ae"
+    },
+    {
+      "country": "Andorra",
+      "ofs": "The Principality of Andorra",
+      "sovereignty": "UN member state",
+      "a2c": "AD",
+      "a3c": "AND",
+      "nc": "020",
+      "subdivision": "ISO 3166-2:AD",
+      "ccTLD": ".ad"
+    },
+    {
+      "country": "Afghanistan",
+      "ofs": "The Islamic Republic of Afghanistan",
+      "sovereignty": "UN member state",
+      "a2c": "AF",
+      "a3c": "AFG",
+      "nc": "004",
+      "subdivision": "ISO 3166-2:AF",
+      "ccTLD": ".af"
+    }
+   ]

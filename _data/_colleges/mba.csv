@@ -1,0 +1,149 @@
+rank,name,city,state
+1,Indian Institute of Management,Ahmedabad,Gujarat
+1,Indian Institute of Management,Calcutta,West Bengal,
+1,Indian Institute of Management,Bangalore,Karnataka,
+2,FMS, University of Delhi,Delhi,Delhi
+2,Indian School of Business (ISB),Hyderabad,Telangana,
+2,IIFT,New Delhi,Delhi,
+2,Indian Institute of Management,Lucknow,Uttar Pradesh,
+2,XLRI,Jamshedpur,Jharkhand,
+3,Management Development Institute,Gurgaon,Haryana
+3,S P Jain,Mumbai,Maharashtra,
+3,Indian Institute of Management,Indore,Madhya Pradesh,
+3,Indian Institute of Management,Kozhikode,Kerala,
+3,Jamnalal Bajaj Institute ofManagement Studies,Mumbai,Maharashtra,
+4,IIT Bombay,Mumbai,Maharashtra
+4,IIT-Delhi,New Delhi,Delhi,
+4,IIT Kharagpur,Kharagpur,West Bengal,
+4,SCMHRD,Pune,Maharashtra,
+4,MICA,Ahmedabad,Gujarat,
+5,Indian Institute of Management,Rohtak,Haryana
+5,Indian Institute of Management,Raipur,Chattishgarh,
+5,Indian Institute of Management,Ranchi,Jharkhand,
+5,Indian Institute of Management,Trichy,Tamil Nadu,
+5,Indian Institute of Management,Udaipur,Rajasthan,
+6,NMIMS School of Business Management,Mumbai,Maharashtra
+6,Indian Institute of Management,Shillong,Meghalaya,
+6,Institute of Management Technology (IMT),Ghaziabad,Uttar Pradesh,
+6,International Management Institute (IMI),New Delhi,Delhi,
+6,Indian Institute of Management,Visakhapatnam,Andhra Pradesh,
+6,Indian Institute of Management,Kashipur,Uttarakhand,
+6,Indian Institute of Management,Nagpur,Maharashtra,
+7,UBS, Punjab University,Chandigarh,Chadigarh
+7,Department of Business Economics, DU,Delhi,Delhi,
+7,FORE School of Management,New Delhi,Delhi,
+7,MHRM, IIT-Kharagpur,Kharagpur,West Bengal,
+7,SIMSREE,Mumbai,Maharashtra,
+7,IIT-Kharagpur,Kharagpur,West Bengal,
+8,IIT-Roorkee,Roorkee,Uttarakhand
+8,Indian Institute of Management,Sambalpur,Himachal Pradesh,
+9,GOA Institute of Management (GIM),Goa,Goa
+9,Indian Institute of Management,Jammu,Jammu,
+9,Indian Institute of Management,Sirmaur,Himachal Pradesh,
+10,TAXILA BUSINESS SCHOOL,Jaipur,Rajasthan
+10,Lal Bahadur Shastri Institute of Management,New Delhi,Delhi,
+10,Great Lakes Institute of Management,Chennai,Tamil Nadu,
+10,Indian Institute of Management,Bodh Gaya,Bihar,
+11,BIMTECH,Greater Noida,Uttar Pradesh
+11,Indian Institute of Management,Amritsar,Punjab,
+11,WOXSEN School of Business,Hyderabad,Telangana,
+11,LIBA,Chennai,Tamil Nadu,
+12,NITIE,Mumbai,Maharashtra
+12,Jaipuria Institute of Management,Noida,Uttar Pradesh,
+12,Symbiosis Centre for Information Technology,Pune,Maharashtra,
+13,Institute of Management Studies, BHU,Varanasi,Uttar Pradesh
+13,JIMS,Rohini, Delhi,Delhi,
+14,Department of Management Studies, IIT-ISM,Dhanbad,Jharkhand
+15,IISWBM,Kolkata,West Bengal
+16,School of Management, Manipal University,Manipal,Karnataka
+17,Institute of Management, Nirma University,Ahmedabad,Gujarat
+18,ABV-IIITM,Gwalior,Madhya Pradesh
+19,IMED,Pune,Maharashtra
+20,Institute of Management Studies (IMS),Ghaziabad,Uttar Pradesh
+21,Institute of Rural Management, Anand,Anand,Gujarat
+22,Shiv Nadar University,Dadri,Uttar Pradesh
+22,Jindal Global Business School,Sonipat,Haryana,
+22,School of Management, KIIT University,Bhubaneswar,Odisha,
+22,AIMS Institutes,Bengaluru,Karnataka,
+22,BVIMR,New Delhi,Delhi,
+23,ABBS School of Management,Bengaluru,Karnataka
+23,AMRITA School of Business,Coimbatore,Tamil Nadu,
+24,Jaipuria School of Business,Ghaziabad,Uttar Pradesh
+24,AMITY Business School,Noida,Uttar Pradesh,
+25,VIT Business School,Vellore,Tamil Nadu
+26,SDMIMD,Mysore,Karnataka
+27,ICFAI Business School,Hyderabad,Telangana
+28,RV Institute of Management,Bengaluru,Karnataka
+28,PES University,Bengaluru,Karnataka,
+29,GIBS Business School,Bengaluru,Karnataka
+30,Kirloskar,Harihar,Karnataka
+31,REVA University,Bengaluru,Karnataka
+32,Institute of Public Enterprise,Hyderabad,Telangana
+33,Indian Institute of Forest Management (IIFM),Bhopal,Madhya Pradesh
+34,TAPMI,Manipal,Karnataka
+35,Symbiosis,Pune,Maharashtra
+36,MIT-SOB,Pune,Maharashtra
+37,Vidyavardhaka College of Engineering,Mysuru,Karnataka
+38,Justice KS Hegde Institute of Management,Nitte,Karnataka
+39,Bharathidasan Institute of Management,Tiruchirapalli,Tamil Nadu
+40,MODY University,Lakshmangarh,Rajasthan
+41,TASMAC,Pune,Maharashtra
+42,JK Business School,Gurgaon,Haryana
+43,SCMS Cochin School of Business,Cochin,Kerala
+44,K.J. Somaiya,Mumbai,Maharashtra
+45,IILM Graduate School of Management,Greater Noida,Uttar Pradesh
+46,Symbiosis Institute of Business Management,Bengaluru,Karnataka
+47,CIMP,Patna,Bihar
+48,EIILM,Kolkata,West Bengal
+49,International School of Business and Media,Pune,Maharashtra
+50,Fortune Institute of International Business(FIIB),New Delhi,Delhi
+51,Army Institute of Management,Kolkata,West Bengal
+52,Prestige Institute of Management and Research,Indore,Madhya Pradesh
+53,XIME,Bengaluru,Karnataka
+54,Institute for Technology and Management,Navi Mumbai,Maharashtra
+55,MYRA School of Business,Mysuru,Karnataka
+56,IICMSR,Pune,Maharashtra
+57,G L Bajaj Institute of Management & Research,Greater Noida,Uttar Pradesh
+58,Institute of Management Studies,Noida,Uttar Pradesh
+59,ASM’s Institute of Business Management,Pune,Maharashtra
+60,Xavier Institute of Social Services (XISS),Ranchi,Jharkhand
+61,SIOM,Nashik,Maharashtra
+62,Presidency University,Bengaluru,Karnataka
+63,Apeejay School of Management,New Delhi,Delhi
+64,Xavier Institute of Management,Bhubneswar,Odisha
+65,New Delhi Institute of Management (NDIM),New Delhi,Delhi
+66,Institute of Management, Christ University,Bangalore,Karnataka
+67,Mittal School of Business, LPU,Phagwara,Punjab
+68,Ballari Institute of Technology & Management,Ballari,Karnataka
+69,Indus Business Academy,Bengaluru,Karnataka
+70,St. Joseph’s Institute of Management,Bengaluru,Karnataka
+71,JSS Centre for Management Studies,Mysuru,Karnataka
+72,Welingkar,Mumbai,Maharashtra
+73,Rajagiri Centre for Business Studies,Kochi,Kerala
+74,PSG Institute of Management,Coimbatore,Tamil Nadu
+75,Indira School of Business Studies,Pune,Maharashtra
+76,Dayananda Sagar University,Bengaluru,Karnataka
+77,Doon Business School,Dehradun,Uttarakhand
+78,FISAT Business School,Angamaly,Kerala
+79,ITS – Institute of Technology and Science,Ghaziabad,Uttar Pradesh
+80,Ramaiah Institute of Management Studies,Bengaluru,Karnataka
+81,Suryadatta Institute of Management,Pune,Maharashtra
+82,GITAM School of International Business,Visakhapatnam,Andhra Pradesh
+83,MIT Group of Institutes,Ujjain,Madhya Pradesh
+84,KLE Technological University,Hubli,Karnataka
+85,SONA School of Management,Salem,Tamil Nadu
+86,DBIMSCA,Bengaluru,Karnataka
+87,DCSMAT,Trivandrum,Kerala
+88,G H Raisoni School of Business Management,Nagpur,Maharashtra
+89,Indore Indira Business School,Indore,Madhya Pradesh
+90,ISME,Bengaluru,Karnataka
+91,Dr. Gaur Hari Singhania Institute of Management,Kanpur,Uttar Pradesh
+92,EMPI Business School,New Delhi,Delhi
+93,KLS Gogte Institute of Technology,Belagavi,Karnataka
+94,CMR Institute of Management Studies,Bengaluru,Karnataka
+95,ICBM-School of Business Excellence,Hyderabad,Telangana
+96,Siva Sivani Institute of Management,Secunderabad,Andhra Pradesh
+97,Master School of Management,Meerut,Uttar Pradesh
+98,School of Management Sciences,Varanasi,Uttar Pradesh
+99,Rukmini Devi Institute of Advanced Studies,Delhi,Delhi
+100,Asia Pacific Institute of Management,Delhi,Delhi

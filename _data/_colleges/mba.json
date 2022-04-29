@@ -1,0 +1,890 @@
+[
+    {
+      "rank": "1",
+      "name": "Indian Institute of Management",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Calcutta",
+      "city": "West Bengal",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Bangalore",
+      "city": "Karnataka",
+      "state": ""
+    },
+    {
+      "rank": "2",
+      "name": "FMS, University of Delhi",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    {
+      "rank": "Indian School of Business (ISB)",
+      "name": "Hyderabad",
+      "city": "Telangana",
+      "state": ""
+    },
+    {
+      "rank": "IIFT",
+      "name": "New Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Lucknow",
+      "city": "Uttar Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "XLRI",
+      "name": "Jamshedpur",
+      "city": "Jharkhand",
+      "state": ""
+    },
+    {
+      "rank": "3",
+      "name": "Management Development Institute",
+      "city": "Gurgaon",
+      "state": "Haryana"
+    },
+    {
+      "rank": "S P Jain",
+      "name": "Mumbai",
+      "city": "Maharashtra",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Indore",
+      "city": "Madhya Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Kozhikode",
+      "city": "Kerala",
+      "state": ""
+    },
+    {
+      "rank": "Jamnalal Bajaj Institute ofManagement Studies",
+      "name": "Mumbai",
+      "city": "Maharashtra",
+      "state": ""
+    },
+    {
+      "rank": "4",
+      "name": "IIT Bombay",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "IIT-Delhi",
+      "name": "New Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "IIT Kharagpur",
+      "name": "Kharagpur",
+      "city": "West Bengal",
+      "state": ""
+    },
+    {
+      "rank": "SCMHRD",
+      "name": "Pune",
+      "city": "Maharashtra",
+      "state": ""
+    },
+    {
+      "rank": "MICA",
+      "name": "Ahmedabad",
+      "city": "Gujarat",
+      "state": ""
+    },
+    {
+      "rank": "5",
+      "name": "Indian Institute of Management",
+      "city": "Rohtak",
+      "state": "Haryana"
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Raipur",
+      "city": "Chattishgarh",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Ranchi",
+      "city": "Jharkhand",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Trichy",
+      "city": "Tamil Nadu",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Udaipur",
+      "city": "Rajasthan",
+      "state": ""
+    },
+    {
+      "rank": "6",
+      "name": "NMIMS School of Business Management",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Shillong",
+      "city": "Meghalaya",
+      "state": ""
+    },
+    {
+      "rank": "Institute of Management Technology (IMT)",
+      "name": "Ghaziabad",
+      "city": "Uttar Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "International Management Institute (IMI)",
+      "name": "New Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Visakhapatnam",
+      "city": "Andhra Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Kashipur",
+      "city": "Uttarakhand",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Nagpur",
+      "city": "Maharashtra",
+      "state": ""
+    },
+    {
+      "rank": "7",
+      "name": "UBS, Punjab University",
+      "city": "Chandigarh",
+      "state": "Chadigarh"
+    },
+    {
+      "rank": "Department of Business Economics, DU",
+      "name": "Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "FORE School of Management",
+      "name": "New Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "MHRM, IIT-Kharagpur",
+      "name": "Kharagpur",
+      "city": "West Bengal",
+      "state": ""
+    },
+    {
+      "rank": "SIMSREE",
+      "name": "Mumbai",
+      "city": "Maharashtra",
+      "state": ""
+    },
+    {
+      "rank": "IIT-Kharagpur",
+      "name": "Kharagpur",
+      "city": "West Bengal",
+      "state": ""
+    },
+    {
+      "rank": "8",
+      "name": "IIT-Roorkee",
+      "city": "Roorkee",
+      "state": "Uttarakhand"
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Sambalpur",
+      "city": "Himachal Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "9",
+      "name": "GOA Institute of Management (GIM)",
+      "city": "Goa",
+      "state": "Goa"
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Jammu",
+      "city": "Jammu",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Sirmaur",
+      "city": "Himachal Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "10",
+      "name": "TAXILA BUSINESS SCHOOL",
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    },
+    {
+      "rank": "Lal Bahadur Shastri Institute of Management",
+      "name": "New Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "Great Lakes Institute of Management",
+      "name": "Chennai",
+      "city": "Tamil Nadu",
+      "state": ""
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Bodh Gaya",
+      "city": "Bihar",
+      "state": ""
+    },
+    {
+      "rank": "11",
+      "name": "BIMTECH",
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "Indian Institute of Management",
+      "name": "Amritsar",
+      "city": "Punjab",
+      "state": ""
+    },
+    {
+      "rank": "WOXSEN School of Business",
+      "name": "Hyderabad",
+      "city": "Telangana",
+      "state": ""
+    },
+    {
+      "rank": "LIBA",
+      "name": "Chennai",
+      "city": "Tamil Nadu",
+      "state": ""
+    },
+    {
+      "rank": "12",
+      "name": "NITIE",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "Jaipuria Institute of Management",
+      "name": "Noida",
+      "city": "Uttar Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "Symbiosis Centre for Information Technology",
+      "name": "Pune",
+      "city": "Maharashtra",
+      "state": ""
+    },
+    {
+      "rank": "13",
+      "name": "Institute of Management Studies, BHU",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "JIMS",
+      "name": "Rohini, Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "14",
+      "name": "Department of Management Studies, IIT-ISM",
+      "city": "Dhanbad",
+      "state": "Jharkhand"
+    },
+    {
+      "rank": "15",
+      "name": "IISWBM",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    {
+      "rank": "16",
+      "name": "School of Management, Manipal University",
+      "city": "Manipal",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "17",
+      "name": "Institute of Management, Nirma University",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "rank": "18",
+      "name": "ABV-IIITM",
+      "city": "Gwalior",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "rank": "19",
+      "name": "IMED",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "20",
+      "name": "Institute of Management Studies (IMS)",
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "21",
+      "name": "Institute of Rural Management, Anand",
+      "city": "Anand",
+      "state": "Gujarat"
+    },
+    {
+      "rank": "22",
+      "name": "Shiv Nadar University",
+      "city": "Dadri",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "Jindal Global Business School",
+      "name": "Sonipat",
+      "city": "Haryana",
+      "state": ""
+    },
+    {
+      "rank": "School of Management, KIIT University",
+      "name": "Bhubaneswar",
+      "city": "Odisha",
+      "state": ""
+    },
+    {
+      "rank": "AIMS Institutes",
+      "name": "Bengaluru",
+      "city": "Karnataka",
+      "state": ""
+    },
+    {
+      "rank": "BVIMR",
+      "name": "New Delhi",
+      "city": "Delhi",
+      "state": ""
+    },
+    {
+      "rank": "23",
+      "name": "ABBS School of Management",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "AMRITA School of Business",
+      "name": "Coimbatore",
+      "city": "Tamil Nadu",
+      "state": ""
+    },
+    {
+      "rank": "24",
+      "name": "Jaipuria School of Business",
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "AMITY Business School",
+      "name": "Noida",
+      "city": "Uttar Pradesh",
+      "state": ""
+    },
+    {
+      "rank": "25",
+      "name": "VIT Business School",
+      "city": "Vellore",
+      "state": "Tamil Nadu"
+    },
+    {
+      "rank": "26",
+      "name": "SDMIMD",
+      "city": "Mysore",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "27",
+      "name": "ICFAI Business School",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "rank": "28",
+      "name": "RV Institute of Management",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "PES University",
+      "name": "Bengaluru",
+      "city": "Karnataka",
+      "state": ""
+    },
+    {
+      "rank": "29",
+      "name": "GIBS Business School",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "30",
+      "name": "Kirloskar",
+      "city": "Harihar",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "31",
+      "name": "REVA University",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "32",
+      "name": "Institute of Public Enterprise",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "rank": "33",
+      "name": "Indian Institute of Forest Management (IIFM)",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "rank": "34",
+      "name": "TAPMI",
+      "city": "Manipal",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "35",
+      "name": "Symbiosis",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "36",
+      "name": "MIT-SOB",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "37",
+      "name": "Vidyavardhaka College of Engineering",
+      "city": "Mysuru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "38",
+      "name": "Justice KS Hegde Institute of Management",
+      "city": "Nitte",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "39",
+      "name": "Bharathidasan Institute of Management",
+      "city": "Tiruchirapalli",
+      "state": "Tamil Nadu"
+    },
+    {
+      "rank": "40",
+      "name": "MODY University",
+      "city": "Lakshmangarh",
+      "state": "Rajasthan"
+    },
+    {
+      "rank": "41",
+      "name": "TASMAC",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "42",
+      "name": "JK Business School",
+      "city": "Gurgaon",
+      "state": "Haryana"
+    },
+    {
+      "rank": "43",
+      "name": "SCMS Cochin School of Business",
+      "city": "Cochin",
+      "state": "Kerala"
+    },
+    {
+      "rank": "44",
+      "name": "K.J. Somaiya",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "45",
+      "name": "IILM Graduate School of Management",
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "46",
+      "name": "Symbiosis Institute of Business Management",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "47",
+      "name": "CIMP",
+      "city": "Patna",
+      "state": "Bihar"
+    },
+    {
+      "rank": "48",
+      "name": "EIILM",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    {
+      "rank": "49",
+      "name": "International School of Business and Media",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "50",
+      "name": "Fortune Institute of International Business(FIIB)",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "rank": "51",
+      "name": "Army Institute of Management",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    {
+      "rank": "52",
+      "name": "Prestige Institute of Management and Research",
+      "city": "Indore",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "rank": "53",
+      "name": "XIME",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "54",
+      "name": "Institute for Technology and Management",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "55",
+      "name": "MYRA School of Business",
+      "city": "Mysuru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "56",
+      "name": "IICMSR",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "57",
+      "name": "G L Bajaj Institute of Management & Research",
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "58",
+      "name": "Institute of Management Studies",
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "59",
+      "name": "ASM’s Institute of Business Management",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "60",
+      "name": "Xavier Institute of Social Services (XISS)",
+      "city": "Ranchi",
+      "state": "Jharkhand"
+    },
+    {
+      "rank": "61",
+      "name": "SIOM",
+      "city": "Nashik",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "62",
+      "name": "Presidency University",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "63",
+      "name": "Apeejay School of Management",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "rank": "64",
+      "name": "Xavier Institute of Management",
+      "city": "Bhubneswar",
+      "state": "Odisha"
+    },
+    {
+      "rank": "65",
+      "name": "New Delhi Institute of Management (NDIM)",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "rank": "66",
+      "name": "Institute of Management, Christ University",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "67",
+      "name": "Mittal School of Business, LPU",
+      "city": "Phagwara",
+      "state": "Punjab"
+    },
+    {
+      "rank": "68",
+      "name": "Ballari Institute of Technology & Management",
+      "city": "Ballari",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "69",
+      "name": "Indus Business Academy",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "70",
+      "name": "St. Joseph’s Institute of Management",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "71",
+      "name": "JSS Centre for Management Studies",
+      "city": "Mysuru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "72",
+      "name": "Welingkar",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "73",
+      "name": "Rajagiri Centre for Business Studies",
+      "city": "Kochi",
+      "state": "Kerala"
+    },
+    {
+      "rank": "74",
+      "name": "PSG Institute of Management",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu"
+    },
+    {
+      "rank": "75",
+      "name": "Indira School of Business Studies",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "76",
+      "name": "Dayananda Sagar University",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "77",
+      "name": "Doon Business School",
+      "city": "Dehradun",
+      "state": "Uttarakhand"
+    },
+    {
+      "rank": "78",
+      "name": "FISAT Business School",
+      "city": "Angamaly",
+      "state": "Kerala"
+    },
+    {
+      "rank": "79",
+      "name": "ITS – Institute of Technology and Science",
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "80",
+      "name": "Ramaiah Institute of Management Studies",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "81",
+      "name": "Suryadatta Institute of Management",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "82",
+      "name": "GITAM School of International Business",
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "rank": "83",
+      "name": "MIT Group of Institutes",
+      "city": "Ujjain",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "rank": "84",
+      "name": "KLE Technological University",
+      "city": "Hubli",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "85",
+      "name": "SONA School of Management",
+      "city": "Salem",
+      "state": "Tamil Nadu"
+    },
+    {
+      "rank": "86",
+      "name": "DBIMSCA",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "87",
+      "name": "DCSMAT",
+      "city": "Trivandrum",
+      "state": "Kerala"
+    },
+    {
+      "rank": "88",
+      "name": "G H Raisoni School of Business Management",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    {
+      "rank": "89",
+      "name": "Indore Indira Business School",
+      "city": "Indore",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "rank": "90",
+      "name": "ISME",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "91",
+      "name": "Dr. Gaur Hari Singhania Institute of Management",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "92",
+      "name": "EMPI Business School",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "rank": "93",
+      "name": "KLS Gogte Institute of Technology",
+      "city": "Belagavi",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "94",
+      "name": "CMR Institute of Management Studies",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "rank": "95",
+      "name": "ICBM-School of Business Excellence",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "rank": "96",
+      "name": "Siva Sivani Institute of Management",
+      "city": "Secunderabad",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "rank": "97",
+      "name": "Master School of Management",
+      "city": "Meerut",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "98",
+      "name": "School of Management Sciences",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "rank": "99",
+      "name": "Rukmini Devi Institute of Advanced Studies",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    {
+      "rank": "100",
+      "name": "Asia Pacific Institute of Management",
+      "city": "Delhi",
+      "state": "Delhi"
+    }
+   ]

@@ -1,0 +1,4432 @@
+[
+    {
+      "rank": "1",
+      "college": "University of Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "2",
+      "college": "Indian Institute of Technology Bombay",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "3",
+      "college": "Indian Institute of Technology Kanpur",
+      "city": "Kanpur"
+    },
+    {
+      "rank": "4",
+      "college": "Indian Institute of Technology Madras",
+      "city": "Chennai"
+    },
+    {
+      "rank": "5",
+      "college": "Indian Institute of Technology Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "6",
+      "college": "Indian Institute of Technology Kharagpur",
+      "city": "Kharagpur"
+    },
+    {
+      "rank": "7",
+      "college": "Indian Institute of Science",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "8",
+      "college": "Jawaharlal Nehru University",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "9",
+      "college": "Savitribai Phule Pune University",
+      "city": "Pune"
+    },
+    {
+      "rank": "10",
+      "college": "Vellore Institute of Technology",
+      "city": "Vellore ..."
+    },
+    {
+      "rank": "11",
+      "college": "Manipal Academy of Higher Education",
+      "city": "Manipal ..."
+    },
+    {
+      "rank": "12",
+      "college": "Amrita Vishwa Vidyapeetham",
+      "city": "Coimbatore ..."
+    },
+    {
+      "rank": "13",
+      "college": "Narendra Dev University of Agriculture and Technology",
+      "city": "Faizabad"
+    },
+    {
+      "rank": "14",
+      "college": "Amity University",
+      "city": "Noida ..."
+    },
+    {
+      "rank": "15",
+      "college": "International Institute of Information Technology, Hyderabad",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "16",
+      "college": "Narsee Monjee Institute of Management and Higher Studies",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "17",
+      "college": "Birla Institute of Technology and Science",
+      "city": "Pilani ..."
+    },
+    {
+      "rank": "18",
+      "college": "Anna University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "19",
+      "college": "Lovely Professional University",
+      "city": "Phagwara"
+    },
+    {
+      "rank": "20",
+      "college": "All India Institute of Medical Sciences Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "21",
+      "college": "SRM Institute of Science and Technology",
+      "city": "Chennai ..."
+    },
+    {
+      "rank": "22",
+      "college": "Tata Institute of Fundamental Research",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "23",
+      "college": "University of Mumbai",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "24",
+      "college": "Indian Institute of Technology Guwahati",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "25",
+      "college": "Tata Institute of Social Sciences",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "26",
+      "college": "Chandigarh University",
+      "city": "Mohali ..."
+    },
+    {
+      "rank": "27",
+      "college": "University of Lucknow",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "28",
+      "college": "Jamia Millia Islamia",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "29",
+      "college": "Tamil Nadu Agricultural University",
+      "city": "Coimbatore ..."
+    },
+    {
+      "rank": "30",
+      "college": "Indian Statistical Institute",
+      "city": "Kolkata ..."
+    },
+    {
+      "rank": "31",
+      "college": "National Institute of Mental Health and Neuro Sciences",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "32",
+      "college": "Indian Institute of Technology Roorkee",
+      "city": "Roorkee"
+    },
+    {
+      "rank": "33",
+      "college": "Banaras Hindu University",
+      "city": "Varanasi"
+    },
+    {
+      "rank": "34",
+      "college": "Panjab University",
+      "city": "Chandigarh"
+    },
+    {
+      "rank": "35",
+      "college": "Bangalore University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "36",
+      "college": "Christ University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "37",
+      "college": "University of Madras",
+      "city": "Chennai"
+    },
+    {
+      "rank": "38",
+      "college": "National Institute of Design",
+      "city": "Ahmedabad ..."
+    },
+    {
+      "rank": "39",
+      "college": "Osmania University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "40",
+      "college": "Dr. A.P.J. Abdul Kalam Technical University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "41",
+      "college": "Aligarh Muslim University",
+      "city": "Aligarh ..."
+    },
+    {
+      "rank": "42",
+      "college": "Baba Ghulam Shah Badhshah University",
+      "city": "Rajouri"
+    },
+    {
+      "rank": "43",
+      "college": "Gujarat Technological University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "44",
+      "college": "National Institute of Fashion Technology",
+      "city": "New Delhi ..."
+    },
+    {
+      "rank": "45",
+      "college": "Guru Gobind Singh Indraprastha University",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "46",
+      "college": "Kurukshetra University",
+      "city": "Kurukshetra ..."
+    },
+    {
+      "rank": "47",
+      "college": "Visvesvaraya Technological University",
+      "city": "Belgaum"
+    },
+    {
+      "rank": "48",
+      "college": "CSK Himachal Pradesh Krishi Vishvavidyalaya",
+      "city": "Palampur"
+    },
+    {
+      "rank": "49",
+      "college": "Cochin University of Science and Technology",
+      "city": "Kochi"
+    },
+    {
+      "rank": "50",
+      "college": "University of Calcutta",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "51",
+      "college": "Chaudhary Charan Singh Haryana Agricultural University",
+      "city": "Hisar"
+    },
+    {
+      "rank": "52",
+      "college": "National Institute of Technology, Tiruchirappalli",
+      "city": "Tiruchirappalli"
+    },
+    {
+      "rank": "53",
+      "college": "National Institute of Technology, Rourkela",
+      "city": "Rourkela"
+    },
+    {
+      "rank": "54",
+      "college": "Indian Institute of Technology Gandhinagar",
+      "city": "Chandkheda"
+    },
+    {
+      "rank": "55",
+      "college": "Indian Institute of Technology Hyderabad",
+      "city": "Eddumailaram"
+    },
+    {
+      "rank": "56",
+      "college": "University of Petroleum and Energy Studies",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "57",
+      "college": "Gandhi Institute of Technology and Management",
+      "city": "Visakhapatnam"
+    },
+    {
+      "rank": "58",
+      "college": "Chitkara University, Punjab",
+      "city": "Punjab"
+    },
+    {
+      "rank": "59",
+      "college": "University of Allahabad",
+      "city": "Allahabad"
+    },
+    {
+      "rank": "60",
+      "college": "The Maharaja Sayajirao University of Baroda",
+      "city": "Vadodara"
+    },
+    {
+      "rank": "61",
+      "college": "University of Hyderabad",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "62",
+      "college": "University of Rajasthan",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "63",
+      "college": "University of Mysore",
+      "city": "Mysore ..."
+    },
+    {
+      "rank": "64",
+      "college": "University of Engineering and Management, Kolkata",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "65",
+      "college": "Sharda University",
+      "city": "Greater Noida"
+    },
+    {
+      "rank": "66",
+      "college": "Gulbarga University",
+      "city": "Gulbarga"
+    },
+    {
+      "rank": "67",
+      "college": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "68",
+      "college": "Chhatrapati Shahu Ji Maharaj University",
+      "city": "Kalyanpur"
+    },
+    {
+      "rank": "69",
+      "college": "Birla Institute of Technology",
+      "city": "Ranchi ..."
+    },
+    {
+      "rank": "70",
+      "college": "Jadavpur University",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "71",
+      "college": "University of Kerala",
+      "city": "Thiruvananthapuram"
+    },
+    {
+      "rank": "72",
+      "college": "National Institute of Technology, Silchar",
+      "city": "Silchar"
+    },
+    {
+      "rank": "73",
+      "college": "Nirma University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "74",
+      "college": "KIIT University",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "75",
+      "college": "Tamil Nadu Veterinary and Animal Sciences University",
+      "city": "Chennai ..."
+    },
+    {
+      "rank": "76",
+      "college": "SASTRA University",
+      "city": "Thanjavur ..."
+    },
+    {
+      "rank": "77",
+      "college": "Jawaharlal Nehru Technological University",
+      "city": "Hyderabad ..."
+    },
+    {
+      "rank": "78",
+      "college": "International Institute of Information Technology Bangalore",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "79",
+      "college": "Mahatma Gandhi University",
+      "city": "Kottayam"
+    },
+    {
+      "rank": "80",
+      "college": "Post Graduate Institute of Medical Education and Research",
+      "city": "Chandigarh"
+    },
+    {
+      "rank": "81",
+      "college": "National Institute of Technology, Calicut",
+      "city": "Calicut"
+    },
+    {
+      "rank": "82",
+      "college": "National Institute of Technology, Karnataka",
+      "city": "Mangalore"
+    },
+    {
+      "rank": "83",
+      "college": "Chennai Mathematical Institute",
+      "city": "Chennai"
+    },
+    {
+      "rank": "84",
+      "college": "Indian Maritime University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "85",
+      "college": "Gauhati University",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "86",
+      "college": "Thapar Institute of Engineering and Technology",
+      "city": "Patiala"
+    },
+    {
+      "rank": "87",
+      "college": "Indian Institute of Information Technology Allahabad",
+      "city": "Allahabad"
+    },
+    {
+      "rank": "88",
+      "college": "Madurai Kamaraj University",
+      "city": "Madurai"
+    },
+    {
+      "rank": "89",
+      "college": "National Law School of India University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "90",
+      "college": "Jain University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "91",
+      "college": "O.P. Jindal Global University",
+      "city": "Sonipat"
+    },
+    {
+      "rank": "92",
+      "college": "Patna University",
+      "city": "Patna"
+    },
+    {
+      "rank": "93",
+      "college": "Lalit Narayan Mithila University",
+      "city": "Darbhanga"
+    },
+    {
+      "rank": "94",
+      "college": "Delhi Technological University",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "95",
+      "college": "APJ Abdul Kalam Technological University",
+      "city": "Thiruvananthapuram"
+    },
+    {
+      "rank": "96",
+      "college": "Indian Institute of Foreign Trade",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "97",
+      "college": "Indian Institute of Science Education and Research, Pune",
+      "city": "Pune"
+    },
+    {
+      "rank": "98",
+      "college": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+      "city": "Bhopal ..."
+    },
+    {
+      "rank": "99",
+      "college": "Chaudhary Charan Singh University",
+      "city": "Meerut"
+    },
+    {
+      "rank": "100",
+      "college": "Devi Ahilya Vishwavidyalaya",
+      "city": "Indore"
+    },
+    {
+      "rank": "101",
+      "college": "Indian School of Mines",
+      "city": "Dhanbad"
+    },
+    {
+      "rank": "102",
+      "college": "Ashoka University",
+      "city": "Sonipat"
+    },
+    {
+      "rank": "103",
+      "college": "Indira Gandhi Institute of Development Research",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "104",
+      "college": "Indian Institute of Technology, BHU",
+      "city": "Varanasi"
+    },
+    {
+      "rank": "105",
+      "college": "Alagappa University",
+      "city": "Karaikudi"
+    },
+    {
+      "rank": "106",
+      "college": "Motilal Nehru National Institute of Technology Allahabad",
+      "city": "Allahabad"
+    },
+    {
+      "rank": "107",
+      "college": "Guru Nanak Dev University",
+      "city": "Amritsar"
+    },
+    {
+      "rank": "108",
+      "college": "University of Calicut",
+      "city": "Tenhipalam ..."
+    },
+    {
+      "rank": "109",
+      "college": "North Eastern Hill University",
+      "city": "Shillong ..."
+    },
+    {
+      "rank": "110",
+      "college": "Tamil Nadu Teacher Education University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "111",
+      "college": "Azim Premji University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "112",
+      "college": "Annamalai University",
+      "city": "Chidambaram"
+    },
+    {
+      "rank": "113",
+      "college": "Andhra University",
+      "city": "Visakhapatnam"
+    },
+    {
+      "rank": "114",
+      "college": "Jawaharlal Nehru Centre for Advanced Scientific Research",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "115",
+      "college": "Jawaharlal Institute of Postgraduate Medical Education and Research",
+      "city": "Puducherry"
+    },
+    {
+      "rank": "116",
+      "college": "Indian Institute of Technology Mandi",
+      "city": "Mandi"
+    },
+    {
+      "rank": "117",
+      "college": "Symbiosis International University",
+      "city": "Pune"
+    },
+    {
+      "rank": "118",
+      "college": "Veer Narmad South Gujarat University",
+      "city": "Surat"
+    },
+    {
+      "rank": "119",
+      "college": "Malaviya National Institute of Technology, Jaipur",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "120",
+      "college": "Kerala Agricultural University",
+      "city": "Thrissur ..."
+    },
+    {
+      "rank": "121",
+      "college": "Bharathiar University",
+      "city": "Coimbatore"
+    },
+    {
+      "rank": "122",
+      "college": "Dr. B R Ambedkar National Institute of Technology Jalandhar",
+      "city": "Jalandhar"
+    },
+    {
+      "rank": "123",
+      "college": "Indraprastha Institute of Information Technology",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "124",
+      "college": "University of Burdwan",
+      "city": "Bardhaman"
+    },
+    {
+      "rank": "125",
+      "college": "Gujarat University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "126",
+      "college": "Pondicherry University",
+      "city": "Puducherry ..."
+    },
+    {
+      "rank": "127",
+      "college": "CEPT University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "128",
+      "college": "Shiv Nadar University",
+      "city": "Dadri"
+    },
+    {
+      "rank": "129",
+      "college": "K L University",
+      "city": "Vaddeswaram"
+    },
+    {
+      "rank": "130",
+      "college": "Govind Ballabh Pant University of Agriculture and Technology",
+      "city": "Pantnagar"
+    },
+    {
+      "rank": "131",
+      "college": "Sardar Patel University",
+      "city": "Vallabh Vidyanagar"
+    },
+    {
+      "rank": "132",
+      "college": "Bharathidasan University",
+      "city": "Tiruchirappalli"
+    },
+    {
+      "rank": "133",
+      "college": "All India Institute of Medical Sciences Raipur",
+      "city": "Raipur"
+    },
+    {
+      "rank": "134",
+      "college": "Indian Institute of Technology Bhubaneswar",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "135",
+      "college": "Sardar Vallabhbhai National Institute of Technology, Surat",
+      "city": "Surat"
+    },
+    {
+      "rank": "136",
+      "college": "Tripura University",
+      "city": "Agartala"
+    },
+    {
+      "rank": "137",
+      "college": "Tezpur University",
+      "city": "Tezpur"
+    },
+    {
+      "rank": "138",
+      "college": "Kavayitri Bahinabai Chaudhari North Maharashtra University",
+      "city": "Jalgaon ..."
+    },
+    {
+      "rank": "139",
+      "college": "Jamia Hamdard",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "140",
+      "college": "Jiwaji University",
+      "city": "Gwalior"
+    },
+    {
+      "rank": "141",
+      "college": "Visva-Bharati University",
+      "city": "Bolpur ..."
+    },
+    {
+      "rank": "142",
+      "college": "Punjab Agricultural University",
+      "city": "Ludhiana ..."
+    },
+    {
+      "rank": "143",
+      "college": "University of Kashmir",
+      "city": "Srinagar"
+    },
+    {
+      "rank": "144",
+      "college": "National Institute of Technology, Durgapur",
+      "city": "Durgapur"
+    },
+    {
+      "rank": "145",
+      "college": "Babasaheb Bhimrao Ambedkar University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "146",
+      "college": "Indian Institute of Technology Jodhpur",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "147",
+      "college": "Indian Institute of Science Education and Research, Kolkata",
+      "city": "Mohanpur"
+    },
+    {
+      "rank": "148",
+      "college": "Punjab Technical University",
+      "city": "Kapurthala"
+    },
+    {
+      "rank": "149",
+      "college": "Nizam's Institute of Medical Sciences",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "150",
+      "college": "Himachal Pradesh University",
+      "city": "Shimla"
+    },
+    {
+      "rank": "151",
+      "college": "Saurashtra University",
+      "city": "Rajkot"
+    },
+    {
+      "rank": "152",
+      "college": "Kannur University",
+      "city": "Kannur"
+    },
+    {
+      "rank": "153",
+      "college": "All India Institute of Medical Sciences Jodhpur",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "154",
+      "college": "Sree Chitra Thirunal Institute of Medical Sciences and Technology",
+      "city": "Thiruvananthapuram"
+    },
+    {
+      "rank": "155",
+      "college": "Swami Vivekanand Subharti University",
+      "city": "Meerut"
+    },
+    {
+      "rank": "156",
+      "college": "Gujarat National Law University",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "157",
+      "college": "Sathyabama Institute of Science and Technology",
+      "city": "Chennai"
+    },
+    {
+      "rank": "158",
+      "college": "Indian Institute of Space Science and Technology",
+      "city": "Thiruvananthapuram"
+    },
+    {
+      "rank": "159",
+      "college": "Mohanlal Sukhadia University",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "160",
+      "college": "NALSAR University of Law",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "161",
+      "college": "Karunya Institute of Technology and Sciences",
+      "city": "Coimbatore"
+    },
+    {
+      "rank": "162",
+      "college": "National Institute of Technology, Warangal",
+      "city": "Warangal"
+    },
+    {
+      "rank": "163",
+      "college": "Indian Agricultural Research Institute",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "164",
+      "college": "Goa University",
+      "city": "Taleigao"
+    },
+    {
+      "rank": "165",
+      "college": "ITM University Raipur",
+      "city": "Raipur"
+    },
+    {
+      "rank": "166",
+      "college": "The Northcap University",
+      "city": "Gurgaon ..."
+    },
+    {
+      "rank": "167",
+      "college": "All India Institute of Medical Sciences Patna",
+      "city": "Patna"
+    },
+    {
+      "rank": "168",
+      "college": "Shivaji University",
+      "city": "Kolhapur"
+    },
+    {
+      "rank": "169",
+      "college": "National Law University, Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "170",
+      "college": "Sanjay Gandhi Post Graduate Institute of Medical Sciences",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "171",
+      "college": "Invertis University",
+      "city": "Bareilly"
+    },
+    {
+      "rank": "172",
+      "college": "Indian Institute of Technology Indore",
+      "city": "Indore"
+    },
+    {
+      "rank": "173",
+      "college": "National Institute of Educational Planning and Administration",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "174",
+      "college": "Maulana Azad National Institute of Technology",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "175",
+      "college": "M.J.P. Rohilkhand University",
+      "city": "Bareilly"
+    },
+    {
+      "rank": "176",
+      "college": "Presidency University",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "177",
+      "college": "Indian Institute of Technology Ropar",
+      "city": "Rupnagar"
+    },
+    {
+      "rank": "178",
+      "college": "Bharati Vidyapeeth Deemed University",
+      "city": "Pune ..."
+    },
+    {
+      "rank": "179",
+      "college": "Dibrugarh University",
+      "city": "Dibrugarh"
+    },
+    {
+      "rank": "180",
+      "college": "Baba Farid University of Health Sciences",
+      "city": "Faridkot"
+    },
+    {
+      "rank": "181",
+      "college": "Indian Institute of Technology Patna",
+      "city": "Patna"
+    },
+    {
+      "rank": "182",
+      "college": "Makhanlal Chaturvedi Rashtriya Patrakarita Vishwavidyalaya",
+      "city": "Bhopal ..."
+    },
+    {
+      "rank": "183",
+      "college": "National Dairy Research Institute",
+      "city": "Karnal ..."
+    },
+    {
+      "rank": "184",
+      "college": "Galgotias University",
+      "city": "Noida"
+    },
+    {
+      "rank": "185",
+      "college": "Padmashree Dr. D.Y. Patil Vidyapith",
+      "city": "Navi Mumbai"
+    },
+    {
+      "rank": "186",
+      "college": "Dhirubhai Ambani Institute of Information and Communication Technology",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "187",
+      "college": "Maharishi Markandeshwar University, Mullana",
+      "city": "Mullana ..."
+    },
+    {
+      "rank": "188",
+      "college": "Dr. Vishwanath Karad MIT World Peace University",
+      "city": "Pune"
+    },
+    {
+      "rank": "189",
+      "college": "Sikkim Manipal University",
+      "city": "Gangtok"
+    },
+    {
+      "rank": "190",
+      "college": "Dr. Ram Manohar Lohia Avadh University",
+      "city": "Faizabad"
+    },
+    {
+      "rank": "191",
+      "college": "National Law University, Jodhpur",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "192",
+      "college": "Ambedkar University Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "193",
+      "college": "Rajasthan Technical University Kota",
+      "city": "Kota"
+    },
+    {
+      "rank": "194",
+      "college": "Swami Ramanand Teerth Marathwada University",
+      "city": "Nanded"
+    },
+    {
+      "rank": "195",
+      "college": "Atal Bihari Vajpayee Vishwavidyalaya",
+      "city": "Bilaspur"
+    },
+    {
+      "rank": "196",
+      "college": "Sri Ramachandra Institute of Higher Education and Research",
+      "city": "Chennai"
+    },
+    {
+      "rank": "197",
+      "college": "Punjabi University Patiala",
+      "city": "Patiala"
+    },
+    {
+      "rank": "198",
+      "college": "Acharya Nagarjuna University",
+      "city": "Guntur"
+    },
+    {
+      "rank": "199",
+      "college": "Indian Veterinary Research Institute",
+      "city": "Bareilly ..."
+    },
+    {
+      "rank": "200",
+      "college": "PES University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "201",
+      "college": "Flame University",
+      "city": "Pune"
+    },
+    {
+      "rank": "202",
+      "college": "PEC University of Technology",
+      "city": "Chandigarh"
+    },
+    {
+      "rank": "203",
+      "college": "Sant Gadge Baba Amravati University",
+      "city": "Amravati"
+    },
+    {
+      "rank": "204",
+      "college": "Dayalbagh Educational Institute",
+      "city": "Agra"
+    },
+    {
+      "rank": "205",
+      "college": "University of North Bengal",
+      "city": "Siliguri"
+    },
+    {
+      "rank": "206",
+      "college": "National Institute of Technology, Raipur",
+      "city": "Raipur"
+    },
+    {
+      "rank": "207",
+      "college": "Assam Agricultural University",
+      "city": "Jorhat"
+    },
+    {
+      "rank": "208",
+      "college": "Periyar University",
+      "city": "Salem"
+    },
+    {
+      "rank": "209",
+      "college": "NIIT University",
+      "city": "Neemrana"
+    },
+    {
+      "rank": "210",
+      "college": "Pandit Deendayal Petroleum University",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "211",
+      "college": "Shoolini University of Biotechnology and Management Sciences",
+      "city": "Solan"
+    },
+    {
+      "rank": "212",
+      "college": "Kuvempu University",
+      "city": "Shimoga"
+    },
+    {
+      "rank": "213",
+      "college": "Banasthali Vidyapith",
+      "city": "Banasthali ..."
+    },
+    {
+      "rank": "214",
+      "college": "Gujarat Vidyapith",
+      "city": "Ahmedabad ..."
+    },
+    {
+      "rank": "215",
+      "college": "Indian Institute of Engineering Science and Technology, Shibpur",
+      "city": "Howrah ..."
+    },
+    {
+      "rank": "216",
+      "college": "Pt. Bhagwat Dayal Sharma University of Health Sciences",
+      "city": "Rohtak"
+    },
+    {
+      "rank": "217",
+      "college": "Maharashtra University of Health Sciences",
+      "city": "Nashik"
+    },
+    {
+      "rank": "218",
+      "college": "BML Munjal University",
+      "city": "Gurgaon"
+    },
+    {
+      "rank": "219",
+      "college": "Alliance University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "220",
+      "college": "Marwadi University",
+      "city": "Rajkot"
+    },
+    {
+      "rank": "221",
+      "college": "Hindustan Institute of Technology and Science",
+      "city": "Chennai"
+    },
+    {
+      "rank": "222",
+      "college": "Gandhigram Rural University",
+      "city": "Gandhigram"
+    },
+    {
+      "rank": "223",
+      "college": "Visvesvaraya National Institute of Technology",
+      "city": "Nagpur"
+    },
+    {
+      "rank": "224",
+      "college": "International Institute for Population Sciences",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "225",
+      "college": "National University of Study and Research in Law",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "226",
+      "college": "Anand Agricultural University",
+      "city": "Anand"
+    },
+    {
+      "rank": "227",
+      "college": "Veer Surendra Sai University of Technology",
+      "city": "Sambalpur"
+    },
+    {
+      "rank": "228",
+      "college": "All India Institute of Medical Sciences Rishikesh",
+      "city": "Rishikesh"
+    },
+    {
+      "rank": "229",
+      "college": "Ahmedabad University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "230",
+      "college": "Bennett University",
+      "city": "Greater Noida"
+    },
+    {
+      "rank": "231",
+      "college": "Mahatma Gandhi Kashi Vidyapeeth",
+      "city": "Varanasi ..."
+    },
+    {
+      "rank": "232",
+      "college": "Deen Dayal Upadhyay Gorakhpur University",
+      "city": "Gorakhpur"
+    },
+    {
+      "rank": "233",
+      "college": "The LNM Institute of Information Technology",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "234",
+      "college": "Veer Bahadur Singh Purvanchal University",
+      "city": "Jaunpur"
+    },
+    {
+      "rank": "235",
+      "college": "Hemwati Nandan Bahuguna Garhwal University",
+      "city": "Srinagar"
+    },
+    {
+      "rank": "236",
+      "college": "Jaipur National University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "237",
+      "college": "Ganpat University",
+      "city": "Mehsana"
+    },
+    {
+      "rank": "238",
+      "college": "University of Jammu",
+      "city": "Jammu"
+    },
+    {
+      "rank": "239",
+      "college": "Indian Institute of Science Education and Research, Bhopal",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "240",
+      "college": "Rani Durgavati Vishwavidyalaya",
+      "city": "Jabalpur"
+    },
+    {
+      "rank": "241",
+      "college": "GD Goenka University",
+      "city": "Gurgaon"
+    },
+    {
+      "rank": "242",
+      "college": "The West Bengal National University of Juridical Sciences",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "243",
+      "college": "Bidhan Chandra Krishi Vishwavidyalaya",
+      "city": "Mohanpur"
+    },
+    {
+      "rank": "244",
+      "college": "Institute of Chemical Technology",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "245",
+      "college": "Dr. Shakuntala Misra National Rehabilitation University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "246",
+      "college": "King George's Medical University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "247",
+      "college": "Assam University",
+      "city": "Silchar"
+    },
+    {
+      "rank": "248",
+      "college": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+      "city": "Chennai"
+    },
+    {
+      "rank": "249",
+      "college": "Hemchandracharya North Gujarat University",
+      "city": "Patan"
+    },
+    {
+      "rank": "250",
+      "college": "National Institute of Technology, Jamshedpur",
+      "city": "Jamshedpur"
+    },
+    {
+      "rank": "251",
+      "college": "South Asian University",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "252",
+      "college": "Mangalore University",
+      "city": "Mangalore"
+    },
+    {
+      "rank": "253",
+      "college": "Indian Institute of Science Education and Research, Mohali",
+      "city": "Mohali"
+    },
+    {
+      "rank": "254",
+      "college": "University of Kalyani",
+      "city": "Kalyani"
+    },
+    {
+      "rank": "255",
+      "college": "Graphic Era University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "256",
+      "college": "Parul University",
+      "city": "Waghodia"
+    },
+    {
+      "rank": "257",
+      "college": "National Institute of Technology, Kurukshetra",
+      "city": "Kurukshetra"
+    },
+    {
+      "rank": "258",
+      "college": "Chhattisgarh Swami Vivekananda Technical University",
+      "city": "Bhilai"
+    },
+    {
+      "rank": "259",
+      "college": "Jawaharlal Nehru Technological University, Anantapur",
+      "city": "Anantapur"
+    },
+    {
+      "rank": "260",
+      "college": "Suresh Gyan Vihar University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "261",
+      "college": "Indian Institute of Science Education and Research, Thiruvananthapuram",
+      "city": "Thiruvananthapuram"
+    },
+    {
+      "rank": "262",
+      "college": "Rabindra Bharati University",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "263",
+      "college": "Maharaja Krishnakumarsinhji Bhavnagar University",
+      "city": "Bhavnagar"
+    },
+    {
+      "rank": "264",
+      "college": "Navsari Agricultural University",
+      "city": "Navsari ..."
+    },
+    {
+      "rank": "265",
+      "college": "Acharya N.G. Ranga Agricultural University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "266",
+      "college": "Rashtriya Sanskrit Sansthan University",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "267",
+      "college": "Guru Jambheshwar University of Science and Technology",
+      "city": "Hisar"
+    },
+    {
+      "rank": "268",
+      "college": "Dr. N.T.R. University of Health Sciences",
+      "city": "Vijayawada"
+    },
+    {
+      "rank": "269",
+      "college": "Manonmaniam Sundaranar University",
+      "city": "Tirunelveli"
+    },
+    {
+      "rank": "270",
+      "college": "All India Institute of Medical Sciences Bhubaneswar",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "271",
+      "college": "Jaypee Institute of Information Technology",
+      "city": "Noida"
+    },
+    {
+      "rank": "272",
+      "college": "Bundelkhand University",
+      "city": "Jhansi"
+    },
+    {
+      "rank": "273",
+      "college": "Magadh University",
+      "city": "Bodh Gaya"
+    },
+    {
+      "rank": "274",
+      "college": "Mizoram University",
+      "city": "Aizawl"
+    },
+    {
+      "rank": "275",
+      "college": "The English and Foreign Languages University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "276",
+      "college": "Integral University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "277",
+      "college": "Dr. Bhimrao Ambedkar University",
+      "city": "Agra"
+    },
+    {
+      "rank": "278",
+      "college": "REVA University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "279",
+      "college": "Siksha 'O' Anusandhan",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "280",
+      "college": "Saveetha Institute of Medical and Technical Sciences",
+      "city": "Chennai"
+    },
+    {
+      "rank": "281",
+      "college": "Graphic Era Hill University",
+      "city": "Clement Town"
+    },
+    {
+      "rank": "282",
+      "college": "Dr. Rajendra Prasad Central Agricultural University",
+      "city": "Samastipur"
+    },
+    {
+      "rank": "283",
+      "college": "All India Institute of Medical Sciences Bhopal",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "284",
+      "college": "National Institute of Technology, Hamirpur",
+      "city": "Hamirpur"
+    },
+    {
+      "rank": "285",
+      "college": "Sikkim University",
+      "city": "Tadong"
+    },
+    {
+      "rank": "286",
+      "college": "School of Planning and Architecture, Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "287",
+      "college": "Teerthanker Mahaveer University",
+      "city": "Moradabad"
+    },
+    {
+      "rank": "288",
+      "college": "Rajiv Gandhi University of Health Sciences",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "289",
+      "college": "Vidyasagar University",
+      "city": "Midnapore"
+    },
+    {
+      "rank": "290",
+      "college": "West Bengal University of Health Sciences",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "291",
+      "college": "Uka Tarsadia University",
+      "city": "Bardoli ..."
+    },
+    {
+      "rank": "292",
+      "college": "National Institute of Technology, Patna",
+      "city": "Patna"
+    },
+    {
+      "rank": "293",
+      "college": "NITTE University",
+      "city": "Mangalore"
+    },
+    {
+      "rank": "294",
+      "college": "Manipur University",
+      "city": "Imphal"
+    },
+    {
+      "rank": "295",
+      "college": "Dr. Ram Manohar Lohiya National Law University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "296",
+      "college": "Nalanda University",
+      "city": "Rajgir"
+    },
+    {
+      "rank": "297",
+      "college": "Maharaja Ganga Singh University",
+      "city": "Bikaner"
+    },
+    {
+      "rank": "298",
+      "college": "Kalasalingam Academy of Research and Education",
+      "city": "Krishnankoil"
+    },
+    {
+      "rank": "299",
+      "college": "Bharath Institute of Higher Education and Research",
+      "city": "Chennai"
+    },
+    {
+      "rank": "300",
+      "college": "Dr. Babasaheb Ambedkar Marathwada University",
+      "city": "Aurangabad"
+    },
+    {
+      "rank": "301",
+      "college": "Uttaranchal University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "302",
+      "college": "University of Agricultural Sciences, Bangalore",
+      "city": "Bangalore ..."
+    },
+    {
+      "rank": "303",
+      "college": "TERI School of Advanced Studies",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "304",
+      "college": "Poornima University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "305",
+      "college": "Quantum University",
+      "city": "Roorkee"
+    },
+    {
+      "rank": "306",
+      "college": "Dharmsinh Desai University",
+      "city": "Nadiad"
+    },
+    {
+      "rank": "307",
+      "college": "National Institute of Technology, Meghalaya",
+      "city": "Shillong"
+    },
+    {
+      "rank": "308",
+      "college": "Himachal Pradesh Technical University",
+      "city": "Hamirpur"
+    },
+    {
+      "rank": "309",
+      "college": "Central University of Tamil Nadu",
+      "city": "Thiruvarur"
+    },
+    {
+      "rank": "310",
+      "college": "Shri Mata Vaishno Devi University",
+      "city": "Katra"
+    },
+    {
+      "rank": "311",
+      "college": "Rajiv Gandhi University of Knowledge Technologies",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "312",
+      "college": "Shree Guru Gobind Singh Tricentenary University",
+      "city": "Gurgaon"
+    },
+    {
+      "rank": "313",
+      "college": "Tamil Nadu Dr. M.G.R.Medical University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "314",
+      "college": "Deenbandhu Chhotu Ram University of Science and Technology",
+      "city": "Murthal"
+    },
+    {
+      "rank": "315",
+      "college": "National Institute of Technology, Agartala",
+      "city": "Agartala"
+    },
+    {
+      "rank": "316",
+      "college": "Maulana Azad National Urdu University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "317",
+      "college": "Junagadh Agricultural University",
+      "city": "Junagadh"
+    },
+    {
+      "rank": "318",
+      "college": "Sri Venkateswara University",
+      "city": "Tirupati"
+    },
+    {
+      "rank": "319",
+      "college": "Indian Institute of Information Technology, Vadodara",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "320",
+      "college": "Gokhale Institute of Politics and Economics",
+      "city": "Pune"
+    },
+    {
+      "rank": "321",
+      "college": "Central University of Rajasthan",
+      "city": "Ajmer"
+    },
+    {
+      "rank": "322",
+      "college": "JECRC University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "323",
+      "college": "National Institute of Technology, Srinagar",
+      "city": "Srinagar"
+    },
+    {
+      "rank": "324",
+      "college": "Maharishi Dayanand University",
+      "city": "Rohtak"
+    },
+    {
+      "rank": "325",
+      "college": "Jawaharlal Nehru Technological University, Kakinada",
+      "city": "Kakinada"
+    },
+    {
+      "rank": "326",
+      "college": "Assam Don Bosco University",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "327",
+      "college": "Indian Institute of Information Technology and Management Gwalior",
+      "city": "Gwalior"
+    },
+    {
+      "rank": "328",
+      "college": "Sant Longowal Institute of Engineering and Technology",
+      "city": "Sangrur"
+    },
+    {
+      "rank": "329",
+      "college": "Sri Venkateswara Institute of Medical Sciences",
+      "city": "Tirupati"
+    },
+    {
+      "rank": "330",
+      "college": "Barkatullah University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "331",
+      "college": "Vels University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "332",
+      "college": "Indian Institute of Information Technology, Design and Manufacturing",
+      "city": "Chennai"
+    },
+    {
+      "rank": "333",
+      "college": "North Eastern Regional Institute of Science and Technology",
+      "city": "Itanagar"
+    },
+    {
+      "rank": "334",
+      "college": "GLA University",
+      "city": "Chaumuhan"
+    },
+    {
+      "rank": "335",
+      "college": "Pandit Ravishankar Shukla University",
+      "city": "Raipur"
+    },
+    {
+      "rank": "336",
+      "college": "SRM University Haryana",
+      "city": "Sonipat"
+    },
+    {
+      "rank": "337",
+      "college": "Tilka Manjhi Bhagalpur University",
+      "city": "Bhagalpur"
+    },
+    {
+      "rank": "338",
+      "college": "National Institute of Technology, Goa",
+      "city": "Farmagudi"
+    },
+    {
+      "rank": "339",
+      "college": "Brainware University",
+      "city": "Barasat"
+    },
+    {
+      "rank": "340",
+      "college": "Maharaja Ranjit Singh Punjab Technical University",
+      "city": "Bathinda"
+    },
+    {
+      "rank": "341",
+      "college": "Indira Gandhi National Tribal University",
+      "city": "Amarkantak"
+    },
+    {
+      "rank": "342",
+      "college": "Dr. D.Y. Patil Vidyapeeth",
+      "city": "Pune"
+    },
+    {
+      "rank": "343",
+      "college": "Central University of Jharkhand",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "344",
+      "college": "Guru Ghasidas Vishwavidyalaya",
+      "city": "Bilaspur"
+    },
+    {
+      "rank": "345",
+      "college": "Jaypee University of Information Technology",
+      "city": "Waknaghat"
+    },
+    {
+      "rank": "346",
+      "college": "Kakatiya University",
+      "city": "Warangal ..."
+    },
+    {
+      "rank": "347",
+      "college": "DIT University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "348",
+      "college": "Nagaland University",
+      "city": "Kohima"
+    },
+    {
+      "rank": "349",
+      "college": "Centurion University of Technology and Management",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "350",
+      "college": "Tamil Nadu Dr Ambedkar Law University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "351",
+      "college": "Uttarakhand Technical University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "352",
+      "college": "Singhania University",
+      "city": "Jhunjhunu"
+    },
+    {
+      "rank": "353",
+      "college": "Central University of South Bihar",
+      "city": "Patna"
+    },
+    {
+      "rank": "354",
+      "college": "Arunachal University of Studies",
+      "city": "Namsai"
+    },
+    {
+      "rank": "355",
+      "college": "Jawaharlal Nehru Krishi Vishwavidyalaya",
+      "city": "Jabalpur"
+    },
+    {
+      "rank": "356",
+      "college": "Apeejay Stya University",
+      "city": "Gurgaon"
+    },
+    {
+      "rank": "357",
+      "college": "Satavahana University",
+      "city": "Karimnagar"
+    },
+    {
+      "rank": "358",
+      "college": "JK Lakshmipat University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "359",
+      "college": "Gautam Buddha University",
+      "city": "Greater Noida"
+    },
+    {
+      "rank": "360",
+      "college": "Pravara Institute of Medical Sciences",
+      "city": "Loni"
+    },
+    {
+      "rank": "361",
+      "college": "University of Kota",
+      "city": "Kota"
+    },
+    {
+      "rank": "362",
+      "college": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir",
+      "city": "Srinagar"
+    },
+    {
+      "rank": "363",
+      "college": "PDPM Indian Institute of Information Technology, Design and Manufacturing",
+      "city": "Jabalpur"
+    },
+    {
+      "rank": "364",
+      "college": "Sri Sathya Sai Institute of Higher Learning",
+      "city": "Anantapur"
+    },
+    {
+      "rank": "365",
+      "college": "Mahatma Gandhi Central University, Motihari",
+      "city": "Motihari"
+    },
+    {
+      "rank": "366",
+      "college": "NIMS University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "367",
+      "college": "National Law Institute University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "368",
+      "college": "VIT Bhopal University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "369",
+      "college": "Vignan University",
+      "city": "Guntur"
+    },
+    {
+      "rank": "370",
+      "college": "Biju Patnaik University of Technology",
+      "city": "Rourkela ..."
+    },
+    {
+      "rank": "371",
+      "college": "Central University of Punjab",
+      "city": "Bathinda"
+    },
+    {
+      "rank": "372",
+      "college": "Gurukul Kangri Vishwavidyalaya",
+      "city": "Haridwar"
+    },
+    {
+      "rank": "373",
+      "college": "The IIS University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "374",
+      "college": "Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "375",
+      "college": "National Institute of Food Technology Entrepreneurship and Management",
+      "city": "Sonipat"
+    },
+    {
+      "rank": "376",
+      "college": "JIS University",
+      "city": "Agarpara"
+    },
+    {
+      "rank": "377",
+      "college": "National Institute of Pharmaceutical Education and Research, S.A.S. Nagar",
+      "city": "Mohali"
+    },
+    {
+      "rank": "378",
+      "college": "Assam Science and Technology University",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "379",
+      "college": "Mangalayatan University",
+      "city": "Aligarh"
+    },
+    {
+      "rank": "380",
+      "college": "Rajiv Gandhi University",
+      "city": "Itanagar"
+    },
+    {
+      "rank": "381",
+      "college": "Rajasthan University of Health Sciences",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "382",
+      "college": "Avinashilingam University",
+      "city": "Coimbatore"
+    },
+    {
+      "rank": "383",
+      "college": "Central University of Haryana",
+      "city": "Mahendragarh"
+    },
+    {
+      "rank": "384",
+      "college": "National Institute of Technology, Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "385",
+      "college": "Adamas University",
+      "city": "Barasat"
+    },
+    {
+      "rank": "386",
+      "college": "J.C. Bose University of Science and Technology",
+      "city": "Faridabad"
+    },
+    {
+      "rank": "387",
+      "college": "Indira Gandhi University, Meerpur",
+      "city": "Rewari"
+    },
+    {
+      "rank": "388",
+      "college": "Karnatak University",
+      "city": "Dharwad"
+    },
+    {
+      "rank": "389",
+      "college": "Dr. Hari Singh Gour University",
+      "city": "Sagar"
+    },
+    {
+      "rank": "390",
+      "college": "Glocal University",
+      "city": "Saharanpur"
+    },
+    {
+      "rank": "391",
+      "college": "Ramaiah University of Applied Sciences",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "392",
+      "college": "Utkal University",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "393",
+      "college": "Guru Angad Dev Veterinary and Animal Sciences University",
+      "city": "Ludhiana"
+    },
+    {
+      "rank": "394",
+      "college": "Vinayaka Mission's Research Foundation",
+      "city": "Salem"
+    },
+    {
+      "rank": "395",
+      "college": "Kumaun University",
+      "city": "Nainital"
+    },
+    {
+      "rank": "396",
+      "college": "Dr. Y.S. Parmar University of Horticulture and Forestry",
+      "city": "Nauni"
+    },
+    {
+      "rank": "397",
+      "college": "Central University of Kashmir",
+      "city": "Srinagar"
+    },
+    {
+      "rank": "398",
+      "college": "Noida International University",
+      "city": "Greater Noida"
+    },
+    {
+      "rank": "399",
+      "college": "University of Gour Banga",
+      "city": "Malda"
+    },
+    {
+      "rank": "400",
+      "college": "Odisha University of Agriculture and Technology",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "401",
+      "college": "XIM University",
+      "city": "Harirajpur ..."
+    },
+    {
+      "rank": "402",
+      "college": "Kerala University of Health Sciences",
+      "city": "Thrissur"
+    },
+    {
+      "rank": "403",
+      "college": "Babasaheb Bhimrao Ambedkar Bihar University",
+      "city": "Muzaffarpur"
+    },
+    {
+      "rank": "404",
+      "college": "The Indian Law Institute",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "405",
+      "college": "Sage University",
+      "city": "Indore"
+    },
+    {
+      "rank": "406",
+      "college": "Ranchi University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "407",
+      "college": "IFHE Hyderabad",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "408",
+      "college": "Gujarat Ayurved University",
+      "city": "Jamnagar"
+    },
+    {
+      "rank": "409",
+      "college": "Dr. M.G.R. Educational and Research Institute",
+      "city": "Chennai"
+    },
+    {
+      "rank": "410",
+      "college": "Aliah University",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "411",
+      "college": "Pandit Deendayal Upadhyaya Shekhawati University",
+      "city": "Sikar"
+    },
+    {
+      "rank": "412",
+      "college": "Indira Gandhi Institute of Medical Sciences",
+      "city": "Patna"
+    },
+    {
+      "rank": "413",
+      "college": "Rajasthan University of Veterinary and Animal Sciences",
+      "city": "Bikaner"
+    },
+    {
+      "rank": "414",
+      "college": "Ramakrishna Mission Vivekananda Educational and Research Institute",
+      "city": "Belur ..."
+    },
+    {
+      "rank": "415",
+      "college": "Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth",
+      "city": "Dapoli"
+    },
+    {
+      "rank": "416",
+      "college": "Sri Krishnadevaraya University",
+      "city": "Anantapur ..."
+    },
+    {
+      "rank": "417",
+      "college": "Rayalaseema University",
+      "city": "Kurnool"
+    },
+    {
+      "rank": "418",
+      "college": "Central University of Jammu",
+      "city": "Jammu"
+    },
+    {
+      "rank": "419",
+      "college": "Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya",
+      "city": "Wardha"
+    },
+    {
+      "rank": "420",
+      "college": "MIT Art Design and Technology University",
+      "city": "Pune"
+    },
+    {
+      "rank": "421",
+      "college": "Hidayatullah National Law University",
+      "city": "Raipur"
+    },
+    {
+      "rank": "422",
+      "college": "Central Institute of Fisheries Education",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "423",
+      "college": "National Institute of Technology, Puducherry",
+      "city": "Karaikal"
+    },
+    {
+      "rank": "424",
+      "college": "Rajiv Gandhi National University of Law",
+      "city": "Patiala"
+    },
+    {
+      "rank": "425",
+      "college": "JSS Academy of Higher Education and Research",
+      "city": "Mysore ..."
+    },
+    {
+      "rank": "426",
+      "college": "B.S. Abdur Rahman Crescent Institute of Science and Technology",
+      "city": "Chennai"
+    },
+    {
+      "rank": "427",
+      "college": "Rajiv Gandhi National Institute of Youth Development",
+      "city": "Sriperumbudur"
+    },
+    {
+      "rank": "428",
+      "college": "Madan Mohan Malaviya University of Technology",
+      "city": "Gorakhpur"
+    },
+    {
+      "rank": "429",
+      "college": "Maharshi Dayanand Saraswati University",
+      "city": "Ajmer"
+    },
+    {
+      "rank": "430",
+      "college": "Veer Kunwar Singh University",
+      "city": "Arrah"
+    },
+    {
+      "rank": "431",
+      "college": "Sardarkrushinagar Dantiwada Agricultural University",
+      "city": "Palanpur"
+    },
+    {
+      "rank": "432",
+      "college": "Vinoba Bhave University",
+      "city": "Hazaribag"
+    },
+    {
+      "rank": "433",
+      "college": "Rashtrasant Tukadoji Maharaj Nagpur University",
+      "city": "Nagpur"
+    },
+    {
+      "rank": "434",
+      "college": "Adikavi Nannaya University",
+      "city": "Rajahmundry"
+    },
+    {
+      "rank": "435",
+      "college": "Shreemati Nathibai Damodar Thackersey Women's University",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "436",
+      "college": "Chandra Shekhar Azad University of Agriculture and Technology",
+      "city": "Kanpur"
+    },
+    {
+      "rank": "437",
+      "college": "Yenepoya University",
+      "city": "Mangalore"
+    },
+    {
+      "rank": "438",
+      "college": "ICFAI University, Tripura",
+      "city": "Agartala ..."
+    },
+    {
+      "rank": "439",
+      "college": "Sri Padmavati Mahila Visvavidyalayam",
+      "city": "Tirupati"
+    },
+    {
+      "rank": "440",
+      "college": "K.R. Mangalam University",
+      "city": "Gurgaon"
+    },
+    {
+      "rank": "441",
+      "college": "Professor Jayashankar Telangana State Agricultural University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "442",
+      "college": "Mahatma Phule Krishi Vidyapeeth",
+      "city": "Rahuri"
+    },
+    {
+      "rank": "443",
+      "college": "Dr. Babasaheb Ambedkar Technological University",
+      "city": "Lonere"
+    },
+    {
+      "rank": "444",
+      "college": "People's University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "445",
+      "college": "Kerala University of Fisheries and Ocean Studies",
+      "city": "Kochi"
+    },
+    {
+      "rank": "446",
+      "college": "School of Planning and Architecture, Bhopal",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "447",
+      "college": "National Institute of Technology, Sikkim",
+      "city": "Ravangla"
+    },
+    {
+      "rank": "448",
+      "college": "Santosh University",
+      "city": "Ghaziabad"
+    },
+    {
+      "rank": "449",
+      "college": "Kaziranga University",
+      "city": "Jorhat"
+    },
+    {
+      "rank": "450",
+      "college": "Swarnim Gujarat Sports University",
+      "city": "Gandhinagar ..."
+    },
+    {
+      "rank": "451",
+      "college": "Sher-i-Kashmir Institute of Medical Sciences",
+      "city": "Srinagar"
+    },
+    {
+      "rank": "452",
+      "college": "National Institute of Technology, Nagaland",
+      "city": "Dimapur"
+    },
+    {
+      "rank": "453",
+      "college": "Sam Higginbottom Institute of Agriculture, Technology and Sciences",
+      "city": "Allahabad"
+    },
+    {
+      "rank": "454",
+      "college": "Jagran Lakecity University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "455",
+      "college": "National Institute of Technology, Uttarakhand",
+      "city": "Srinagar"
+    },
+    {
+      "rank": "456",
+      "college": "Tamil University",
+      "city": "Thanjavur"
+    },
+    {
+      "rank": "457",
+      "college": "Chaudhary Devi Lal University",
+      "city": "Sirsa"
+    },
+    {
+      "rank": "458",
+      "college": "Kolhan University",
+      "city": "Chaibasa"
+    },
+    {
+      "rank": "459",
+      "college": "Cotton University",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "460",
+      "college": "Presidency University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "461",
+      "college": "Central University of Himachal Pradesh",
+      "city": "Kangra"
+    },
+    {
+      "rank": "462",
+      "college": "Charotar University of Science and Technology",
+      "city": "Anand"
+    },
+    {
+      "rank": "463",
+      "college": "Palamuru University",
+      "city": "Mahabubnagar"
+    },
+    {
+      "rank": "464",
+      "college": "Central University of Odisha",
+      "city": "Koraput"
+    },
+    {
+      "rank": "465",
+      "college": "Tamil Nadu Dr. J. Jayalalithaa Fisheries University",
+      "city": "Nagapattinam ..."
+    },
+    {
+      "rank": "466",
+      "college": "Bodoland University",
+      "city": "Kokrajhar"
+    },
+    {
+      "rank": "467",
+      "college": "Jai Narain Vyas University",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "468",
+      "college": "Swami Vivekananda Yoga Anusandhana Samsthana",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "469",
+      "college": "Lala Lajpat Rai University of Veterinary and Animal Sciences",
+      "city": "Hisar"
+    },
+    {
+      "rank": "470",
+      "college": "Shobhit Institute of Engineering and Technology",
+      "city": "Meerut"
+    },
+    {
+      "rank": "471",
+      "college": "Chaudhary Ranbir Singh University",
+      "city": "Jind"
+    },
+    {
+      "rank": "472",
+      "college": "ITM University Gwalior",
+      "city": "Gwalior"
+    },
+    {
+      "rank": "473",
+      "college": "National Institute of Technology, Mizoram",
+      "city": "Aizawl"
+    },
+    {
+      "rank": "474",
+      "college": "KLE University",
+      "city": "Belgaum ..."
+    },
+    {
+      "rank": "475",
+      "college": "Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya",
+      "city": "Gwalior"
+    },
+    {
+      "rank": "476",
+      "college": "Dr. C.V. Raman University",
+      "city": "Bilaspur"
+    },
+    {
+      "rank": "477",
+      "college": "Sambalpur University",
+      "city": "Burla"
+    },
+    {
+      "rank": "478",
+      "college": "Assam Down Town University",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "479",
+      "college": "Vasantrao Naik Marathwada Krishi Vidyapeeth",
+      "city": "Parbhani ..."
+    },
+    {
+      "rank": "480",
+      "college": "Tumkur University",
+      "city": "Tumkur"
+    },
+    {
+      "rank": "481",
+      "college": "KLE Technological University",
+      "city": "Hubli"
+    },
+    {
+      "rank": "482",
+      "college": "Cooch Behar Panchanan Barma University",
+      "city": "Cooch Behar"
+    },
+    {
+      "rank": "483",
+      "college": "Mother Teresa Women's University",
+      "city": "Kodaikanal"
+    },
+    {
+      "rank": "484",
+      "college": "The National University of Advanced Legal Studies",
+      "city": "Kochi"
+    },
+    {
+      "rank": "485",
+      "college": "Techno India University",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "486",
+      "college": "Doon University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "487",
+      "college": "Chanakya National Law University",
+      "city": "Patna"
+    },
+    {
+      "rank": "488",
+      "college": "Indian Institute of Information Technology, Sri City",
+      "city": "Sri City"
+    },
+    {
+      "rank": "489",
+      "college": "Berhampur University",
+      "city": "Berhampur"
+    },
+    {
+      "rank": "490",
+      "college": "Sandip University",
+      "city": "Nashik ..."
+    },
+    {
+      "rank": "491",
+      "college": "DAV University",
+      "city": "Jalandhar"
+    },
+    {
+      "rank": "492",
+      "college": "Rama University",
+      "city": "Kanpur"
+    },
+    {
+      "rank": "493",
+      "college": "IIHMR University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "494",
+      "college": "National Institute of Pharmaceutical Education and Research, Hyderabad",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "495",
+      "college": "Delhi Pharmaceutical Sciences and Research University",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "496",
+      "college": "Chaudhary Bansi Lal University",
+      "city": "Bhiwani"
+    },
+    {
+      "rank": "497",
+      "college": "Dayananda Sagar University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "498",
+      "college": "National Institute of Technology, Arunachal Pradesh",
+      "city": "Yupia"
+    },
+    {
+      "rank": "499",
+      "college": "Dev Sanskriti Vishwavidyalaya",
+      "city": "Shantikunj"
+    },
+    {
+      "rank": "500",
+      "college": "Sido Kanhu Murmu University",
+      "city": "Dumka"
+    },
+    {
+      "rank": "501",
+      "college": "Central University of Karnataka",
+      "city": "Gulbarga"
+    },
+    {
+      "rank": "502",
+      "college": "Rajiv Gandhi Institute of Petroleum Technology",
+      "city": "Raebareli"
+    },
+    {
+      "rank": "503",
+      "college": "Central University of Gujarat",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "504",
+      "college": "Lingaya's University",
+      "city": "Faridabad"
+    },
+    {
+      "rank": "505",
+      "college": "Tilak Maharashtra Vidyapeeth",
+      "city": "Pune"
+    },
+    {
+      "rank": "506",
+      "college": "Awadhesh Pratap Singh University",
+      "city": "Rewa"
+    },
+    {
+      "rank": "507",
+      "college": "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya",
+      "city": "Kanchipuram"
+    },
+    {
+      "rank": "508",
+      "college": "Central Institute of Higher Tibetan Studies",
+      "city": "Varanasi"
+    },
+    {
+      "rank": "509",
+      "college": "Vikram University",
+      "city": "Ujjain"
+    },
+    {
+      "rank": "510",
+      "college": "AKS University",
+      "city": "Satna"
+    },
+    {
+      "rank": "511",
+      "college": "Aryabhatta Knowledge University",
+      "city": "Patna"
+    },
+    {
+      "rank": "512",
+      "college": "Homi Bhabha National Institute",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "513",
+      "college": "Kerala Veterinary and Animal Sciences University",
+      "city": "Pookode"
+    },
+    {
+      "rank": "514",
+      "college": "Rayat-Bahra University",
+      "city": "Kharar"
+    },
+    {
+      "rank": "515",
+      "college": "Jain Vishva Bharati Institute",
+      "city": "Ladnun"
+    },
+    {
+      "rank": "516",
+      "college": "National Law University Odisha",
+      "city": "Cuttack"
+    },
+    {
+      "rank": "517",
+      "college": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu",
+      "city": "Jammu"
+    },
+    {
+      "rank": "518",
+      "college": "Telangana University",
+      "city": "Nizamabad"
+    },
+    {
+      "rank": "519",
+      "college": "Central University of Kerala",
+      "city": "Kasaragod"
+    },
+    {
+      "rank": "520",
+      "college": "Indira Gandhi Krishi Vishwavidyalaya",
+      "city": "Raipur"
+    },
+    {
+      "rank": "521",
+      "college": "Indira Gandhi Delhi Technical University for Women",
+      "city": "New Delhi"
+    },
+    {
+      "rank": "522",
+      "college": "Mody University of Science and Technology",
+      "city": "Lakshmangarh"
+    },
+    {
+      "rank": "523",
+      "college": "Kalinga University",
+      "city": "Raipur"
+    },
+    {
+      "rank": "524",
+      "college": "IMS Unison University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "525",
+      "college": "International Institute of Information Technology, Bhubaneswar",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "526",
+      "college": "Jawaharlal Nehru Architecture and Fine Arts University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "527",
+      "college": "Tamil Nadu Physical Education and Sports University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "528",
+      "college": "U.P. Pt. Deen Dayal Upadhyaya Veterinary Science University and Cattle Research Institute",
+      "city": "Mathura"
+    },
+    {
+      "rank": "529",
+      "college": "School of Planning and Architecture, Vijayawada",
+      "city": "Vijayawada"
+    },
+    {
+      "rank": "530",
+      "college": "Forest Research Institute",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "531",
+      "college": "Maharaja Surajmal Brij University",
+      "city": "Bharatpur"
+    },
+    {
+      "rank": "532",
+      "college": "Mewar University",
+      "city": "Chittorgarh"
+    },
+    {
+      "rank": "533",
+      "college": "Bhartiya Skill Development University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "534",
+      "college": "National Institute of Pharmaceutical Education and Research, Guwahati",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "535",
+      "college": "Career Point University",
+      "city": "Hamirpur ..."
+    },
+    {
+      "rank": "536",
+      "college": "Swami Keshwanand Rajasthan Agricultural University",
+      "city": "Bikaner"
+    },
+    {
+      "rank": "537",
+      "college": "OPJS University",
+      "city": "Churu"
+    },
+    {
+      "rank": "538",
+      "college": "Ajeenkya D.Y. Patil University",
+      "city": "Pune"
+    },
+    {
+      "rank": "539",
+      "college": "Dr. Panjabrao Deshmukh Krishi Vidyapeeth",
+      "city": "Akola"
+    },
+    {
+      "rank": "540",
+      "college": "Maharana Pratap University of Agriculture and Technology",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "541",
+      "college": "Kannada University",
+      "city": "Vidyaranya"
+    },
+    {
+      "rank": "542",
+      "college": "Ravenshaw University",
+      "city": "Cuttack"
+    },
+    {
+      "rank": "543",
+      "college": "Madhav University",
+      "city": "Pindwara"
+    },
+    {
+      "rank": "544",
+      "college": "Maharashtra Animal and Fishery Sciences University",
+      "city": "Nagpur"
+    },
+    {
+      "rank": "545",
+      "college": "Binod Bihari Mahto Koyalanchal University",
+      "city": "Dhanbad"
+    },
+    {
+      "rank": "546",
+      "college": "Himalayan University",
+      "city": "Itanagar"
+    },
+    {
+      "rank": "547",
+      "college": "Raj Rishi Bharthari Matsya University",
+      "city": "Alwar"
+    },
+    {
+      "rank": "548",
+      "college": "Birsa Agricultural University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "549",
+      "college": "Dr. B.R. Ambedkar University",
+      "city": "Etcherla"
+    },
+    {
+      "rank": "550",
+      "college": "Harcourt Butler Technical University",
+      "city": "Kanpur"
+    },
+    {
+      "rank": "551",
+      "college": "Krishna University",
+      "city": "Machilipatnam"
+    },
+    {
+      "rank": "552",
+      "college": "Krishna Institute of Medical Sciences",
+      "city": "Karad"
+    },
+    {
+      "rank": "553",
+      "college": "Karnavati University",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "554",
+      "college": "Maharishi University of Management and Technology",
+      "city": "Bilaspur ..."
+    },
+    {
+      "rank": "555",
+      "college": "Lakshmibai National Institute of Physical Education",
+      "city": "Gwalior"
+    },
+    {
+      "rank": "556",
+      "college": "Gujarat Forensic Sciences University",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "557",
+      "college": "National Institute of Technology, Manipur",
+      "city": "Imphal"
+    },
+    {
+      "rank": "558",
+      "college": "West Bengal State University",
+      "city": "Barasat"
+    },
+    {
+      "rank": "559",
+      "college": "Maharaja Chhatrasal Bundelkhand University",
+      "city": "Chhatarpur"
+    },
+    {
+      "rank": "560",
+      "college": "National Law University and Judicial Academy",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "561",
+      "college": "Sidho Kanho Birsha University",
+      "city": "Purulia ..."
+    },
+    {
+      "rank": "562",
+      "college": "Babu Banarasi Das University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "563",
+      "college": "Jagannath University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "564",
+      "college": "Uttar Banga Krishi Viswavidyalaya",
+      "city": "Pundibari"
+    },
+    {
+      "rank": "565",
+      "college": "Institute of Infrastructure, Technology, Research and Management",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "566",
+      "college": "Central Agricultural University",
+      "city": "Imphal"
+    },
+    {
+      "rank": "567",
+      "college": "Vishwakarma University",
+      "city": "Pune"
+    },
+    {
+      "rank": "568",
+      "college": "Sri Balaji Vidyapeeth",
+      "city": "Puducherry"
+    },
+    {
+      "rank": "569",
+      "college": "Thunchath Ezhuthachan Malayalam University",
+      "city": "Tirur"
+    },
+    {
+      "rank": "570",
+      "college": "CMR University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "571",
+      "college": "Potti Sreeramulu Telugu University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "572",
+      "college": "Vivekananda Global University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "573",
+      "college": "Sree Sankaracharya University of Sanskrit",
+      "city": "Kalady"
+    },
+    {
+      "rank": "574",
+      "college": "Sanskriti University",
+      "city": "Mathura"
+    },
+    {
+      "rank": "575",
+      "college": "Mahatma Gandhi University, Nalgonda",
+      "city": "Nalgonda"
+    },
+    {
+      "rank": "576",
+      "college": "Thiruvalluvar University",
+      "city": "Vellore"
+    },
+    {
+      "rank": "577",
+      "college": "ICFAI University, Dehradun",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "578",
+      "college": "Sri Venkateswara Veterinary University",
+      "city": "Tirupati"
+    },
+    {
+      "rank": "579",
+      "college": "Vikrama Simhapuri University",
+      "city": "Nellore"
+    },
+    {
+      "rank": "580",
+      "college": "Uttar Pradesh University of Medical Sciences",
+      "city": "Saifai"
+    },
+    {
+      "rank": "581",
+      "college": "Rani Channamma University, Belagavi",
+      "city": "Belagavi"
+    },
+    {
+      "rank": "582",
+      "college": "Anant National University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "583",
+      "college": "Bihar Agricultural University",
+      "city": "Bhagalpur"
+    },
+    {
+      "rank": "584",
+      "college": "Yogi Vemana University",
+      "city": "Kadapa"
+    },
+    {
+      "rank": "585",
+      "college": "Sardar Vallabhbhai Patel University of Agriculture and Technology",
+      "city": "Meerut"
+    },
+    {
+      "rank": "586",
+      "college": "Indian Institute of Information Technology, Guwahati",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "587",
+      "college": "Indian Institute of Teacher Education",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "588",
+      "college": "Bankura University",
+      "city": "Bankura"
+    },
+    {
+      "rank": "589",
+      "college": "Sri Dev Suman Uttarakhand University",
+      "city": "Badshahithaul"
+    },
+    {
+      "rank": "590",
+      "college": "MGM Institute of Health Sciences",
+      "city": "Navi Mumbai"
+    },
+    {
+      "rank": "591",
+      "college": "Uttarakhand Ayurved University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "592",
+      "college": "Mahatma Gandhi University of Medical Sciences and Technology",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "593",
+      "college": "Rani Lakshmi Bai Central Agricultural University",
+      "city": "Jhansi"
+    },
+    {
+      "rank": "594",
+      "college": "Rabindranath Tagore University",
+      "city": "Mendua Village"
+    },
+    {
+      "rank": "595",
+      "college": "Rai University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "596",
+      "college": "Indian Institute of Information Technology, Lucknow",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "597",
+      "college": "Sir Padampat Singhania University",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "598",
+      "college": "Kerala Kalamandalam",
+      "city": "Cheruthuruthi"
+    },
+    {
+      "rank": "599",
+      "college": "Maharishi Mahesh Yogi Vedic Vishwavidyalaya",
+      "city": "Katni ..."
+    },
+    {
+      "rank": "600",
+      "college": "Swami Rama Himalayan University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "601",
+      "college": "BLDE University",
+      "city": "Bijapur"
+    },
+    {
+      "rank": "602",
+      "college": "Chitkara University, Himachal Pradesh",
+      "city": "Kalujhanda"
+    },
+    {
+      "rank": "603",
+      "college": "Indus University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "604",
+      "college": "Sri Sri University",
+      "city": "Cuttack"
+    },
+    {
+      "rank": "605",
+      "college": "Bastar Vishwavidyalaya",
+      "city": "Bastar"
+    },
+    {
+      "rank": "606",
+      "college": "Pacific University, India",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "607",
+      "college": "IEC University",
+      "city": "Kalujhanda"
+    },
+    {
+      "rank": "608",
+      "college": "Gangadhar Meher University",
+      "city": "Sambalpur"
+    },
+    {
+      "rank": "609",
+      "college": "Indian Institute of Information Technology, Una",
+      "city": "Una"
+    },
+    {
+      "rank": "610",
+      "college": "Shri Vishwakarma Skill University",
+      "city": "Gurugram"
+    },
+    {
+      "rank": "611",
+      "college": "West Bengal University of Animal and Fishery Sciences",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "612",
+      "college": "Janardan Rai Nagar Rajasthan Vidhyapeeth University",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "613",
+      "college": "Medi-Caps University",
+      "city": "Indore"
+    },
+    {
+      "rank": "614",
+      "college": "Children's University",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "615",
+      "college": "Jayoti Vidyapeeth Women's University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "616",
+      "college": "Deccan College Post-Graduate and Research Institute",
+      "city": "Pune"
+    },
+    {
+      "rank": "617",
+      "college": "Dr. Y.S.R. Horticultural University",
+      "city": "Tadepalligudem"
+    },
+    {
+      "rank": "618",
+      "college": "Himgiri ZEE University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "619",
+      "college": "Jagadguru Ramanandacharya Rajasthan Sanskrit University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "620",
+      "college": "RK University",
+      "city": "Rajkot"
+    },
+    {
+      "rank": "621",
+      "college": "Avantika University",
+      "city": "Ujjain"
+    },
+    {
+      "rank": "622",
+      "college": "Karnataka Veterinary, Animal and Fisheries Sciences University",
+      "city": "Bidar"
+    },
+    {
+      "rank": "623",
+      "college": "AURO University",
+      "city": "Surat"
+    },
+    {
+      "rank": "624",
+      "college": "Shree Somnath Sanskrit University",
+      "city": "Veraval"
+    },
+    {
+      "rank": "625",
+      "college": "Bhupendra Narayan Mandal University",
+      "city": "Madhepura"
+    },
+    {
+      "rank": "626",
+      "college": "Garden City University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "627",
+      "college": "Cluster University of Jammu",
+      "city": "Jammu"
+    },
+    {
+      "rank": "628",
+      "college": "Sushant University",
+      "city": "Gurgaon"
+    },
+    {
+      "rank": "629",
+      "college": "IIMT University",
+      "city": "Meerut"
+    },
+    {
+      "rank": "630",
+      "college": "International Institute of Information Technology, Naya Raipur",
+      "city": "Naya Raipur"
+    },
+    {
+      "rank": "631",
+      "college": "MATS University",
+      "city": "Aarang"
+    },
+    {
+      "rank": "632",
+      "college": "Dravidian University",
+      "city": "Kuppam"
+    },
+    {
+      "rank": "633",
+      "college": "Ayush and Health Sciences University of Chhattisgarh",
+      "city": "Raipur"
+    },
+    {
+      "rank": "634",
+      "college": "Kazi Nazrul University",
+      "city": "Asansol"
+    },
+    {
+      "rank": "635",
+      "college": "RIMT University",
+      "city": "Mandi Gobindgarh ..."
+    },
+    {
+      "rank": "636",
+      "college": "University of Science and Technology, Meghalaya",
+      "city": "Baridua"
+    },
+    {
+      "rank": "637",
+      "college": "St. Xavier's University",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "638",
+      "college": "Davangere University",
+      "city": "Davangere"
+    },
+    {
+      "rank": "639",
+      "college": "LNCT University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "640",
+      "college": "Siddharth University",
+      "city": "Kapilvastu"
+    },
+    {
+      "rank": "641",
+      "college": "Rashtriya Sanskrit Vidyapeetha",
+      "city": "Tirupati"
+    },
+    {
+      "rank": "642",
+      "college": "Maharashtra National Law University Mumbai",
+      "city": "Mumbai"
+    },
+    {
+      "rank": "643",
+      "college": "Nanaji Deshmukh Veterinary Science University",
+      "city": "Jabalpur"
+    },
+    {
+      "rank": "644",
+      "college": "Fakir Mohan University",
+      "city": "Balasore ..."
+    },
+    {
+      "rank": "645",
+      "college": "Sri Guru Granth Sahib World University",
+      "city": "Fatehgarh Sahib"
+    },
+    {
+      "rank": "646",
+      "college": "Maharashtra National Law University, Nagpur",
+      "city": "Nagpur"
+    },
+    {
+      "rank": "647",
+      "college": "Bhagat Phool Singh Mahila Vishwavidyalaya",
+      "city": "Khanpur Kalan"
+    },
+    {
+      "rank": "648",
+      "college": "Mahatma Jyoti Rao Phoole University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "649",
+      "college": "Alakh Prakash Goyal Shimla University",
+      "city": "Shimla"
+    },
+    {
+      "rank": "650",
+      "college": "Shri Ramswaroop Memorial University",
+      "city": "Barabanki"
+    },
+    {
+      "rank": "651",
+      "college": "Jaypee University of Engineering and Technology",
+      "city": "Raghogarh"
+    },
+    {
+      "rank": "652",
+      "college": "University of Trans-Disciplinary Health Sciences and Technology",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "653",
+      "college": "Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry",
+      "city": "Bharsar"
+    },
+    {
+      "rank": "654",
+      "college": "North Orissa University",
+      "city": "Baripada"
+    },
+    {
+      "rank": "655",
+      "college": "Nava Nalanda Mahavihara",
+      "city": "Bargaon"
+    },
+    {
+      "rank": "656",
+      "college": "Institute of Advanced Studies in Education",
+      "city": "Sardarshahr"
+    },
+    {
+      "rank": "657",
+      "college": "Bhakta Kavi Narsinh Mehta University",
+      "city": "Khadia"
+    },
+    {
+      "rank": "658",
+      "college": "National Institute of Pharmaceutical Education and Research, Ahmedabad",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "659",
+      "college": "Raiganj University",
+      "city": "Raiganj"
+    },
+    {
+      "rank": "660",
+      "college": "Banda University of Agriculture and Technology",
+      "city": "Banda"
+    },
+    {
+      "rank": "661",
+      "college": "Indira Kala Sangeet Vishwavidyalaya",
+      "city": "Khairagarh"
+    },
+    {
+      "rank": "662",
+      "college": "National Institute of Pharmaceutical Education and Research, Hajipur",
+      "city": "Hajipur"
+    },
+    {
+      "rank": "663",
+      "college": "Arni University",
+      "city": "Kathgarh"
+    },
+    {
+      "rank": "664",
+      "college": "Islamic University of Science and Technology",
+      "city": "Pulwama"
+    },
+    {
+      "rank": "665",
+      "college": "Bhagwant University",
+      "city": "Ajmer"
+    },
+    {
+      "rank": "666",
+      "college": "GNA University",
+      "city": "Phagwara"
+    },
+    {
+      "rank": "667",
+      "college": "Damodaram Sanjivayya National Law University",
+      "city": "Visakhapatnam ..."
+    },
+    {
+      "rank": "668",
+      "college": "Periyar Maniammai Institute of Science and Technology",
+      "city": "Vallam ..."
+    },
+    {
+      "rank": "669",
+      "college": "Jai Prakash Vishwavidyalaya",
+      "city": "Chapra"
+    },
+    {
+      "rank": "670",
+      "college": "Kadi Sarva Vishwavidyalaya",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "671",
+      "college": "University of Horticultural Sciences, Bagalkot",
+      "city": "Bagalkot ..."
+    },
+    {
+      "rank": "672",
+      "college": "Ponnaiyan Ramajayam Institute of Science and Technology",
+      "city": "Thanjavur"
+    },
+    {
+      "rank": "673",
+      "college": "Sampurnanand Sanskrit Vishvavidyalaya",
+      "city": "Varanasi"
+    },
+    {
+      "rank": "674",
+      "college": "Krantiguru Shyamji Krishna Verma Kachchh University",
+      "city": "Bhuj"
+    },
+    {
+      "rank": "675",
+      "college": "Sardar Patel University of Police, Security and Criminal Justice",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "676",
+      "college": "Atmiya University",
+      "city": "Rajkot"
+    },
+    {
+      "rank": "677",
+      "college": "Bengaluru North University",
+      "city": "Kolar"
+    },
+    {
+      "rank": "678",
+      "college": "Gondwana University",
+      "city": "Gadchiroli"
+    },
+    {
+      "rank": "679",
+      "college": "Karnataka State Women's University",
+      "city": "Bijapur ..."
+    },
+    {
+      "rank": "680",
+      "college": "G.L.S. University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "681",
+      "college": "Shri Venkateshwara University",
+      "city": "Gajraula"
+    },
+    {
+      "rank": "682",
+      "college": "Jagadguru Rambhadracharya Handicapped University",
+      "city": "Chitrakoot"
+    },
+    {
+      "rank": "683",
+      "college": "Srimanta Sankaradeva University of Health Sciences",
+      "city": "Guwahati"
+    },
+    {
+      "rank": "684",
+      "college": "Sangam University",
+      "city": "Bhilwara"
+    },
+    {
+      "rank": "685",
+      "college": "PDM University",
+      "city": "Bahadurgarh"
+    },
+    {
+      "rank": "686",
+      "college": "Vijayanagara Sri Krishnadevaraya University",
+      "city": "Bellary"
+    },
+    {
+      "rank": "687",
+      "college": "Indian Institute of Information Technology, Kottayam",
+      "city": "Kottayam"
+    },
+    {
+      "rank": "688",
+      "college": "K.K. University",
+      "city": "Biharsharif"
+    },
+    {
+      "rank": "689",
+      "college": "Baba Mastnath University",
+      "city": "Rohtak"
+    },
+    {
+      "rank": "690",
+      "college": "Desh Bhagat University",
+      "city": "Mandi Gobindgarh"
+    },
+    {
+      "rank": "691",
+      "college": "Sri Siddhartha Academy of Higher Education",
+      "city": "Tumkur"
+    },
+    {
+      "rank": "692",
+      "college": "Dr K.N. Modi University",
+      "city": "Newai"
+    },
+    {
+      "rank": "693",
+      "college": "Hemwati Nandan Bahuguna Uttarakhand Medical Education University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "694",
+      "college": "Mahatma Gandhi University, Meghalaya",
+      "city": "Khanapara"
+    },
+    {
+      "rank": "695",
+      "college": "Uttarakhand Sanskrit University",
+      "city": "Haridwar"
+    },
+    {
+      "rank": "696",
+      "college": "Datta Meghe Institute of Medical Sciences",
+      "city": "Nagpur"
+    },
+    {
+      "rank": "697",
+      "college": "Maharshi Panini Sanskrit Vishwavidyalaya",
+      "city": "Ujjain"
+    },
+    {
+      "rank": "698",
+      "college": "Karpagam Academy of Higher Education",
+      "city": "Coimbatore"
+    },
+    {
+      "rank": "699",
+      "college": "Usha Martin University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "700",
+      "college": "Kushabhau Thakre Patrakarita Avam Jansanchar University",
+      "city": "Raipur"
+    },
+    {
+      "rank": "701",
+      "college": "Jananayak Chandrashekhar University",
+      "city": "Ballia"
+    },
+    {
+      "rank": "702",
+      "college": "Kamdhenu University",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "703",
+      "college": "EIILM University",
+      "city": "Jorethang"
+    },
+    {
+      "rank": "704",
+      "college": "University of Agricultural Sciences, Raichur",
+      "city": "Raichur"
+    },
+    {
+      "rank": "705",
+      "college": "ICFAI University, Sikkim",
+      "city": "Gangtok"
+    },
+    {
+      "rank": "706",
+      "college": "O.P. Jindal University",
+      "city": "Raigarh"
+    },
+    {
+      "rank": "707",
+      "college": "Sri Devaraj Urs Academy of Higher Education and Research",
+      "city": "Kolar"
+    },
+    {
+      "rank": "708",
+      "college": "Manav Bharti University",
+      "city": "Solan"
+    },
+    {
+      "rank": "709",
+      "college": "Indian Institute of Public Health",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "710",
+      "college": "RKDF University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "711",
+      "college": "ICFAI University, Jharkhand",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "712",
+      "college": "Maulana Mazharul Haque Arabic and Persian University",
+      "city": "Patna"
+    },
+    {
+      "rank": "713",
+      "college": "Allahabad State University",
+      "city": "Allahabad"
+    },
+    {
+      "rank": "714",
+      "college": "National Institute of Pharmaceutical Education and Research, Rae Bareli",
+      "city": "Rae Bareli"
+    },
+    {
+      "rank": "715",
+      "college": "University of Technology",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "716",
+      "college": "Navrachana University",
+      "city": "Vadodara"
+    },
+    {
+      "rank": "717",
+      "college": "Nilamber-Pitamber University",
+      "city": "Medininagar"
+    },
+    {
+      "rank": "718",
+      "college": "Punyashlok Ahilyadevi Holkar University, Solapur",
+      "city": "Solapur"
+    },
+    {
+      "rank": "719",
+      "college": "IFTM University",
+      "city": "Moradabad"
+    },
+    {
+      "rank": "720",
+      "college": "Khwaja Moinuddin Chishti Language University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "721",
+      "college": "University of Agricultural Sciences, Dharwad",
+      "city": "Dharwad"
+    },
+    {
+      "rank": "722",
+      "college": "Indian Institute of Information Technology, Pune",
+      "city": "Pune"
+    },
+    {
+      "rank": "723",
+      "college": "Indian Institute of Information Technology, Kalyani",
+      "city": "Kalyani"
+    },
+    {
+      "rank": "724",
+      "college": "Sri Satya Sai University of Technology and Medical Sciences",
+      "city": "Sehore"
+    },
+    {
+      "rank": "725",
+      "college": "Karnataka Samskrit University",
+      "city": "Bangalore"
+    },
+    {
+      "rank": "726",
+      "college": "Sabarmati University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "727",
+      "college": "Govind Guru Tribal University",
+      "city": "Banswara"
+    },
+    {
+      "rank": "728",
+      "college": "Shri Govind Guru University",
+      "city": "Godhra"
+    },
+    {
+      "rank": "729",
+      "college": "Symbiosis University of Applied Sciences",
+      "city": "Indore"
+    },
+    {
+      "rank": "730",
+      "college": "Era University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "731",
+      "college": "Meenakshi Academy of Higher Education and Research",
+      "city": "Chennai"
+    },
+    {
+      "rank": "732",
+      "college": "Dakshina Bharat Hindi Prachar Sabha",
+      "city": "Chennai"
+    },
+    {
+      "rank": "733",
+      "college": "Geetanjali University",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "734",
+      "college": "GIET University",
+      "city": "Gunupur"
+    },
+    {
+      "rank": "735",
+      "college": "Indian Institute of Information Technology, Manipur",
+      "city": "Imphal"
+    },
+    {
+      "rank": "736",
+      "college": "Manipur Technical University",
+      "city": "Imphal"
+    },
+    {
+      "rank": "737",
+      "college": "Jharkhand Rai University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "738",
+      "college": "Guru Ravidas Ayurved University",
+      "city": "Hoshiarpur"
+    },
+    {
+      "rank": "739",
+      "college": "Utkal University of Culture",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "740",
+      "college": "Chhattisgarh Kamdhenu Vishwavidyalaya",
+      "city": "Raipur"
+    },
+    {
+      "rank": "741",
+      "college": "ISBM University",
+      "city": "Gariyaband"
+    },
+    {
+      "rank": "742",
+      "college": "The Neotia University",
+      "city": "Sarisha ..."
+    },
+    {
+      "rank": "743",
+      "college": "Sarguja University",
+      "city": "Ambikapur"
+    },
+    {
+      "rank": "744",
+      "college": "P P Savani University",
+      "city": "Kosamba"
+    },
+    {
+      "rank": "745",
+      "college": "BAHRA University",
+      "city": "Waknaghat ..."
+    },
+    {
+      "rank": "746",
+      "college": "ICFAI University, Jaipur",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "747",
+      "college": "Sri Konda Laxman Telangana State Horticultural University",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": "748",
+      "college": "Adesh University",
+      "city": "Bathinda"
+    },
+    {
+      "rank": "749",
+      "college": "Sanchi University of Buddhist-Indic Studies",
+      "city": "Sanchi"
+    },
+    {
+      "rank": "750",
+      "college": "Suamandeep Vidyapeeth",
+      "city": "Vadodara"
+    },
+    {
+      "rank": "751",
+      "college": "Diamond Harbour Women's University",
+      "city": "Sarisha"
+    },
+    {
+      "rank": "752",
+      "college": "Shridhar University",
+      "city": "Pilani"
+    },
+    {
+      "rank": "753",
+      "college": "Shri Vaishnav Vidyapeeth Vishwavidyalaya",
+      "city": "Indore"
+    },
+    {
+      "rank": "754",
+      "college": "MVN University",
+      "city": "Palwal"
+    },
+    {
+      "rank": "755",
+      "college": "West Bengal University of Teachers' Training, Education Planning and Administration",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "756",
+      "college": "National Institute of Pharmaceutical Education and Research, Kolkata",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "757",
+      "college": "Starex University",
+      "city": "Gurgaon"
+    },
+    {
+      "rank": "758",
+      "college": "Baddi University of Emerging Sciences and Technologies",
+      "city": "Baddi"
+    },
+    {
+      "rank": "759",
+      "college": "Sunrise University",
+      "city": "Alwar"
+    },
+    {
+      "rank": "760",
+      "college": "Guru Kashi University",
+      "city": "Talwandi Sabo"
+    },
+    {
+      "rank": "761",
+      "college": "University of Patanjali",
+      "city": "Haridwar"
+    },
+    {
+      "rank": "762",
+      "college": "Mahatma Gandhi Chitrakoot Gramoday Vishwavidyalaya",
+      "city": "Chitrakoot"
+    },
+    {
+      "rank": "763",
+      "college": "Tantia University",
+      "city": "Sri Ganganagar"
+    },
+    {
+      "rank": "764",
+      "college": "Srinivas University",
+      "city": "Mangalore"
+    },
+    {
+      "rank": "765",
+      "college": "Dr. B.R. Ambedkar University of Social Sciences",
+      "city": "Indore"
+    },
+    {
+      "rank": "766",
+      "college": "National Sports University",
+      "city": "Imphal"
+    },
+    {
+      "rank": "767",
+      "college": "Raffles University",
+      "city": "Neemrana"
+    },
+    {
+      "rank": "768",
+      "college": "Jodhpur National University",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "769",
+      "college": "St. Peter's Institute of Higher Education and Research",
+      "city": "Chennai"
+    },
+    {
+      "rank": "770",
+      "college": "Himalayan Garhwal University",
+      "city": "Pokhara Village"
+    },
+    {
+      "rank": "771",
+      "college": "Eternal University",
+      "city": "Baru Sahib"
+    },
+    {
+      "rank": "772",
+      "college": "Sarala Birla University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "773",
+      "college": "Martin Luther Christian University",
+      "city": "Shillong"
+    },
+    {
+      "rank": "774",
+      "college": "Shri Jagannath Sanskrit Vishvavidyalaya",
+      "city": "Puri"
+    },
+    {
+      "rank": "775",
+      "college": "Maharishi University",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "776",
+      "college": "Sanjay Ghodawat University",
+      "city": "Kolhapur"
+    },
+    {
+      "rank": "777",
+      "college": "Shri Jagdishprasad Jhabrmal Tibrewala University",
+      "city": "Jhunjhunu"
+    },
+    {
+      "rank": "778",
+      "college": "Sri Guru Ram Das University of Health Sciences",
+      "city": "Qila Jiwan Singh"
+    },
+    {
+      "rank": "779",
+      "college": "Atal Bihari Vajpayee Hindi Vishwavidyalaya",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "780",
+      "college": "University of Agricultural and Horticultural Sciences, Shivamogga",
+      "city": "Shimoga"
+    },
+    {
+      "rank": "781",
+      "college": "Apex Professional University",
+      "city": "Pasighat"
+    },
+    {
+      "rank": "782",
+      "college": "Sri Venkateswara Vedic University",
+      "city": "Tirupati"
+    },
+    {
+      "rank": "783",
+      "college": "Tamil Nadu National Law University",
+      "city": "Tiruchirappalli"
+    },
+    {
+      "rank": "784",
+      "college": "SRM University, Sikkim",
+      "city": "Gangtok"
+    },
+    {
+      "rank": "785",
+      "college": "JS University",
+      "city": "Shikohabad"
+    },
+    {
+      "rank": "786",
+      "college": "Maharaja Agrasen University",
+      "city": "Baddi"
+    },
+    {
+      "rank": "787",
+      "college": "NIILM University",
+      "city": "Kaithal"
+    },
+    {
+      "rank": "788",
+      "college": "Swarnim Startup and Innovation University",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "789",
+      "college": "Karnataka State Law University",
+      "city": "Hubli"
+    },
+    {
+      "rank": "790",
+      "college": "Motherhood University",
+      "city": "Bhagwanpur"
+    },
+    {
+      "rank": "791",
+      "college": "Mandsaur University",
+      "city": "Mandsaur"
+    },
+    {
+      "rank": "792",
+      "college": "Apex University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "793",
+      "college": "Mohammad Ali Jauhar University",
+      "city": "Rampur"
+    },
+    {
+      "rank": "794",
+      "college": "Kameshwar Singh Darbhanga Sanskrit University",
+      "city": "Darbhanga"
+    },
+    {
+      "rank": "795",
+      "college": "GSFC University",
+      "city": "Vadodara"
+    },
+    {
+      "rank": "796",
+      "college": "Al-Falah University",
+      "city": "Faridabad"
+    },
+    {
+      "rank": "797",
+      "college": "Oriental University",
+      "city": "Indore"
+    },
+    {
+      "rank": "798",
+      "college": "Raja Mansingh Tomar Music and Arts University",
+      "city": "Gwalior"
+    },
+    {
+      "rank": "799",
+      "college": "Maharishi Markandeshwar University, Solan",
+      "city": "Solan ..."
+    },
+    {
+      "rank": "800",
+      "college": "Jagan Nath University",
+      "city": "Jhajjar"
+    },
+    {
+      "rank": "801",
+      "college": "Swami Vivekanand University",
+      "city": "Sagar"
+    },
+    {
+      "rank": "802",
+      "college": "Sangai International University",
+      "city": "Churachandpur"
+    },
+    {
+      "rank": "803",
+      "college": "MIT University",
+      "city": "Shillong"
+    },
+    {
+      "rank": "804",
+      "college": "Monad University",
+      "city": "Hapur"
+    },
+    {
+      "rank": "805",
+      "college": "ICFAI University, Raipur",
+      "city": "Durg"
+    },
+    {
+      "rank": "806",
+      "college": "Raksha Shakti University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "807",
+      "college": "Vinayaka Missions Sikkim University",
+      "city": "Gangtok"
+    },
+    {
+      "rank": "808",
+      "college": "Rama Devi Women's University",
+      "city": "Bhubaneswar"
+    },
+    {
+      "rank": "809",
+      "college": "Seacom Skills University",
+      "city": "Bolpur"
+    },
+    {
+      "rank": "810",
+      "college": "Maharaja Bir Bikram University",
+      "city": "Agartala"
+    },
+    {
+      "rank": "811",
+      "college": "C.U. Shah University",
+      "city": "Wadhwan"
+    },
+    {
+      "rank": "812",
+      "college": "Rajiv Gandhi National Aviation University",
+      "city": "Raebareli"
+    },
+    {
+      "rank": "813",
+      "college": "Assam Rajiv Gandhi University of Cooperative Management",
+      "city": "Sivasagar"
+    },
+    {
+      "rank": "814",
+      "college": "Indrashil University",
+      "city": "Rajpur"
+    },
+    {
+      "rank": "815",
+      "college": "ICFAI University, Nagaland",
+      "city": "Dimapur"
+    },
+    {
+      "rank": "816",
+      "college": "Institute of Advanced Research",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": "817",
+      "college": "Dr. A.P.J Abdul Kalam University",
+      "city": "Indore"
+    },
+    {
+      "rank": "818",
+      "college": "Shri Guru Ram Rai University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "819",
+      "college": "Maharashtra National Law University, Aurangabad",
+      "city": "Aurangabad"
+    },
+    {
+      "rank": "820",
+      "college": "TeamLease Skills University",
+      "city": "Tarsali"
+    },
+    {
+      "rank": "821",
+      "college": "Kumar Bhaskar Varma Sanskrit and Ancient Studies University",
+      "city": "Nalbari"
+    },
+    {
+      "rank": "822",
+      "college": "Assam Women's University",
+      "city": "Jorhat"
+    },
+    {
+      "rank": "823",
+      "college": "ICFAI University, Himachal Pradesh",
+      "city": "Baddi"
+    },
+    {
+      "rank": "824",
+      "college": "ICFAI University, Mizoram",
+      "city": "Aizawl"
+    },
+    {
+      "rank": "825",
+      "college": "Plastindia International University",
+      "city": "Vapi"
+    },
+    {
+      "rank": "826",
+      "college": "Nehru Gram Bharati Vishwavidyalaya",
+      "city": "Allahabad"
+    },
+    {
+      "rank": "827",
+      "college": "ITM Vocational University",
+      "city": "Waghodia"
+    },
+    {
+      "rank": "828",
+      "college": "Arka Jain University",
+      "city": "Gamharia"
+    },
+    {
+      "rank": "829",
+      "college": "Sai Nath University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "830",
+      "college": "Maharishi Markandeshwar University, Sadopur",
+      "city": "Ambala"
+    },
+    {
+      "rank": "831",
+      "college": "Bhupal Nobles University",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "832",
+      "college": "Sri Sai University",
+      "city": "Palampur"
+    },
+    {
+      "rank": "833",
+      "college": "Bhatkhande Music Institute",
+      "city": "Lucknow"
+    },
+    {
+      "rank": "834",
+      "college": "KSGH Music and Performing Arts University",
+      "city": "Mysore"
+    },
+    {
+      "rank": "835",
+      "college": "Pratap University",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "836",
+      "college": "Pragyan International University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "837",
+      "college": "Indira Gandhi Technological and Medical Sciences University",
+      "city": "Ziro"
+    },
+    {
+      "rank": "838",
+      "college": "JSS Science and Technology University",
+      "city": "Mysore"
+    },
+    {
+      "rank": "839",
+      "college": "North East Frontier Technical University",
+      "city": "Aalo"
+    },
+    {
+      "rank": "840",
+      "college": "William Carey University, Meghalaya",
+      "city": "Shillong"
+    },
+    {
+      "rank": "841",
+      "college": "Indus International University",
+      "city": "Bathu"
+    },
+    {
+      "rank": "842",
+      "college": "Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya",
+      "city": "Nagpur"
+    },
+    {
+      "rank": "843",
+      "college": "ICFAI University, Meghalaya",
+      "city": "Tura"
+    },
+    {
+      "rank": "844",
+      "college": "Mahapurusha Srimanta Sankaradeva Viswavidyalaya",
+      "city": "Nagaon"
+    },
+    {
+      "rank": "845",
+      "college": "G.H. Raisoni University",
+      "city": "Saikheda"
+    },
+    {
+      "rank": "846",
+      "college": "The Sanskrit College and University",
+      "city": "Kolkata"
+    },
+    {
+      "rank": "847",
+      "college": "Sant Baba Bhag Singh University",
+      "city": "Jalandhar"
+    },
+    {
+      "rank": "848",
+      "college": "Haridev Joshi University of Journalism and Mass Communication",
+      "city": "Jaipur"
+    },
+    {
+      "rank": "849",
+      "college": "Khallikote University Berhampur",
+      "city": "Berhampur"
+    },
+    {
+      "rank": "850",
+      "college": "Rai Technology University",
+      "city": "Doddaballapura"
+    },
+    {
+      "rank": "851",
+      "college": "Sarvepalli Radhakrishnan University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "852",
+      "college": "Spicer Adventist University",
+      "city": "Pune"
+    },
+    {
+      "rank": "853",
+      "college": "Sankalchand Patel University",
+      "city": "Visnagar"
+    },
+    {
+      "rank": "854",
+      "college": "Abhilashi University",
+      "city": "Chailchowk"
+    },
+    {
+      "rank": "855",
+      "college": "Uttarakhand Aawasiya Vishwavidyalaya, Almora",
+      "city": "Almora"
+    },
+    {
+      "rank": "856",
+      "college": "Karnataka Janapada Vishwavidyalaya",
+      "city": "Shiggaon"
+    },
+    {
+      "rank": "857",
+      "college": "Jaypee University Anoopshahr",
+      "city": "Anupshahr"
+    },
+    {
+      "rank": "858",
+      "college": "St. Joseph University",
+      "city": "Dimapur"
+    },
+    {
+      "rank": "859",
+      "college": "Gujarat University of Transplantation Sciences",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "860",
+      "college": "Maharishi Arvind University, Jaipur",
+      "city": "Mundiya Purohitan"
+    },
+    {
+      "rank": "861",
+      "college": "Akal University",
+      "city": "Bathinda"
+    },
+    {
+      "rank": "862",
+      "college": "Arunodaya University",
+      "city": "Itanagar"
+    },
+    {
+      "rank": "863",
+      "college": "Karnataka State Rural Development and Panchayat Raj University",
+      "city": "Gadag"
+    },
+    {
+      "rank": "864",
+      "college": "Central University of Andhra Pradesh",
+      "city": "Anantapur"
+    },
+    {
+      "rank": "865",
+      "college": "Madhyanchal Professional University",
+      "city": "Bhopal"
+    },
+    {
+      "rank": "866",
+      "college": "CMJ University",
+      "city": "Jorabat"
+    },
+    {
+      "rank": "867",
+      "college": "State University of Performing and Visual Arts",
+      "city": "Rohtak"
+    },
+    {
+      "rank": "868",
+      "college": "Ras Bihari Bose Subharti University",
+      "city": "Dehradun"
+    },
+    {
+      "rank": "869",
+      "college": "Lakulish Yoga University",
+      "city": "Ahmedabad"
+    },
+    {
+      "rank": "870",
+      "college": "Manipur University of Culture",
+      "city": "Imphal"
+    },
+    {
+      "rank": "871",
+      "college": "Pacific Medical University",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "872",
+      "college": "Sharnbasva University",
+      "city": "Gulbarga"
+    },
+    {
+      "rank": "873",
+      "college": "Maulana Azad University, Jodhpur",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "874",
+      "college": "Jharkhand Raksha Shakti University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "875",
+      "college": "P.K. University",
+      "city": "Village Thanara"
+    },
+    {
+      "rank": "876",
+      "college": "Bareilly International University",
+      "city": "Bareilly"
+    },
+    {
+      "rank": "877",
+      "college": "YBN University",
+      "city": "Ranchi"
+    },
+    {
+      "rank": "878",
+      "college": "Malwanchal University",
+      "city": "Indore"
+    },
+    {
+      "rank": "879",
+      "college": "Sai Tirupati University",
+      "city": "Udaipur"
+    },
+    {
+      "rank": "880",
+      "college": "Shri Guru Ram Rai Education Mission",
+      "city": "Dehradun ..."
+    },
+    {
+      "rank": "Un",
+      "college": "Manav Rachna International Institute of Research and Studies",
+      "city": "Faridabad"
+    },
+    {
+      "rank": "Un",
+      "college": "Manav Rachna University",
+      "city": "Faridabad"
+    },
+    {
+      "rank": "Un",
+      "college": "Tamil Nadu Music and Fine Arts University",
+      "city": "Chennai"
+    },
+    {
+      "rank": "Un",
+      "college": "Sandip University, Sijoul",
+      "city": "Sijoul"
+    },
+    {
+      "rank": "Un",
+      "college": "Dr. Sarvepalli Radhakrishnan Rajasthan Ayurved University",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": "Legend: Un Unranked",
+      "college": "Add University",
+      "city": ""
+    }
+]

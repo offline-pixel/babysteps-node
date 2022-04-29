@@ -1,0 +1,18 @@
+category_,rate,cashback,exclusions,excluded_
+Kitchen Appliances*Kitchen & Housewares,9,4,0,Flight Bookings*Gift Cards*Bill Payments & Recharges
+Furniture | Outdoors*DIY & Tools,9,4,0,Video Gaming Consoles & Hardware
+Grocery | Pantry,8,3.2,0,Prime Membership
+Home | Baby,6,2.4,0,Amazon Fresh orders
+Automotive | Sports*Lawn & Garden,6,2.4,0,Amazon Pay Balance
+Computers*Consumer Electronics & Accessories (excl. Data Storage Devices),5,2,1,Apple: All iPhones - except iPhone 12 and iPhone SE
+Large Appliances*Movies | Music*Software | Video Games,5,2,0,Samsung Galaxy M12
+Industrial & Scientific Products*Books | Office Products*Pet Products | Toys,5,2,0,iQOO Z3 5G
+Apparel & Accessories*Luggage & Bags*Watches | Shoes,5,2,0,OnePlus 9R 5G
+Beauty & Personal care*Personal Care Appliances*Health,5,2,0,Redmi Note 10 Pro
+Jewellery (Excluding silver & Gold coins)*Gourmet | Kindle eBooks,5,2,0,Tecno: Tecno Spark 8C*Tecno Spark 8T
+Televisions*Mobile Accessories*Musical Instruments,4,1.6,0
+Bicycles & Heavy Gym Equipment*Tyres & Rims,2.5,1,0
+Data Storage Devices,2,.8,0
+Mobile Phones ^tnc,1,.4,1
+Gold & Silver Coins,0.2,.08,0
+All Other Categories,5,2,0

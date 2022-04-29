@@ -1,0 +1,887 @@
+rank,name,city
+1,University of Delhi,New Delhi
+2,Indian Institute of Technology Bombay,Mumbai
+3,Indian Institute of Technology Kanpur,Kanpur
+4,Indian Institute of Technology Madras,Chennai
+5,Indian Institute of Technology Delhi,New Delhi
+6,Indian Institute of Technology Kharagpur,Kharagpur
+7,Indian Institute of Science,Bangalore
+8,Jawaharlal Nehru University,New Delhi
+9,Savitribai Phule Pune University,Pune
+10,Vellore Institute of Technology,Vellore ...
+11,Manipal Academy of Higher Education,Manipal ...
+12,Amrita Vishwa Vidyapeetham,Coimbatore ...
+13,Narendra Dev University of Agriculture and Technology,Faizabad
+14,Amity University,Noida ...
+15,"International Institute of Information Technology, Hyderabad",Hyderabad
+16,Narsee Monjee Institute of Management and Higher Studies,Mumbai
+17,Birla Institute of Technology and Science,Pilani ...
+18,Anna University,Chennai
+19,Lovely Professional University,Phagwara
+20,All India Institute of Medical Sciences Delhi,New Delhi
+21,SRM Institute of Science and Technology,Chennai ...
+22,Tata Institute of Fundamental Research,Mumbai
+23,University of Mumbai,Mumbai
+24,Indian Institute of Technology Guwahati,Guwahati
+25,Tata Institute of Social Sciences,Mumbai
+26,Chandigarh University,Mohali ...
+27,University of Lucknow,Lucknow
+28,Jamia Millia Islamia,New Delhi
+29,Tamil Nadu Agricultural University,Coimbatore ...
+30,Indian Statistical Institute,Kolkata ...
+31,National Institute of Mental Health and Neuro Sciences,Bangalore
+32,Indian Institute of Technology Roorkee,Roorkee
+33,Banaras Hindu University,Varanasi
+34,Panjab University,Chandigarh
+35,Bangalore University,Bangalore
+36,Christ University,Bangalore
+37,University of Madras,Chennai
+38,National Institute of Design,Ahmedabad ...
+39,Osmania University,Hyderabad
+40,Dr. A.P.J. Abdul Kalam Technical University,Lucknow
+41,Aligarh Muslim University,Aligarh ...
+42,Baba Ghulam Shah Badhshah University,Rajouri
+43,Gujarat Technological University,Ahmedabad
+44,National Institute of Fashion Technology,New Delhi ...
+45,Guru Gobind Singh Indraprastha University,New Delhi
+46,Kurukshetra University,Kurukshetra ...
+47,Visvesvaraya Technological University,Belgaum
+48,CSK Himachal Pradesh Krishi Vishvavidyalaya,Palampur
+49,Cochin University of Science and Technology,Kochi
+50,University of Calcutta,Kolkata
+51,Chaudhary Charan Singh Haryana Agricultural University,Hisar
+52,"National Institute of Technology, Tiruchirappalli",Tiruchirappalli
+53,"National Institute of Technology, Rourkela",Rourkela
+54,Indian Institute of Technology Gandhinagar,Chandkheda
+55,Indian Institute of Technology Hyderabad,Eddumailaram
+56,University of Petroleum and Energy Studies,Dehradun
+57,Gandhi Institute of Technology and Management,Visakhapatnam
+58,"Chitkara University, Punjab",Punjab
+59,University of Allahabad,Allahabad
+60,The Maharaja Sayajirao University of Baroda,Vadodara
+61,University of Hyderabad,Hyderabad
+62,University of Rajasthan,Jaipur
+63,University of Mysore,Mysore ...
+64,"University of Engineering and Management, Kolkata",Kolkata
+65,Sharda University,Greater Noida
+66,Gulbarga University,Gulbarga
+67,"Maulana Abul Kalam Azad University of Technology, West Bengal",Kolkata
+68,Chhatrapati Shahu Ji Maharaj University,Kalyanpur
+69,Birla Institute of Technology,Ranchi ...
+70,Jadavpur University,Kolkata
+71,University of Kerala,Thiruvananthapuram
+72,"National Institute of Technology, Silchar",Silchar
+73,Nirma University,Ahmedabad
+74,KIIT University,Bhubaneswar
+75,Tamil Nadu Veterinary and Animal Sciences University,Chennai ...
+76,SASTRA University,Thanjavur ...
+77,Jawaharlal Nehru Technological University,Hyderabad ...
+78,International Institute of Information Technology Bangalore,Bangalore
+79,Mahatma Gandhi University,Kottayam
+80,Post Graduate Institute of Medical Education and Research,Chandigarh
+81,"National Institute of Technology, Calicut",Calicut
+82,"National Institute of Technology, Karnataka",Mangalore
+83,Chennai Mathematical Institute,Chennai
+84,Indian Maritime University,Chennai
+85,Gauhati University,Guwahati
+86,Thapar Institute of Engineering and Technology,Patiala
+87,Indian Institute of Information Technology Allahabad,Allahabad
+88,Madurai Kamaraj University,Madurai
+89,National Law School of India University,Bangalore
+90,Jain University,Bangalore
+91,O.P. Jindal Global University,Sonipat
+92,Patna University,Patna
+93,Lalit Narayan Mithila University,Darbhanga
+94,Delhi Technological University,New Delhi
+95,APJ Abdul Kalam Technological University,Thiruvananthapuram
+96,Indian Institute of Foreign Trade,New Delhi
+97,"Indian Institute of Science Education and Research, Pune",Pune
+98,Rajiv Gandhi Proudyogiki Vishwavidyalaya,Bhopal ...
+99,Chaudhary Charan Singh University,Meerut
+100,Devi Ahilya Vishwavidyalaya,Indore
+101,Indian School of Mines,Dhanbad
+102,Ashoka University,Sonipat
+103,Indira Gandhi Institute of Development Research,Mumbai
+104,"Indian Institute of Technology, BHU",Varanasi
+105,Alagappa University,Karaikudi
+106,Motilal Nehru National Institute of Technology Allahabad,Allahabad
+107,Guru Nanak Dev University,Amritsar
+108,University of Calicut,Tenhipalam ...
+109,North Eastern Hill University,Shillong ...
+110,Tamil Nadu Teacher Education University,Chennai
+111,Azim Premji University,Bangalore
+112,Annamalai University,Chidambaram
+113,Andhra University,Visakhapatnam
+114,Jawaharlal Nehru Centre for Advanced Scientific Research,Bangalore
+115,Jawaharlal Institute of Postgraduate Medical Education and Research,Puducherry
+116,Indian Institute of Technology Mandi,Mandi
+117,Symbiosis International University,Pune
+118,Veer Narmad South Gujarat University,Surat
+119,"Malaviya National Institute of Technology, Jaipur",Jaipur
+120,Kerala Agricultural University,Thrissur ...
+121,Bharathiar University,Coimbatore
+122,Dr. B R Ambedkar National Institute of Technology Jalandhar,Jalandhar
+123,Indraprastha Institute of Information Technology,New Delhi
+124,University of Burdwan,Bardhaman
+125,Gujarat University,Ahmedabad
+126,Pondicherry University,Puducherry ...
+127,CEPT University,Ahmedabad
+128,Shiv Nadar University,Dadri
+129,K L University,Vaddeswaram
+130,Govind Ballabh Pant University of Agriculture and Technology,Pantnagar
+131,Sardar Patel University,Vallabh Vidyanagar
+132,Bharathidasan University,Tiruchirappalli
+133,All India Institute of Medical Sciences Raipur,Raipur
+134,Indian Institute of Technology Bhubaneswar,Bhubaneswar
+135,"Sardar Vallabhbhai National Institute of Technology, Surat",Surat
+136,Tripura University,Agartala
+137,Tezpur University,Tezpur
+138,Kavayitri Bahinabai Chaudhari North Maharashtra University,Jalgaon ...
+139,Jamia Hamdard,New Delhi
+140,Jiwaji University,Gwalior
+141,Visva-Bharati University,Bolpur ...
+142,Punjab Agricultural University,Ludhiana ...
+143,University of Kashmir,Srinagar
+144,"National Institute of Technology, Durgapur",Durgapur
+145,Babasaheb Bhimrao Ambedkar University,Lucknow
+146,Indian Institute of Technology Jodhpur,Jodhpur
+147,"Indian Institute of Science Education and Research, Kolkata",Mohanpur
+148,Punjab Technical University,Kapurthala
+149,Nizam's Institute of Medical Sciences,Hyderabad
+150,Himachal Pradesh University,Shimla
+151,Saurashtra University,Rajkot
+152,Kannur University,Kannur
+153,All India Institute of Medical Sciences Jodhpur,Jodhpur
+154,Sree Chitra Thirunal Institute of Medical Sciences and Technology,Thiruvananthapuram
+155,Swami Vivekanand Subharti University,Meerut
+156,Gujarat National Law University,Gandhinagar
+157,Sathyabama Institute of Science and Technology,Chennai
+158,Indian Institute of Space Science and Technology,Thiruvananthapuram
+159,Mohanlal Sukhadia University,Udaipur
+160,NALSAR University of Law,Hyderabad
+161,Karunya Institute of Technology and Sciences,Coimbatore
+162,"National Institute of Technology, Warangal",Warangal
+163,Indian Agricultural Research Institute,New Delhi
+164,Goa University,Taleigao
+165,ITM University Raipur,Raipur
+166,The Northcap University,Gurgaon ...
+167,All India Institute of Medical Sciences Patna,Patna
+168,Shivaji University,Kolhapur
+169,"National Law University, Delhi",New Delhi
+170,Sanjay Gandhi Post Graduate Institute of Medical Sciences,Lucknow
+171,Invertis University,Bareilly
+172,Indian Institute of Technology Indore,Indore
+173,National Institute of Educational Planning and Administration,New Delhi
+174,Maulana Azad National Institute of Technology,Bhopal
+175,M.J.P. Rohilkhand University,Bareilly
+176,Presidency University,Kolkata
+177,Indian Institute of Technology Ropar,Rupnagar
+178,Bharati Vidyapeeth Deemed University,Pune ...
+179,Dibrugarh University,Dibrugarh
+180,Baba Farid University of Health Sciences,Faridkot
+181,Indian Institute of Technology Patna,Patna
+182,Makhanlal Chaturvedi Rashtriya Patrakarita Vishwavidyalaya,Bhopal ...
+183,National Dairy Research Institute,Karnal ...
+184,Galgotias University,Noida
+185,Padmashree Dr. D.Y. Patil Vidyapith,Navi Mumbai
+186,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar
+187,"Maharishi Markandeshwar University, Mullana",Mullana ...
+188,Dr. Vishwanath Karad MIT World Peace University,Pune
+189,Sikkim Manipal University,Gangtok
+190,Dr. Ram Manohar Lohia Avadh University,Faizabad
+191,"National Law University, Jodhpur",Jodhpur
+192,Ambedkar University Delhi,New Delhi
+193,Rajasthan Technical University Kota,Kota
+194,Swami Ramanand Teerth Marathwada University,Nanded
+195,Atal Bihari Vajpayee Vishwavidyalaya,Bilaspur
+196,Sri Ramachandra Institute of Higher Education and Research,Chennai
+197,Punjabi University Patiala,Patiala
+198,Acharya Nagarjuna University,Guntur
+199,Indian Veterinary Research Institute,Bareilly ...
+200,PES University,Bangalore
+201,Flame University,Pune
+202,PEC University of Technology,Chandigarh
+203,Sant Gadge Baba Amravati University,Amravati
+204,Dayalbagh Educational Institute,Agra
+205,University of North Bengal,Siliguri
+206,"National Institute of Technology, Raipur",Raipur
+207,Assam Agricultural University,Jorhat
+208,Periyar University,Salem
+209,NIIT University,Neemrana
+210,Pandit Deendayal Petroleum University,Gandhinagar
+211,Shoolini University of Biotechnology and Management Sciences,Solan
+212,Kuvempu University,Shimoga
+213,Banasthali Vidyapith,Banasthali ...
+214,Gujarat Vidyapith,Ahmedabad ...
+215,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah ...
+216,Pt. Bhagwat Dayal Sharma University of Health Sciences,Rohtak
+217,Maharashtra University of Health Sciences,Nashik
+218,BML Munjal University,Gurgaon
+219,Alliance University,Bangalore
+220,Marwadi University,Rajkot
+221,Hindustan Institute of Technology and Science,Chennai
+222,Gandhigram Rural University,Gandhigram
+223,Visvesvaraya National Institute of Technology,Nagpur
+224,International Institute for Population Sciences,Mumbai
+225,National University of Study and Research in Law,Ranchi
+226,Anand Agricultural University,Anand
+227,Veer Surendra Sai University of Technology,Sambalpur
+228,All India Institute of Medical Sciences Rishikesh,Rishikesh
+229,Ahmedabad University,Ahmedabad
+230,Bennett University,Greater Noida
+231,Mahatma Gandhi Kashi Vidyapeeth,Varanasi ...
+232,Deen Dayal Upadhyay Gorakhpur University,Gorakhpur
+233,The LNM Institute of Information Technology,Jaipur
+234,Veer Bahadur Singh Purvanchal University,Jaunpur
+235,Hemwati Nandan Bahuguna Garhwal University,Srinagar
+236,Jaipur National University,Jaipur
+237,Ganpat University,Mehsana
+238,University of Jammu,Jammu
+239,"Indian Institute of Science Education and Research, Bhopal",Bhopal
+240,Rani Durgavati Vishwavidyalaya,Jabalpur
+241,GD Goenka University,Gurgaon
+242,The West Bengal National University of Juridical Sciences,Kolkata
+243,Bidhan Chandra Krishi Vishwavidyalaya,Mohanpur
+244,Institute of Chemical Technology,Mumbai
+245,Dr. Shakuntala Misra National Rehabilitation University,Lucknow
+246,King George's Medical University,Lucknow
+247,Assam University,Silchar
+248,Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology,Chennai
+249,Hemchandracharya North Gujarat University,Patan
+250,"National Institute of Technology, Jamshedpur",Jamshedpur
+251,South Asian University,New Delhi
+252,Mangalore University,Mangalore
+253,"Indian Institute of Science Education and Research, Mohali",Mohali
+254,University of Kalyani,Kalyani
+255,Graphic Era University,Dehradun
+256,Parul University,Waghodia
+257,"National Institute of Technology, Kurukshetra",Kurukshetra
+258,Chhattisgarh Swami Vivekananda Technical University,Bhilai
+259,"Jawaharlal Nehru Technological University, Anantapur",Anantapur
+260,Suresh Gyan Vihar University,Jaipur
+261,"Indian Institute of Science Education and Research, Thiruvananthapuram",Thiruvananthapuram
+262,Rabindra Bharati University,Kolkata
+263,Maharaja Krishnakumarsinhji Bhavnagar University,Bhavnagar
+264,Navsari Agricultural University,Navsari ...
+265,Acharya N.G. Ranga Agricultural University,Hyderabad
+266,Rashtriya Sanskrit Sansthan University,New Delhi
+267,Guru Jambheshwar University of Science and Technology,Hisar
+268,Dr. N.T.R. University of Health Sciences,Vijayawada
+269,Manonmaniam Sundaranar University,Tirunelveli
+270,All India Institute of Medical Sciences Bhubaneswar,Bhubaneswar
+271,Jaypee Institute of Information Technology,Noida
+272,Bundelkhand University,Jhansi
+273,Magadh University,Bodh Gaya
+274,Mizoram University,Aizawl
+275,The English and Foreign Languages University,Hyderabad
+276,Integral University,Lucknow
+277,Dr. Bhimrao Ambedkar University,Agra
+278,REVA University,Bangalore
+279,Siksha 'O' Anusandhan,Bhubaneswar
+280,Saveetha Institute of Medical and Technical Sciences,Chennai
+281,Graphic Era Hill University,Clement Town
+282,Dr. Rajendra Prasad Central Agricultural University,Samastipur
+283,All India Institute of Medical Sciences Bhopal,Bhopal
+284,"National Institute of Technology, Hamirpur",Hamirpur
+285,Sikkim University,Tadong
+286,"School of Planning and Architecture, Delhi",New Delhi
+287,Teerthanker Mahaveer University,Moradabad
+288,Rajiv Gandhi University of Health Sciences,Bangalore
+289,Vidyasagar University,Midnapore
+290,West Bengal University of Health Sciences,Kolkata
+291,Uka Tarsadia University,Bardoli ...
+292,"National Institute of Technology, Patna",Patna
+293,NITTE University,Mangalore
+294,Manipur University,Imphal
+295,Dr. Ram Manohar Lohiya National Law University,Lucknow
+296,Nalanda University,Rajgir
+297,Maharaja Ganga Singh University,Bikaner
+298,Kalasalingam Academy of Research and Education,Krishnankoil
+299,Bharath Institute of Higher Education and Research,Chennai
+300,Dr. Babasaheb Ambedkar Marathwada University,Aurangabad
+301,Uttaranchal University,Dehradun
+302,"University of Agricultural Sciences, Bangalore",Bangalore ...
+303,TERI School of Advanced Studies,New Delhi
+304,Poornima University,Jaipur
+305,Quantum University,Roorkee
+306,Dharmsinh Desai University,Nadiad
+307,"National Institute of Technology, Meghalaya",Shillong
+308,Himachal Pradesh Technical University,Hamirpur
+309,Central University of Tamil Nadu,Thiruvarur
+310,Shri Mata Vaishno Devi University,Katra
+311,Rajiv Gandhi University of Knowledge Technologies,Hyderabad
+312,Shree Guru Gobind Singh Tricentenary University,Gurgaon
+313,Tamil Nadu Dr. M.G.R.Medical University,Chennai
+314,Deenbandhu Chhotu Ram University of Science and Technology,Murthal
+315,"National Institute of Technology, Agartala",Agartala
+316,Maulana Azad National Urdu University,Hyderabad
+317,Junagadh Agricultural University,Junagadh
+318,Sri Venkateswara University,Tirupati
+319,"Indian Institute of Information Technology, Vadodara",Gandhinagar
+320,Gokhale Institute of Politics and Economics,Pune
+321,Central University of Rajasthan,Ajmer
+322,JECRC University,Jaipur
+323,"National Institute of Technology, Srinagar",Srinagar
+324,Maharishi Dayanand University,Rohtak
+325,"Jawaharlal Nehru Technological University, Kakinada",Kakinada
+326,Assam Don Bosco University,Guwahati
+327,Indian Institute of Information Technology and Management Gwalior,Gwalior
+328,Sant Longowal Institute of Engineering and Technology,Sangrur
+329,Sri Venkateswara Institute of Medical Sciences,Tirupati
+330,Barkatullah University,Bhopal
+331,Vels University,Chennai
+332,"Indian Institute of Information Technology, Design and Manufacturing",Chennai
+333,North Eastern Regional Institute of Science and Technology,Itanagar
+334,GLA University,Chaumuhan
+335,Pandit Ravishankar Shukla University,Raipur
+336,SRM University Haryana,Sonipat
+337,Tilka Manjhi Bhagalpur University,Bhagalpur
+338,"National Institute of Technology, Goa",Farmagudi
+339,Brainware University,Barasat
+340,Maharaja Ranjit Singh Punjab Technical University,Bathinda
+341,Indira Gandhi National Tribal University,Amarkantak
+342,Dr. D.Y. Patil Vidyapeeth,Pune
+343,Central University of Jharkhand,Ranchi
+344,Guru Ghasidas Vishwavidyalaya,Bilaspur
+345,Jaypee University of Information Technology,Waknaghat
+346,Kakatiya University,Warangal ...
+347,DIT University,Dehradun
+348,Nagaland University,Kohima
+349,Centurion University of Technology and Management,Bhubaneswar
+350,Tamil Nadu Dr Ambedkar Law University,Chennai
+351,Uttarakhand Technical University,Dehradun
+352,Singhania University,Jhunjhunu
+353,Central University of South Bihar,Patna
+354,Arunachal University of Studies,Namsai
+355,Jawaharlal Nehru Krishi Vishwavidyalaya,Jabalpur
+356,Apeejay Stya University,Gurgaon
+357,Satavahana University,Karimnagar
+358,JK Lakshmipat University,Jaipur
+359,Gautam Buddha University,Greater Noida
+360,Pravara Institute of Medical Sciences,Loni
+361,University of Kota,Kota
+362,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,Srinagar
+363,"PDPM Indian Institute of Information Technology, Design and Manufacturing",Jabalpur
+364,Sri Sathya Sai Institute of Higher Learning,Anantapur
+365,"Mahatma Gandhi Central University, Motihari",Motihari
+366,NIMS University,Jaipur
+367,National Law Institute University,Bhopal
+368,VIT Bhopal University,Bhopal
+369,Vignan University,Guntur
+370,Biju Patnaik University of Technology,Rourkela ...
+371,Central University of Punjab,Bathinda
+372,Gurukul Kangri Vishwavidyalaya,Haridwar
+373,The IIS University,Jaipur
+374,Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha,New Delhi
+375,National Institute of Food Technology Entrepreneurship and Management,Sonipat
+376,JIS University,Agarpara
+377,"National Institute of Pharmaceutical Education and Research, S.A.S. Nagar",Mohali
+378,Assam Science and Technology University,Guwahati
+379,Mangalayatan University,Aligarh
+380,Rajiv Gandhi University,Itanagar
+381,Rajasthan University of Health Sciences,Jaipur
+382,Avinashilingam University,Coimbatore
+383,Central University of Haryana,Mahendragarh
+384,"National Institute of Technology, Delhi",New Delhi
+385,Adamas University,Barasat
+386,J.C. Bose University of Science and Technology,Faridabad
+387,"Indira Gandhi University, Meerpur",Rewari
+388,Karnatak University,Dharwad
+389,Dr. Hari Singh Gour University,Sagar
+390,Glocal University,Saharanpur
+391,Ramaiah University of Applied Sciences,Bangalore
+392,Utkal University,Bhubaneswar
+393,Guru Angad Dev Veterinary and Animal Sciences University,Ludhiana
+394,Vinayaka Mission's Research Foundation,Salem
+395,Kumaun University,Nainital
+396,Dr. Y.S. Parmar University of Horticulture and Forestry,Nauni
+397,Central University of Kashmir,Srinagar
+398,Noida International University,Greater Noida
+399,University of Gour Banga,Malda
+400,Odisha University of Agriculture and Technology,Bhubaneswar
+401,XIM University,Harirajpur ...
+402,Kerala University of Health Sciences,Thrissur
+403,Babasaheb Bhimrao Ambedkar Bihar University,Muzaffarpur
+404,The Indian Law Institute,New Delhi
+405,Sage University,Indore
+406,Ranchi University,Ranchi
+407,IFHE Hyderabad,Hyderabad
+408,Gujarat Ayurved University,Jamnagar
+409,Dr. M.G.R. Educational and Research Institute,Chennai
+410,Aliah University,Kolkata
+411,Pandit Deendayal Upadhyaya Shekhawati University,Sikar
+412,Indira Gandhi Institute of Medical Sciences,Patna
+413,Rajasthan University of Veterinary and Animal Sciences,Bikaner
+414,Ramakrishna Mission Vivekananda Educational and Research Institute,Belur ...
+415,Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth,Dapoli
+416,Sri Krishnadevaraya University,Anantapur ...
+417,Rayalaseema University,Kurnool
+418,Central University of Jammu,Jammu
+419,Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya,Wardha
+420,MIT Art Design and Technology University,Pune
+421,Hidayatullah National Law University,Raipur
+422,Central Institute of Fisheries Education,Mumbai
+423,"National Institute of Technology, Puducherry",Karaikal
+424,Rajiv Gandhi National University of Law,Patiala
+425,JSS Academy of Higher Education and Research,Mysore ...
+426,B.S. Abdur Rahman Crescent Institute of Science and Technology,Chennai
+427,Rajiv Gandhi National Institute of Youth Development,Sriperumbudur
+428,Madan Mohan Malaviya University of Technology,Gorakhpur
+429,Maharshi Dayanand Saraswati University,Ajmer
+430,Veer Kunwar Singh University,Arrah
+431,Sardarkrushinagar Dantiwada Agricultural University,Palanpur
+432,Vinoba Bhave University,Hazaribag
+433,Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur
+434,Adikavi Nannaya University,Rajahmundry
+435,Shreemati Nathibai Damodar Thackersey Women's University,Mumbai
+436,Chandra Shekhar Azad University of Agriculture and Technology,Kanpur
+437,Yenepoya University,Mangalore
+438,"ICFAI University, Tripura",Agartala ...
+439,Sri Padmavati Mahila Visvavidyalayam,Tirupati
+440,K.R. Mangalam University,Gurgaon
+441,Professor Jayashankar Telangana State Agricultural University,Hyderabad
+442,Mahatma Phule Krishi Vidyapeeth,Rahuri
+443,Dr. Babasaheb Ambedkar Technological University,Lonere
+444,People's University,Bhopal
+445,Kerala University of Fisheries and Ocean Studies,Kochi
+446,"School of Planning and Architecture, Bhopal",Bhopal
+447,"National Institute of Technology, Sikkim",Ravangla
+448,Santosh University,Ghaziabad
+449,Kaziranga University,Jorhat
+450,Swarnim Gujarat Sports University,Gandhinagar ...
+451,Sher-i-Kashmir Institute of Medical Sciences,Srinagar
+452,"National Institute of Technology, Nagaland",Dimapur
+453,"Sam Higginbottom Institute of Agriculture, Technology and Sciences",Allahabad
+454,Jagran Lakecity University,Bhopal
+455,"National Institute of Technology, Uttarakhand",Srinagar
+456,Tamil University,Thanjavur
+457,Chaudhary Devi Lal University,Sirsa
+458,Kolhan University,Chaibasa
+459,Cotton University,Guwahati
+460,Presidency University,Bangalore
+461,Central University of Himachal Pradesh,Kangra
+462,Charotar University of Science and Technology,Anand
+463,Palamuru University,Mahabubnagar
+464,Central University of Odisha,Koraput
+465,Tamil Nadu Dr. J. Jayalalithaa Fisheries University,Nagapattinam ...
+466,Bodoland University,Kokrajhar
+467,Jai Narain Vyas University,Jodhpur
+468,Swami Vivekananda Yoga Anusandhana Samsthana,Bangalore
+469,Lala Lajpat Rai University of Veterinary and Animal Sciences,Hisar
+470,Shobhit Institute of Engineering and Technology,Meerut
+471,Chaudhary Ranbir Singh University,Jind
+472,ITM University Gwalior,Gwalior
+473,"National Institute of Technology, Mizoram",Aizawl
+474,KLE University,Belgaum ...
+475,Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya,Gwalior
+476,Dr. C.V. Raman University,Bilaspur
+477,Sambalpur University,Burla
+478,Assam Down Town University,Guwahati
+479,Vasantrao Naik Marathwada Krishi Vidyapeeth,Parbhani ...
+480,Tumkur University,Tumkur
+481,KLE Technological University,Hubli
+482,Cooch Behar Panchanan Barma University,Cooch Behar
+483,Mother Teresa Women's University,Kodaikanal
+484,The National University of Advanced Legal Studies,Kochi
+485,Techno India University,Kolkata
+486,Doon University,Dehradun
+487,Chanakya National Law University,Patna
+488,"Indian Institute of Information Technology, Sri City",Sri City
+489,Berhampur University,Berhampur
+490,Sandip University,Nashik ...
+491,DAV University,Jalandhar
+492,Rama University,Kanpur
+493,IIHMR University,Jaipur
+494,"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad
+495,Delhi Pharmaceutical Sciences and Research University,New Delhi
+496,Chaudhary Bansi Lal University,Bhiwani
+497,Dayananda Sagar University,Bangalore
+498,"National Institute of Technology, Arunachal Pradesh",Yupia
+499,Dev Sanskriti Vishwavidyalaya,Shantikunj
+500,Sido Kanhu Murmu University,Dumka
+501,Central University of Karnataka,Gulbarga
+502,Rajiv Gandhi Institute of Petroleum Technology,Raebareli
+503,Central University of Gujarat,Gandhinagar
+504,Lingaya's University,Faridabad
+505,Tilak Maharashtra Vidyapeeth,Pune
+506,Awadhesh Pratap Singh University,Rewa
+507,Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya,Kanchipuram
+508,Central Institute of Higher Tibetan Studies,Varanasi
+509,Vikram University,Ujjain
+510,AKS University,Satna
+511,Aryabhatta Knowledge University,Patna
+512,Homi Bhabha National Institute,Mumbai
+513,Kerala Veterinary and Animal Sciences University,Pookode
+514,Rayat-Bahra University,Kharar
+515,Jain Vishva Bharati Institute,Ladnun
+516,National Law University Odisha,Cuttack
+517,Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu,Jammu
+518,Telangana University,Nizamabad
+519,Central University of Kerala,Kasaragod
+520,Indira Gandhi Krishi Vishwavidyalaya,Raipur
+521,Indira Gandhi Delhi Technical University for Women,New Delhi
+522,Mody University of Science and Technology,Lakshmangarh
+523,Kalinga University,Raipur
+524,IMS Unison University,Dehradun
+525,"International Institute of Information Technology, Bhubaneswar",Bhubaneswar
+526,Jawaharlal Nehru Architecture and Fine Arts University,Hyderabad
+527,Tamil Nadu Physical Education and Sports University,Chennai
+528,U.P. Pt. Deen Dayal Upadhyaya Veterinary Science University and Cattle Research Institute,Mathura
+529,"School of Planning and Architecture, Vijayawada",Vijayawada
+530,Forest Research Institute,Dehradun
+531,Maharaja Surajmal Brij University,Bharatpur
+532,Mewar University,Chittorgarh
+533,Bhartiya Skill Development University,Jaipur
+534,"National Institute of Pharmaceutical Education and Research, Guwahati",Guwahati
+535,Career Point University,Hamirpur ...
+536,Swami Keshwanand Rajasthan Agricultural University,Bikaner
+537,OPJS University,Churu
+538,Ajeenkya D.Y. Patil University,Pune
+539,Dr. Panjabrao Deshmukh Krishi Vidyapeeth,Akola
+540,Maharana Pratap University of Agriculture and Technology,Udaipur
+541,Kannada University,Vidyaranya
+542,Ravenshaw University,Cuttack
+543,Madhav University,Pindwara
+544,Maharashtra Animal and Fishery Sciences University,Nagpur
+545,Binod Bihari Mahto Koyalanchal University,Dhanbad
+546,Himalayan University,Itanagar
+547,Raj Rishi Bharthari Matsya University,Alwar
+548,Birsa Agricultural University,Ranchi
+549,Dr. B.R. Ambedkar University,Etcherla
+550,Harcourt Butler Technical University,Kanpur
+551,Krishna University,Machilipatnam
+552,Krishna Institute of Medical Sciences,Karad
+553,Karnavati University,Gandhinagar
+554,Maharishi University of Management and Technology,Bilaspur ...
+555,Lakshmibai National Institute of Physical Education,Gwalior
+556,Gujarat Forensic Sciences University,Gandhinagar
+557,"National Institute of Technology, Manipur",Imphal
+558,West Bengal State University,Barasat
+559,Maharaja Chhatrasal Bundelkhand University,Chhatarpur
+560,National Law University and Judicial Academy,Guwahati
+561,Sidho Kanho Birsha University,Purulia ...
+562,Babu Banarasi Das University,Lucknow
+563,Jagannath University,Jaipur
+564,Uttar Banga Krishi Viswavidyalaya,Pundibari
+565,"Institute of Infrastructure, Technology, Research and Management",Ahmedabad
+566,Central Agricultural University,Imphal
+567,Vishwakarma University,Pune
+568,Sri Balaji Vidyapeeth,Puducherry
+569,Thunchath Ezhuthachan Malayalam University,Tirur
+570,CMR University,Bangalore
+571,Potti Sreeramulu Telugu University,Hyderabad
+572,Vivekananda Global University,Jaipur
+573,Sree Sankaracharya University of Sanskrit,Kalady
+574,Sanskriti University,Mathura
+575,"Mahatma Gandhi University, Nalgonda",Nalgonda
+576,Thiruvalluvar University,Vellore
+577,"ICFAI University, Dehradun",Dehradun
+578,Sri Venkateswara Veterinary University,Tirupati
+579,Vikrama Simhapuri University,Nellore
+580,Uttar Pradesh University of Medical Sciences,Saifai
+581,"Rani Channamma University, Belagavi",Belagavi
+582,Anant National University,Ahmedabad
+583,Bihar Agricultural University,Bhagalpur
+584,Yogi Vemana University,Kadapa
+585,Sardar Vallabhbhai Patel University of Agriculture and Technology,Meerut
+586,"Indian Institute of Information Technology, Guwahati",Guwahati
+587,Indian Institute of Teacher Education,Gandhinagar
+588,Bankura University,Bankura
+589,Sri Dev Suman Uttarakhand University,Badshahithaul
+590,MGM Institute of Health Sciences,Navi Mumbai
+591,Uttarakhand Ayurved University,Dehradun
+592,Mahatma Gandhi University of Medical Sciences and Technology,Jaipur
+593,Rani Lakshmi Bai Central Agricultural University,Jhansi
+594,Rabindranath Tagore University,Mendua Village
+595,Rai University,Ahmedabad
+596,"Indian Institute of Information Technology, Lucknow",Lucknow
+597,Sir Padampat Singhania University,Udaipur
+598,Kerala Kalamandalam,Cheruthuruthi
+599,Maharishi Mahesh Yogi Vedic Vishwavidyalaya,Katni ...
+600,Swami Rama Himalayan University,Dehradun
+601,BLDE University,Bijapur
+602,"Chitkara University, Himachal Pradesh",Kalujhanda
+603,Indus University,Ahmedabad
+604,Sri Sri University,Cuttack
+605,Bastar Vishwavidyalaya,Bastar
+606,"Pacific University, India",Udaipur
+607,IEC University,Kalujhanda
+608,Gangadhar Meher University,Sambalpur
+609,"Indian Institute of Information Technology, Una",Una
+610,Shri Vishwakarma Skill University,Gurugram
+611,West Bengal University of Animal and Fishery Sciences,Kolkata
+612,Janardan Rai Nagar Rajasthan Vidhyapeeth University,Udaipur
+613,Medi-Caps University,Indore
+614,Children's University,Gandhinagar
+615,Jayoti Vidyapeeth Women's University,Jaipur
+616,Deccan College Post-Graduate and Research Institute,Pune
+617,Dr. Y.S.R. Horticultural University,Tadepalligudem
+618,Himgiri ZEE University,Dehradun
+619,Jagadguru Ramanandacharya Rajasthan Sanskrit University,Jaipur
+620,RK University,Rajkot
+621,Avantika University,Ujjain
+622,"Karnataka Veterinary, Animal and Fisheries Sciences University",Bidar
+623,AURO University,Surat
+624,Shree Somnath Sanskrit University,Veraval
+625,Bhupendra Narayan Mandal University,Madhepura
+626,Garden City University,Bangalore
+627,Cluster University of Jammu,Jammu
+628,Sushant University,Gurgaon
+629,IIMT University,Meerut
+630,"International Institute of Information Technology, Naya Raipur",Naya Raipur
+631,MATS University,Aarang
+632,Dravidian University,Kuppam
+633,Ayush and Health Sciences University of Chhattisgarh,Raipur
+634,Kazi Nazrul University,Asansol
+635,RIMT University,Mandi Gobindgarh ...
+636,"University of Science and Technology, Meghalaya",Baridua
+637,St. Xavier's University,Kolkata
+638,Davangere University,Davangere
+639,LNCT University,Bhopal
+640,Siddharth University,Kapilvastu
+641,Rashtriya Sanskrit Vidyapeetha,Tirupati
+642,Maharashtra National Law University Mumbai,Mumbai
+643,Nanaji Deshmukh Veterinary Science University,Jabalpur
+644,Fakir Mohan University,Balasore ...
+645,Sri Guru Granth Sahib World University,Fatehgarh Sahib
+646,"Maharashtra National Law University, Nagpur",Nagpur
+647,Bhagat Phool Singh Mahila Vishwavidyalaya,Khanpur Kalan
+648,Mahatma Jyoti Rao Phoole University,Jaipur
+649,Alakh Prakash Goyal Shimla University,Shimla
+650,Shri Ramswaroop Memorial University,Barabanki
+651,Jaypee University of Engineering and Technology,Raghogarh
+652,University of Trans-Disciplinary Health Sciences and Technology,Bangalore
+653,Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry,Bharsar
+654,North Orissa University,Baripada
+655,Nava Nalanda Mahavihara,Bargaon
+656,Institute of Advanced Studies in Education,Sardarshahr
+657,Bhakta Kavi Narsinh Mehta University,Khadia
+658,"National Institute of Pharmaceutical Education and Research, Ahmedabad",Ahmedabad
+659,Raiganj University,Raiganj
+660,Banda University of Agriculture and Technology,Banda
+661,Indira Kala Sangeet Vishwavidyalaya,Khairagarh
+662,"National Institute of Pharmaceutical Education and Research, Hajipur",Hajipur
+663,Arni University,Kathgarh
+664,Islamic University of Science and Technology,Pulwama
+665,Bhagwant University,Ajmer
+666,GNA University,Phagwara
+667,Damodaram Sanjivayya National Law University,Visakhapatnam ...
+668,Periyar Maniammai Institute of Science and Technology,Vallam ...
+669,Jai Prakash Vishwavidyalaya,Chapra
+670,Kadi Sarva Vishwavidyalaya,Gandhinagar
+671,"University of Horticultural Sciences, Bagalkot",Bagalkot ...
+672,Ponnaiyan Ramajayam Institute of Science and Technology,Thanjavur
+673,Sampurnanand Sanskrit Vishvavidyalaya,Varanasi
+674,Krantiguru Shyamji Krishna Verma Kachchh University,Bhuj
+675,"Sardar Patel University of Police, Security and Criminal Justice",Jodhpur
+676,Atmiya University,Rajkot
+677,Bengaluru North University,Kolar
+678,Gondwana University,Gadchiroli
+679,Karnataka State Women's University,Bijapur ...
+680,G.L.S. University,Ahmedabad
+681,Shri Venkateshwara University,Gajraula
+682,Jagadguru Rambhadracharya Handicapped University,Chitrakoot
+683,Srimanta Sankaradeva University of Health Sciences,Guwahati
+684,Sangam University,Bhilwara
+685,PDM University,Bahadurgarh
+686,Vijayanagara Sri Krishnadevaraya University,Bellary
+687,"Indian Institute of Information Technology, Kottayam",Kottayam
+688,K.K. University,Biharsharif
+689,Baba Mastnath University,Rohtak
+690,Desh Bhagat University,Mandi Gobindgarh
+691,Sri Siddhartha Academy of Higher Education,Tumkur
+692,Dr K.N. Modi University,Newai
+693,Hemwati Nandan Bahuguna Uttarakhand Medical Education University,Dehradun
+694,"Mahatma Gandhi University, Meghalaya",Khanapara
+695,Uttarakhand Sanskrit University,Haridwar
+696,Datta Meghe Institute of Medical Sciences,Nagpur
+697,Maharshi Panini Sanskrit Vishwavidyalaya,Ujjain
+698,Karpagam Academy of Higher Education,Coimbatore
+699,Usha Martin University,Ranchi
+700,Kushabhau Thakre Patrakarita Avam Jansanchar University,Raipur
+701,Jananayak Chandrashekhar University,Ballia
+702,Kamdhenu University,Gandhinagar
+703,EIILM University,Jorethang
+704,"University of Agricultural Sciences, Raichur",Raichur
+705,"ICFAI University, Sikkim",Gangtok
+706,O.P. Jindal University,Raigarh
+707,Sri Devaraj Urs Academy of Higher Education and Research,Kolar
+708,Manav Bharti University,Solan
+709,Indian Institute of Public Health,Gandhinagar
+710,RKDF University,Bhopal
+711,"ICFAI University, Jharkhand",Ranchi
+712,Maulana Mazharul Haque Arabic and Persian University,Patna
+713,Allahabad State University,Allahabad
+714,"National Institute of Pharmaceutical Education and Research, Rae Bareli",Rae Bareli
+715,University of Technology,Jaipur
+716,Navrachana University,Vadodara
+717,Nilamber-Pitamber University,Medininagar
+718,"Punyashlok Ahilyadevi Holkar University, Solapur",Solapur
+719,IFTM University,Moradabad
+720,Khwaja Moinuddin Chishti Language University,Lucknow
+721,"University of Agricultural Sciences, Dharwad",Dharwad
+722,"Indian Institute of Information Technology, Pune",Pune
+723,"Indian Institute of Information Technology, Kalyani",Kalyani
+724,Sri Satya Sai University of Technology and Medical Sciences,Sehore
+725,Karnataka Samskrit University,Bangalore
+726,Sabarmati University,Ahmedabad
+727,Govind Guru Tribal University,Banswara
+728,Shri Govind Guru University,Godhra
+729,Symbiosis University of Applied Sciences,Indore
+730,Era University,Lucknow
+731,Meenakshi Academy of Higher Education and Research,Chennai
+732,Dakshina Bharat Hindi Prachar Sabha,Chennai
+733,Geetanjali University,Udaipur
+734,GIET University,Gunupur
+735,"Indian Institute of Information Technology, Manipur",Imphal
+736,Manipur Technical University,Imphal
+737,Jharkhand Rai University,Ranchi
+738,Guru Ravidas Ayurved University,Hoshiarpur
+739,Utkal University of Culture,Bhubaneswar
+740,Chhattisgarh Kamdhenu Vishwavidyalaya,Raipur
+741,ISBM University,Gariyaband
+742,The Neotia University,Sarisha ...
+743,Sarguja University,Ambikapur
+744,P P Savani University,Kosamba
+745,BAHRA University,Waknaghat ...
+746,"ICFAI University, Jaipur",Jaipur
+747,Sri Konda Laxman Telangana State Horticultural University,Hyderabad
+748,Adesh University,Bathinda
+749,Sanchi University of Buddhist-Indic Studies,Sanchi
+750,Suamandeep Vidyapeeth,Vadodara
+751,Diamond Harbour Women's University,Sarisha
+752,Shridhar University,Pilani
+753,Shri Vaishnav Vidyapeeth Vishwavidyalaya,Indore
+754,MVN University,Palwal
+755,"West Bengal University of Teachers' Training, Education Planning and Administration",Kolkata
+756,"National Institute of Pharmaceutical Education and Research, Kolkata",Kolkata
+757,Starex University,Gurgaon
+758,Baddi University of Emerging Sciences and Technologies,Baddi
+759,Sunrise University,Alwar
+760,Guru Kashi University,Talwandi Sabo
+761,University of Patanjali,Haridwar
+762,Mahatma Gandhi Chitrakoot Gramoday Vishwavidyalaya,Chitrakoot
+763,Tantia University,Sri Ganganagar
+764,Srinivas University,Mangalore
+765,Dr. B.R. Ambedkar University of Social Sciences,Indore
+766,National Sports University,Imphal
+767,Raffles University,Neemrana
+768,Jodhpur National University,Jodhpur
+769,St. Peter's Institute of Higher Education and Research,Chennai
+770,Himalayan Garhwal University,Pokhara Village
+771,Eternal University,Baru Sahib
+772,Sarala Birla University,Ranchi
+773,Martin Luther Christian University,Shillong
+774,Shri Jagannath Sanskrit Vishvavidyalaya,Puri
+775,Maharishi University,Lucknow
+776,Sanjay Ghodawat University,Kolhapur
+777,Shri Jagdishprasad Jhabrmal Tibrewala University,Jhunjhunu
+778,Sri Guru Ram Das University of Health Sciences,Qila Jiwan Singh
+779,Atal Bihari Vajpayee Hindi Vishwavidyalaya,Bhopal
+780,"University of Agricultural and Horticultural Sciences, Shivamogga",Shimoga
+781,Apex Professional University,Pasighat
+782,Sri Venkateswara Vedic University,Tirupati
+783,Tamil Nadu National Law University,Tiruchirappalli
+784,"SRM University, Sikkim",Gangtok
+785,JS University,Shikohabad
+786,Maharaja Agrasen University,Baddi
+787,NIILM University,Kaithal
+788,Swarnim Startup and Innovation University,Gandhinagar
+789,Karnataka State Law University,Hubli
+790,Motherhood University,Bhagwanpur
+791,Mandsaur University,Mandsaur
+792,Apex University,Jaipur
+793,Mohammad Ali Jauhar University,Rampur
+794,Kameshwar Singh Darbhanga Sanskrit University,Darbhanga
+795,GSFC University,Vadodara
+796,Al-Falah University,Faridabad
+797,Oriental University,Indore
+798,Raja Mansingh Tomar Music and Arts University,Gwalior
+799,"Maharishi Markandeshwar University, Solan",Solan ...
+800,Jagan Nath University,Jhajjar
+801,Swami Vivekanand University,Sagar
+802,Sangai International University,Churachandpur
+803,MIT University,Shillong
+804,Monad University,Hapur
+805,"ICFAI University, Raipur",Durg
+806,Raksha Shakti University,Ahmedabad
+807,Vinayaka Missions Sikkim University,Gangtok
+808,Rama Devi Women's University,Bhubaneswar
+809,Seacom Skills University,Bolpur
+810,Maharaja Bir Bikram University,Agartala
+811,C.U. Shah University,Wadhwan
+812,Rajiv Gandhi National Aviation University,Raebareli
+813,Assam Rajiv Gandhi University of Cooperative Management,Sivasagar
+814,Indrashil University,Rajpur
+815,"ICFAI University, Nagaland",Dimapur
+816,Institute of Advanced Research,Gandhinagar
+817,Dr. A.P.J Abdul Kalam University,Indore
+818,Shri Guru Ram Rai University,Dehradun
+819,"Maharashtra National Law University, Aurangabad",Aurangabad
+820,TeamLease Skills University,Tarsali
+821,Kumar Bhaskar Varma Sanskrit and Ancient Studies University,Nalbari
+822,Assam Women's University,Jorhat
+823,"ICFAI University, Himachal Pradesh",Baddi
+824,"ICFAI University, Mizoram",Aizawl
+825,Plastindia International University,Vapi
+826,Nehru Gram Bharati Vishwavidyalaya,Allahabad
+827,ITM Vocational University,Waghodia
+828,Arka Jain University,Gamharia
+829,Sai Nath University,Ranchi
+830,"Maharishi Markandeshwar University, Sadopur",Ambala
+831,Bhupal Nobles University,Udaipur
+832,Sri Sai University,Palampur
+833,Bhatkhande Music Institute,Lucknow
+834,KSGH Music and Performing Arts University,Mysore
+835,Pratap University,Jaipur
+836,Pragyan International University,Ranchi
+837,Indira Gandhi Technological and Medical Sciences University,Ziro
+838,JSS Science and Technology University,Mysore
+839,North East Frontier Technical University,Aalo
+840,"William Carey University, Meghalaya",Shillong
+841,Indus International University,Bathu
+842,Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya,Nagpur
+843,"ICFAI University, Meghalaya",Tura
+844,Mahapurusha Srimanta Sankaradeva Viswavidyalaya,Nagaon
+845,G.H. Raisoni University,Saikheda
+846,The Sanskrit College and University,Kolkata
+847,Sant Baba Bhag Singh University,Jalandhar
+848,Haridev Joshi University of Journalism and Mass Communication,Jaipur
+849,Khallikote University Berhampur,Berhampur
+850,Rai Technology University,Doddaballapura
+851,Sarvepalli Radhakrishnan University,Bhopal
+852,Spicer Adventist University,Pune
+853,Sankalchand Patel University,Visnagar
+854,Abhilashi University,Chailchowk
+855,"Uttarakhand Aawasiya Vishwavidyalaya, Almora",Almora
+856,Karnataka Janapada Vishwavidyalaya,Shiggaon
+857,Jaypee University Anoopshahr,Anupshahr
+858,St. Joseph University,Dimapur
+859,Gujarat University of Transplantation Sciences,Ahmedabad
+860,"Maharishi Arvind University, Jaipur",Mundiya Purohitan
+861,Akal University,Bathinda
+862,Arunodaya University,Itanagar
+863,Karnataka State Rural Development and Panchayat Raj University,Gadag
+864,Central University of Andhra Pradesh,Anantapur
+865,Madhyanchal Professional University,Bhopal
+866,CMJ University,Jorabat
+867,State University of Performing and Visual Arts,Rohtak
+868,Ras Bihari Bose Subharti University,Dehradun
+869,Lakulish Yoga University,Ahmedabad
+870,Manipur University of Culture,Imphal
+871,Pacific Medical University,Udaipur
+872,Sharnbasva University,Gulbarga
+873,"Maulana Azad University, Jodhpur",Jodhpur
+874,Jharkhand Raksha Shakti University,Ranchi
+875,P.K. University,Village Thanara
+876,Bareilly International University,Bareilly
+877,YBN University,Ranchi
+878,Malwanchal University,Indore
+879,Sai Tirupati University,Udaipur
+880,Shri Guru Ram Rai Education Mission,Dehradun ...
+Un,Manav Rachna International Institute of Research and Studies,Faridabad
+Un,Manav Rachna University,Faridabad
+Un,Tamil Nadu Music and Fine Arts University,Chennai
+Un,"Sandip University, Sijoul",Sijoul
+Un,Dr. Sarvepalli Radhakrishnan Rajasthan Ayurved University,Jodhpur
+Legend: Un Unranked,Add University,
