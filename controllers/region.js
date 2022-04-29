@@ -1,7 +1,6 @@
 // const ErrorResponse = require('../utils/errorResponse');
 const asyncHandler = require('../middleware/async');
-const Country = require('../models/Region');
-const State = require('../models/Region');
+const { Country, State } = require('../models/Region');
 const csvParser = require('../utils/csv-parser');
 const pdfParser = require('../utils/pdf-parser');
 

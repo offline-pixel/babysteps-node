@@ -1,6 +1,6 @@
 // const ErrorResponse = require('../utils/errorResponse');
 const asyncHandler = require('../middleware/async');
-const UserInvoice = require('../models/affiliate');
+const UserInvoice = require('../models/Affiliate');
 const csvParser = require('../utils/csv-parser');
 const pdfParser = require('../utils/pdf-parser');
 
