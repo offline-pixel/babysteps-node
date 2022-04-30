@@ -47,6 +47,10 @@ const UserSchema = new mongoose.Schema({
         type: String,
         select: false,
     },
+    _ip46: {
+        type: String,
+        select: false,
+    },
     _ua: {
         type: String,
         select: false,
