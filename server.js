@@ -51,11 +51,7 @@ const auth = require('./routes/auth');
 let whitelist = [ 'https://localhost:55586', 'http://localhost:55586' ]
 let corsOptions = {
   origin: function (origin, callback) {
-    if(!origin){//for bypassing postman req with  no origin
-      console.log(`soemone we allowed. We allowed unknown- ${origin}`.red.bold)
-      return callback(null, true);
-    }
-    if (whitelist.includes(origin)) {
+    if (whitelist.includes(origin) || !origin) {
       console.log(`we allowed- ${origin}`.gray.bold)
       callback(null, true)
     } else {
@@ -70,21 +66,20 @@ const app = express();
 const secured = https.createServer(credentials, app);
 const unsecured = http.createServer(app);
 
-
+if (process.env.NODE_ENV === 'development') {
+  app.use(morgan('dev'))
+  // app.options('*', cors(corsOptions)) // Enable pre-flight for all routes. not working
+  app.use(cors(corsOptions));
+} else {
+  app.use(cors());
+}
 app.use(bodyParser.json({ limit: "2mb" }));
-// app.options('*', cors(corsOptions)) // Enable pre-flight for all routes. not working
-app.use(cors());
-// app.use(cors(corsOptions));
 app.use(compression());
 // app.set("etag", false) // disabled because browser do not bother to cache my results in your internal cache
 // commenting etag results in better results to few requests but as a variable.
 // I checked on localhost and 1.4kb CSV request data was taking 51ms to 4ms time. Without it was a constant ~19ms
 
 // app.use(upload());
-// Dev logging middleware
-if (process.env.NODE_ENV === 'development') {
-  app.use(morgan('dev'));
-}
 // Sanitize data
 app.use(mongoSanitize());
 // Body parser
@@ -98,10 +93,7 @@ app.use(helmet());
 // Prevent XSS attacks
 app.use(xss());
 // Rate limiting
-const limiter = rateLimit({
-  windowMs: 10 * 60 * 1000, // 10 mins
-  max: 100
-});
+const limiter = rateLimit({windowMs: 10 * 60 * 1000, max: 100 });
 app.use(limiter);
 // Prevent http param pollution
 app.use(hpp());
@@ -118,23 +110,18 @@ app.use(errorHandler);
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', express.static('dist/ui'))
 // Handles any requests that don't match the ones above, will solve reloading issue on any angular route
-app.get('/*', (req,res) =>{
-  res.sendFile(path.join(__dirname+'/dist/ui/index.html'));
-})
+app.get('/*', (req,res) => res.sendFile(path.join(__dirname+'/dist/ui/index.html')))
 
 const PORT = process.env.PORT || 8080;
-// unsecured.listen(8080);
-// secured.listen(8443);
-const server = unsecured.listen(
-  PORT,
-  console.log(
-    `Server running in ${process.env.NODE_ENV} mode on port ${PORT}`.yellow.bold
-  )
-);
+let server
+if ( process.env.NODE_ENV === 'development' ){
+  server = unsecured.listen(PORT, console.log( `Server - ${process.env.NODE_ENV}, port - ${PORT}`.yellow.bold));
+} else {
+  server = unsecured.listen(PORT, console.log( `Server - ${process.env.NODE_ENV}, port - ${PORT}`.yellow.bold));
+}
 
 // Handle unhandled promise rejections
 process.on('unhandledRejection', (err, promise) => {
   console.log(`Error: ${err.message}`.red);
-  // Close server & exit process
   server.close(() => process.exit(1));
 });

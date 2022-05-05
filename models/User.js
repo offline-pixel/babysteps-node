@@ -38,13 +38,14 @@ const UserSchema = new mongoose.Schema({
     upi: {
         type: String,
         required: [true, 'Please add an UPI address to receive cashback'],
+        unique: true,
         select: false,
     },
     urlShort: {
         type: String,
     },
     _ip: {
-        type: String,
+        type: Object,
         select: false,
     },
     _ip46: {

@@ -16,7 +16,7 @@ const errorHandler = (err, req, res, next) => {
 
   // Mongoose duplicate key
   if ( err.code === 11000 ) {
-    const message = 'This File is already uploaded. Please use different file';
+    const message = 'One of the field is already registered with us. Please use different entry fields';
     error = new ErrorResponse(message, 400);
   }
 
