@@ -49,6 +49,10 @@ exports.getUserInvoices = asyncHandler(async (req, res, next) => {
 const sendData = async (file, statusCode, res) => {
   console.log(`controller - /${file}`)
   let data = await csvParser.read(`./_data/_affiliates/_${file}/${file}.csv`)
+  await pdfParser.read(`./_data/_affiliates/_amazon/_invoices/2020-1.pdf`)
+  await pdfParser.read(`./_data/_affiliates/_amazon/_invoices/2020-11.pdf`)
+  // await pdfParser.read(`./_data/_affiliates/_amazon/_invoices/2021-1.pdf`)
+  // await pdfParser.read(`./_data/_affiliates/_amazon/_invoices/2022-01.pdf`)
   data = data.map( el => {
     return `${el.category_}~${el.rate}~${el.cashback}~${el.exclusions}~${el.excluded_}`
   })
